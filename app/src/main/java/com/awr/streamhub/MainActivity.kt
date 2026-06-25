@@ -21,6 +21,7 @@ import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideInVertically
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.animation.slideOutVertically
+import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -636,5 +637,3 @@ fun ChipButton(text: String, selected: Boolean, onClick: () -> Unit) {
     }
 }
 
-private infix fun androidx.compose.animation.EnterTransition.togetherWith(exit: androidx.compose.animation.ExitTransition) =
-    androidx.compose.animation.togetherWith(exit)
