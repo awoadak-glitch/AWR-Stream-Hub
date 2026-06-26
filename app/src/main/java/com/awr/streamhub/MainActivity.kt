@@ -3,29 +3,21 @@ package com.awr.streamhub
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.ExperimentalAnimationApi
+import androidx.compose.animation.Crossfade
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.animateFloat
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.infiniteRepeatable
 import androidx.compose.animation.core.rememberInfiniteTransition
-import androidx.compose.animation.core.spring
 import androidx.compose.animation.core.tween
-import androidx.compose.animation.fadeIn
-import androidx.compose.animation.fadeOut
-import androidx.compose.animation.scaleIn
-import androidx.compose.animation.slideInHorizontally
-import androidx.compose.animation.slideInVertically
-import androidx.compose.animation.slideOutHorizontally
-import androidx.compose.animation.slideOutVertically
-import androidx.compose.animation.togetherWith
-import androidx.compose.foundation.Canvas
+import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.gestures.snapping.rememberSnapFlingBehavior
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -33,56 +25,41 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
-import androidx.compose.foundation.layout.asPaddingValues
-import androidx.compose.foundation.layout.aspectRatio
-import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.navigationBars
-import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.statusBars
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Add
-import androidx.compose.material.icons.filled.AutoAwesome
-import androidx.compose.material.icons.filled.Bolt
-import androidx.compose.material.icons.filled.Category
-import androidx.compose.material.icons.filled.Download
-import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.LocalMovies
-import androidx.compose.material.icons.filled.MovieFilter
-import androidx.compose.material.icons.filled.PlayArrow
-import androidx.compose.material.icons.filled.Search
-import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.filled.Subtitles
-import androidx.compose.material.icons.filled.Translate
-import androidx.compose.material.icons.outlined.Animation
-import androidx.compose.material.icons.outlined.RequestPage
-import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.Divider
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
+import androidx.compose.material3.FilterChip
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.ModalBottomSheet
+import androidx.compose.material3.NavigationBar
+import androidx.compose.material3.NavigationBarItem
+import androidx.compose.material3.NavigationBarItemDefaults
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.runtime.Composable
@@ -95,522 +72,437 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
-import androidx.compose.ui.draw.blur
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.draw.scale
-import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.Path
-import androidx.compose.ui.graphics.graphicsLayer
-import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import kotlin.math.sin
+import kotlinx.coroutines.delay
 
-private val Gold = Color(0xFFFFD54A)
-private val Gold2 = Color(0xFFFFA927)
-private val Night = Color(0xFF06070B)
-private val CardBlack = Color(0xFF11131C)
-private val Soft = Color(0xFFB7B3A5)
-private val NeonBlue = Color(0xFF55D7FF)
-private val Pink = Color(0xFFFF5C8A)
-private val Green = Color(0xFF65F2A5)
+private val Bg = Color(0xFF05050A)
+private val Panel = Color(0xFF10111A)
+private val Panel2 = Color(0xFF171826)
+private val Gold = Color(0xFFFFD36A)
+private val Orange = Color(0xFFFF8C42)
+private val Red = Color(0xFFFF3F6E)
+private val Cyan = Color(0xFF4DE8FF)
+private val Violet = Color(0xFF9E7BFF)
+private val SoftText = Color(0xFFD7D7E7)
+private val Muted = Color(0xFF8B8EA7)
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent { AwrStreamHubApp() }
+        setContent { StreamHubApp() }
     }
+}
+
+enum class HubTab(val label: String, val icon: String) {
+    Home("Home", "✦"), Movies("Movies", "▣"), Drama("K-Drama", "◆"), Anime("Anime", "◈"), Search("Search", "⌕"), Requests("Requests", "⚡")
 }
 
 data class MediaItem(
     val id: String,
     val title: String,
+    val original: String,
     val type: String,
     val year: String,
-    val score: String,
-    val tag: String,
-    val accent: Color,
-    val posterCode: String,
+    val rating: String,
+    val badge: String,
+    val language: String,
+    val genres: List<String>,
     val overview: String,
-    val episodes: String = "Movie",
-    val subtitleStatus: String = "Ready"
+    val accentA: Color,
+    val accentB: Color,
+    val subtitle: String,
+    val episodes: Int = 1,
+    val progress: Float = 0f
 )
 
-data class RequestItem(val query: String, val category: String, val status: String)
+data class JobItem(val title: String, val status: String, val progress: Float, val tag: String)
 
-enum class Tab(val label: String, val icon: ImageVector) {
-    Home("Home", Icons.Default.Home),
-    Movies("Movies", Icons.Default.LocalMovies),
-    KDrama("K-Drama", Icons.Default.MovieFilter),
-    Anime("Anime", Icons.Outlined.Animation),
-    Search("Search", Icons.Default.Search),
-    Requests("Requests", Icons.Outlined.RequestPage),
-    Settings("Settings", Icons.Default.Settings)
-}
-
-private val demoItems = listOf(
-    MediaItem("m1", "Shadow Protocol", "Movie", "2025", "9.1", "Action", Gold, "SP", "A dark agent story with fast chases, secret files, and a missing subtitle pack."),
-    MediaItem("m2", "Midnight Seoul", "K-Drama", "2024", "8.8", "Romance", Pink, "MS", "A stylish Korean drama about fame, silence, and choices under neon rain.", "16 Episodes"),
-    MediaItem("m3", "Blade Sakura", "Anime", "2025", "9.4", "Shonen", NeonBlue, "BS", "A cinematic anime journey with sword fights, friendship, and emotional arcs.", "24 Episodes"),
-    MediaItem("m4", "The Last Signal", "Movie", "2023", "8.5", "Sci-Fi", Green, "LS", "A signal from deep space changes one translator app forever."),
-    MediaItem("m5", "Love Contract", "K-Drama", "2025", "8.7", "Drama", Color(0xFFB38CFF), "LC", "A contract marriage turns into a slow-burn mystery with premium visuals.", "12 Episodes"),
-    MediaItem("m6", "Demon Archive", "Anime", "2024", "9.0", "Dark", Color(0xFFFF7755), "DA", "A hidden archive unlocks ancient voices and subtitles from another world.", "13 Episodes")
+private val sampleItems = listOf(
+    MediaItem("m1", "Crimson Horizon", "Crimson Horizon", "Movie", "2026", "9.1", "Trending #1", "EN", listOf("Action", "Sci‑Fi", "IMAX"), "A betrayed pilot crosses a burning skyline to stop a global satellite war. Built as a premium hero card for your future metadata backend.", Red, Orange, "Ready AR/EN", 1, .82f),
+    MediaItem("m2", "Silent Crown", "Silent Crown", "Movie", "2025", "8.8", "Fresh", "EN", listOf("Drama", "Mystery"), "A quiet royal secret turns into a worldwide chase. Includes subtitle fetch states and request hooks.", Violet, Cyan, "Need SRT", 1, .27f),
+    MediaItem("k1", "Neon Seoul", "네온 서울", "K-Drama", "2026", "9.4", "K‑Drama Hot", "KO", listOf("Romance", "Thriller", "16 EP"), "A hacker and a prosecutor uncover a city built on erased memories. Designed for episode-based subtitle requests.", Cyan, Violet, "Queue", 16, .44f),
+    MediaItem("k2", "Moon Contract", "달의 계약", "K-Drama", "2025", "8.9", "Top Weekly", "KO", listOf("Fantasy", "Romance", "12 EP"), "A mysterious contract links two souls across time. Each episode can request Arabic and English SRT directly.", Orange, Gold, "Ready AR", 12, .62f),
+    MediaItem("a1", "Blade Aurora", "ブレードオーロラ", "Anime", "2026", "9.7", "Anime Peak", "JA", listOf("Shounen", "Action", "24 EP"), "A young guardian unlocks a forbidden aurora blade. Optimized for anime-style cards, glow, and fast request UI.", Red, Violet, "Ready AR/EN", 24, .73f),
+    MediaItem("a2", "Starlit Classroom", "星明かりの教室", "Anime", "2025", "9.0", "New Episode", "JA", listOf("School", "Fantasy", "12 EP"), "A classroom appears only at midnight, where students learn spells from future versions of themselves.", Gold, Cyan, "Need SRT", 12, .19f),
+    MediaItem("m3", "North Signal", "North Signal", "Movie", "2024", "8.6", "4K", "EN", listOf("Survival", "Adventure"), "A frozen signal brings a rescue team to a place that should not exist.", Cyan, Red, "Ready EN", 1, .53f),
+    MediaItem("a3", "Zero Kingdom", "ゼロ王国", "Anime", "2026", "9.2", "Fan Request", "JA", listOf("Isekai", "Magic", "25 EP"), "A strategist wakes inside a kingdom that resets after every defeat.", Violet, Orange, "Queue", 25, .36f)
 )
 
 @Composable
-fun AwrStreamHubApp() {
-    MaterialTheme(
-        colorScheme = darkColorScheme(
-            background = Night,
-            surface = CardBlack,
-            primary = Gold,
-            secondary = Gold2,
-            onBackground = Color.White,
-            onSurface = Color.White
-        )
-    ) {
-        var selectedTab by remember { mutableStateOf(Tab.Home) }
-        var selectedItem by remember { mutableStateOf<MediaItem?>(null) }
-        val requests = remember { mutableStateListOf<RequestItem>() }
-        Box(Modifier.fillMaxSize().background(Night)) {
-            CinematicBackground()
-            Scaffold(
-                containerColor = Color.Transparent,
-                bottomBar = { ProBottomBar(selectedTab) { selectedTab = it } }
-            ) { padding ->
-                AnimatedContent(
-                    targetState = selectedTab,
-                    modifier = Modifier.padding(padding),
-                    transitionSpec = {
-                        (fadeIn(tween(260)) + slideInHorizontally { it / 5 }) togetherWith
-                            (fadeOut(tween(180)) + slideOutHorizontally { -it / 8 })
-                    },
-                    label = "tabSwitch"
-                ) { tab ->
-                    when (tab) {
-                        Tab.Home -> HomeScreen(onOpen = { selectedItem = it }, onSearch = { selectedTab = Tab.Search })
-                        Tab.Movies -> CategoryScreen("Foreign Movies", "100 new movies every 10 minutes", demoItems.filter { it.type == "Movie" }, onOpen = { selectedItem = it })
-                        Tab.KDrama -> CategoryScreen("Korean Drama", "Romance, thriller, historical, modern", demoItems.filter { it.type == "K-Drama" }, onOpen = { selectedItem = it })
-                        Tab.Anime -> CategoryScreen("Anime Zone", "Shonen, seinen, fantasy, seasonal", demoItems.filter { it.type == "Anime" }, onOpen = { selectedItem = it })
-                        Tab.Search -> SearchScreen(onOpen = { selectedItem = it }, onRequest = { q, c -> requests.add(0, RequestItem(q, c, "Queued instantly")); selectedTab = Tab.Requests })
-                        Tab.Requests -> RequestsScreen(requests)
-                        Tab.Settings -> SettingsScreen()
-                    }
-                }
-            }
-            selectedItem?.let { item ->
-                DetailSheet(item = item, onDismiss = { selectedItem = null })
-            }
-        }
-    }
-}
-
-@Composable
-fun CinematicBackground() {
-    val t = rememberInfiniteTransition(label = "bg")
-    val shift by t.animateFloat(
-        initialValue = 0f,
-        targetValue = 1f,
-        animationSpec = infiniteRepeatable(tween(8000, easing = FastOutSlowInEasing), RepeatMode.Reverse),
-        label = "shift"
+fun StreamHubApp() {
+    val scheme = darkColorScheme(
+        primary = Gold,
+        secondary = Orange,
+        tertiary = Cyan,
+        background = Bg,
+        surface = Panel,
+        onPrimary = Color.Black,
+        onBackground = Color.White,
+        onSurface = Color.White
     )
-    Canvas(Modifier.fillMaxSize().blur(28.dp)) {
-        drawCircle(Gold.copy(alpha = 0.18f), radius = size.minDimension * 0.45f, center = Offset(size.width * (0.1f + shift * 0.35f), size.height * 0.08f))
-        drawCircle(Pink.copy(alpha = 0.10f), radius = size.minDimension * 0.36f, center = Offset(size.width * 0.92f, size.height * (0.2f + shift * 0.2f)))
-        drawCircle(NeonBlue.copy(alpha = 0.12f), radius = size.minDimension * 0.38f, center = Offset(size.width * (0.25f + shift * 0.35f), size.height * 0.92f))
-    }
-    Canvas(Modifier.fillMaxSize().alpha(0.12f)) {
-        for (i in 0..18) {
-            val y = size.height * i / 18f
-            drawLine(Color.White, Offset(0f, y), Offset(size.width, y + sin(i.toFloat()) * 22f), strokeWidth = 1f)
-        }
+    MaterialTheme(colorScheme = scheme) {
+        var splash by remember { mutableStateOf(true) }
+        LaunchedEffect(Unit) { delay(1100); splash = false }
+        if (splash) SplashScreen() else MainShell()
     }
 }
 
 @Composable
-fun HomeScreen(onOpen: (MediaItem) -> Unit, onSearch: () -> Unit) {
-    LazyColumn(
-        contentPadding = PaddingValues(
-            top = WindowInsets.statusBars.asPaddingValues().calculateTopPadding() + 18.dp,
-            start = 18.dp,
-            end = 18.dp,
-            bottom = 18.dp
-        ),
-        verticalArrangement = Arrangement.spacedBy(20.dp)
-    ) {
-        item { TopHeader(onSearch) }
-        item { HeroCarousel(demoItems.take(3), onOpen) }
-        item { StatsRow() }
-        item { SectionHeader("Trending now", "Auto updated catalog") }
-        item { PosterRail(demoItems, onOpen) }
-        item { SectionHeader("Subtitle mission", "One tap per movie or episode") }
-        items(demoItems.take(4)) { SubtitleMissionCard(it, onOpen) }
-    }
-}
-
-@Composable
-fun TopHeader(onSearch: () -> Unit) {
-    Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-        Column(Modifier.weight(1f)) {
-            Text("AWR Stream Hub", color = Color.White, fontSize = 28.sp, fontWeight = FontWeight.Black)
-            Text("Movies • K-Drama • Anime • Smart SRT", color = Soft, fontSize = 13.sp)
-        }
-        IconButton(onClick = onSearch, modifier = Modifier.clip(CircleShape).background(Color.White.copy(alpha = 0.09f))) {
-            Icon(Icons.Default.Search, contentDescription = "Search", tint = Color.White)
-        }
-    }
-}
-
-@Composable
-fun HeroCarousel(items: List<MediaItem>, onOpen: (MediaItem) -> Unit) {
-    LazyRow(horizontalArrangement = Arrangement.spacedBy(14.dp), flingBehavior = rememberSnapFlingBehavior(lazyListState = androidx.compose.foundation.lazy.rememberLazyListState())) {
-        items(items) { item ->
-            HeroCard(item, onOpen)
-        }
-    }
-}
-
-@Composable
-fun HeroCard(item: MediaItem, onOpen: (MediaItem) -> Unit) {
-    val transition = rememberInfiniteTransition(label = "hero")
-    val glow by transition.animateFloat(0.85f, 1.05f, infiniteRepeatable(tween(1800), RepeatMode.Reverse), label = "glow")
-    Card(
-        modifier = Modifier
-            .width(310.dp)
-            .height(200.dp)
-            .clickable { onOpen(item) }
-            .graphicsLayer { scaleX = glow; scaleY = glow },
-        shape = RoundedCornerShape(34.dp),
-        colors = CardDefaults.cardColors(containerColor = Color.Transparent)
-    ) {
-        Box(
-            Modifier
-                .fillMaxSize()
-                .background(Brush.linearGradient(listOf(item.accent.copy(alpha = 0.96f), CardBlack, Night)))
-                .padding(20.dp)
-        ) {
-            Column(Modifier.align(Alignment.CenterStart).fillMaxWidth(0.66f)) {
-                AssistPill(item.type)
-                Spacer(Modifier.height(10.dp))
-                Text(item.title, color = Color.White, fontSize = 27.sp, fontWeight = FontWeight.Black, maxLines = 2)
-                Text("${item.year} • ★ ${item.score} • ${item.tag}", color = Color.White.copy(alpha = 0.78f), fontSize = 13.sp)
-                Spacer(Modifier.height(14.dp))
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Icon(Icons.Default.PlayArrow, contentDescription = null, tint = Night, modifier = Modifier.clip(CircleShape).background(Gold).padding(6.dp).size(18.dp))
-                    Spacer(Modifier.width(8.dp))
-                    Text("Open details", color = Color.White, fontWeight = FontWeight.Bold)
-                }
-            }
-            PosterArt(item, Modifier.align(Alignment.CenterEnd).width(98.dp).height(148.dp))
-        }
-    }
-}
-
-@Composable
-fun StatsRow() {
-    Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-        MiniStat("300", "items / 10 min", Gold, Modifier.weight(1f))
-        MiniStat("0", "duplicates", Green, Modifier.weight(1f))
-        MiniStat("2", "SRT langs", NeonBlue, Modifier.weight(1f))
-    }
-}
-
-@Composable
-fun MiniStat(value: String, label: String, accent: Color, modifier: Modifier = Modifier) {
-    Card(modifier = modifier.height(82.dp), shape = RoundedCornerShape(24.dp), colors = CardDefaults.cardColors(containerColor = Color.White.copy(alpha = 0.07f))) {
-        Column(Modifier.fillMaxSize().padding(12.dp), verticalArrangement = Arrangement.Center) {
-            Text(value, color = accent, fontWeight = FontWeight.Black, fontSize = 24.sp)
-            Text(label, color = Soft, fontSize = 12.sp, maxLines = 1)
-        }
-    }
-}
-
-@Composable
-fun SectionHeader(title: String, subtitle: String) {
-    Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.Bottom) {
-        Column(Modifier.weight(1f)) {
-            Text(title, color = Color.White, fontSize = 21.sp, fontWeight = FontWeight.Black)
-            Text(subtitle, color = Soft, fontSize = 12.sp)
-        }
-        Text("View all", color = Gold, fontSize = 13.sp, fontWeight = FontWeight.Bold)
-    }
-}
-
-@Composable
-fun PosterRail(items: List<MediaItem>, onOpen: (MediaItem) -> Unit) {
-    LazyRow(horizontalArrangement = Arrangement.spacedBy(14.dp)) {
-        items(items) { PosterTile(it, onOpen) }
-    }
-}
-
-@Composable
-fun PosterTile(item: MediaItem, onOpen: (MediaItem) -> Unit) {
-    Column(Modifier.width(138.dp).clickable { onOpen(item) }) {
-        PosterArt(item, Modifier.fillMaxWidth().aspectRatio(0.68f))
-        Spacer(Modifier.height(9.dp))
-        Text(item.title, color = Color.White, maxLines = 1, overflow = TextOverflow.Ellipsis, fontWeight = FontWeight.Bold)
-        Text("★ ${item.score} • ${item.year}", color = Soft, fontSize = 12.sp)
-    }
-}
-
-@Composable
-fun PosterArt(item: MediaItem, modifier: Modifier = Modifier) {
+private fun SplashScreen() {
+    val pulse by rememberInfiniteTransition(label = "splash").animateFloat(
+        initialValue = .92f,
+        targetValue = 1.08f,
+        animationSpec = infiniteRepeatable(tween(850, easing = FastOutSlowInEasing), RepeatMode.Reverse),
+        label = "pulse"
+    )
     Box(
-        modifier
-            .clip(RoundedCornerShape(26.dp))
-            .background(Brush.verticalGradient(listOf(item.accent, CardBlack, Night)))
-            .drawBehind {
-                val path = Path().apply {
-                    moveTo(0f, size.height * .72f)
-                    cubicTo(size.width * .3f, size.height * .55f, size.width * .62f, size.height * .9f, size.width, size.height * .64f)
-                    lineTo(size.width, size.height)
-                    lineTo(0f, size.height)
-                    close()
-                }
-                drawPath(path, Color.White.copy(alpha = .10f))
-            }
-            .padding(12.dp),
-        contentAlignment = Alignment.Center
+        Modifier.fillMaxSize().background(
+            Brush.radialGradient(listOf(Color(0x33FFD36A), Bg, Color.Black), radius = 1200f)
+        ), contentAlignment = Alignment.Center
     ) {
-        Text(item.posterCode, color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
-        Text(item.type.uppercase(), color = Color.White.copy(alpha = 0.55f), fontSize = 9.sp, modifier = Modifier.align(Alignment.BottomCenter))
-    }
-}
-
-@Composable
-fun SubtitleMissionCard(item: MediaItem, onOpen: (MediaItem) -> Unit) {
-    Card(
-        modifier = Modifier.fillMaxWidth().clickable { onOpen(item) },
-        shape = RoundedCornerShape(28.dp),
-        colors = CardDefaults.cardColors(containerColor = Color.White.copy(alpha = 0.075f))
-    ) {
-        Row(Modifier.padding(14.dp), verticalAlignment = Alignment.CenterVertically) {
-            PosterArt(item, Modifier.size(74.dp))
-            Spacer(Modifier.width(13.dp))
-            Column(Modifier.weight(1f)) {
-                Text(item.title, color = Color.White, fontWeight = FontWeight.Black, fontSize = 17.sp)
-                Text("${item.type} • ${item.episodes}", color = Soft, fontSize = 12.sp)
-                Spacer(Modifier.height(7.dp))
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    AssistPill("AR SRT")
-                    AssistPill("EN SRT")
-                }
-            }
-            Icon(Icons.Default.Subtitles, contentDescription = null, tint = Gold)
-        }
-    }
-}
-
-@Composable
-fun CategoryScreen(title: String, subtitle: String, items: List<MediaItem>, onOpen: (MediaItem) -> Unit) {
-    LazyColumn(
-        contentPadding = PaddingValues(WindowInsets.statusBars.asPaddingValues().calculateTopPadding() + 18.dp, 18.dp, 18.dp, 110.dp),
-        verticalArrangement = Arrangement.spacedBy(16.dp)
-    ) {
-        item {
-            Text(title, color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
-            Text(subtitle, color = Soft)
-        }
-        items(items + demoItems.shuffled()) { item ->
-            BigListCard(item, onOpen)
-        }
-    }
-}
-
-@Composable
-fun BigListCard(item: MediaItem, onOpen: (MediaItem) -> Unit) {
-    Card(
-        modifier = Modifier.fillMaxWidth().height(156.dp).clickable { onOpen(item) },
-        shape = RoundedCornerShape(32.dp),
-        colors = CardDefaults.cardColors(containerColor = Color.White.copy(alpha = 0.07f))
-    ) {
-        Row(Modifier.fillMaxSize().padding(14.dp), verticalAlignment = Alignment.CenterVertically) {
-            PosterArt(item, Modifier.width(88.dp).fillMaxHeight())
-            Spacer(Modifier.width(14.dp))
-            Column(Modifier.weight(1f)) {
-                AssistPill(item.tag)
-                Spacer(Modifier.height(8.dp))
-                Text(item.title, color = Color.White, fontWeight = FontWeight.Black, fontSize = 22.sp, maxLines = 1)
-                Text(item.overview, color = Soft, fontSize = 13.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
-                Spacer(Modifier.height(10.dp))
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    AssistPill("★ ${item.score}")
-                    AssistPill(item.subtitleStatus)
-                }
-            }
-        }
-    }
-}
-
-@Composable
-fun SearchScreen(onOpen: (MediaItem) -> Unit, onRequest: (String, String) -> Unit) {
-    var query by remember { mutableStateOf("") }
-    var category by remember { mutableStateOf("Any") }
-    val result = remember(query) { demoItems.filter { it.title.contains(query, ignoreCase = true) || it.type.contains(query, ignoreCase = true) } }
-    LazyColumn(
-        contentPadding = PaddingValues(WindowInsets.statusBars.asPaddingValues().calculateTopPadding() + 18.dp, 18.dp, 18.dp, 110.dp),
-        verticalArrangement = Arrangement.spacedBy(16.dp)
-    ) {
-        item {
-            Text("Ultra Search", color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
-            Text("Find titles or request anything instantly", color = Soft)
-            Spacer(Modifier.height(16.dp))
-            OutlinedTextField(value = query, onValueChange = { query = it }, label = { Text("Movie, drama, anime name") }, modifier = Modifier.fillMaxWidth(), singleLine = true)
-            Spacer(Modifier.height(10.dp))
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                listOf("Any", "Movie", "K-Drama", "Anime").forEach { c ->
-                    ChipButton(c, selected = category == c) { category = c }
-                }
-            }
-            AnimatedVisibility(query.isNotBlank(), enter = fadeIn() + slideInVertically(), exit = fadeOut() + slideOutVertically()) {
-                Button(
-                    onClick = { onRequest(query, category) },
-                    modifier = Modifier.fillMaxWidth().padding(top = 14.dp).height(56.dp),
-                    shape = RoundedCornerShape(18.dp),
-                    colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Night)
-                ) {
-                    Icon(Icons.Default.Bolt, contentDescription = null)
-                    Spacer(Modifier.width(8.dp))
-                    Text("Request instantly if not found", fontWeight = FontWeight.Black)
-                }
-            }
-        }
-        items(if (query.isBlank()) demoItems else result) { item -> BigListCard(item, onOpen) }
-    }
-}
-
-@Composable
-fun RequestsScreen(requests: List<RequestItem>) {
-    val sample = if (requests.isEmpty()) listOf(
-        RequestItem("Solo Leveling S02", "Anime", "Ready for GitHub request pipeline"),
-        RequestItem("Queen of Tears", "K-Drama", "Waiting for metadata bot")
-    ) else requests
-    LazyColumn(
-        contentPadding = PaddingValues(WindowInsets.statusBars.asPaddingValues().calculateTopPadding() + 18.dp, 18.dp, 18.dp, 110.dp),
-        verticalArrangement = Arrangement.spacedBy(14.dp)
-    ) {
-        item {
-            Text("Requests", color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
-            Text("User asks, bot fetches metadata, subtitles follow per title", color = Soft)
-        }
-        items(sample) { req ->
-            Card(shape = RoundedCornerShape(28.dp), colors = CardDefaults.cardColors(containerColor = Color.White.copy(alpha = 0.075f)), modifier = Modifier.fillMaxWidth()) {
-                Row(Modifier.padding(16.dp), verticalAlignment = Alignment.CenterVertically) {
-                    Icon(Icons.Default.AutoAwesome, contentDescription = null, tint = Gold, modifier = Modifier.size(36.dp))
-                    Spacer(Modifier.width(12.dp))
-                    Column(Modifier.weight(1f)) {
-                        Text(req.query, color = Color.White, fontWeight = FontWeight.Black, fontSize = 18.sp)
-                        Text("${req.category} • ${req.status}", color = Soft, fontSize = 12.sp)
-                    }
-                    AssistPill("Priority")
-                }
-            }
-        }
-    }
-}
-
-@Composable
-fun SettingsScreen() {
-    Column(
-        Modifier
-            .fillMaxSize()
-            .verticalScroll(rememberScrollState())
-            .padding(WindowInsets.statusBars.asPaddingValues())
-            .padding(18.dp),
-        verticalArrangement = Arrangement.spacedBy(16.dp)
-    ) {
-        Text("Settings", color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
-        Text("Frontend placeholders for the next backend phase", color = Soft)
-        SettingsCard("GitHub Data Source", "Raw JSON catalog URL will be connected here.", Icons.Default.Download)
-        SettingsCard("Auto Fetch", "100 movies + 100 K-drama + 100 anime every 10 minutes.", Icons.Default.Bolt)
-        SettingsCard("Subtitle Engine", "One tap AR/EN SRT generation per movie or episode.", Icons.Default.Translate)
-        SettingsCard("Design Mode", "Cinematic glass UI, smooth tabs, premium poster cards.", Icons.Default.Category)
-    }
-}
-
-@Composable
-fun SettingsCard(title: String, subtitle: String, icon: ImageVector) {
-    Card(shape = RoundedCornerShape(28.dp), colors = CardDefaults.cardColors(containerColor = Color.White.copy(alpha = 0.075f)), modifier = Modifier.fillMaxWidth()) {
-        Row(Modifier.padding(16.dp), verticalAlignment = Alignment.CenterVertically) {
-            Icon(icon, contentDescription = null, tint = Gold, modifier = Modifier.clip(CircleShape).background(Gold.copy(alpha = .14f)).padding(10.dp).size(26.dp))
-            Spacer(Modifier.width(14.dp))
-            Column {
-                Text(title, color = Color.White, fontWeight = FontWeight.Black)
-                Text(subtitle, color = Soft, fontSize = 13.sp)
-            }
+        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+            Box(
+                Modifier.size(120.dp).scale(pulse).clip(CircleShape).background(Brush.linearGradient(listOf(Gold, Orange, Red))),
+                contentAlignment = Alignment.Center
+            ) { Text("AWR", color = Color.Black, fontSize = 31.sp, fontWeight = FontWeight.Black) }
+            Spacer(Modifier.height(22.dp))
+            Text("STREAM HUB", color = Color.White, fontSize = 28.sp, fontWeight = FontWeight.Black, letterSpacing = 3.sp)
+            Text("Global cinema • instant requests • subtitle intelligence", color = Muted, fontSize = 13.sp)
         }
     }
 }
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun DetailSheet(item: MediaItem, onDismiss: () -> Unit) {
-    ModalBottomSheet(onDismissRequest = onDismiss, sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true), containerColor = Color(0xFF0B0D13)) {
-        Column(Modifier.padding(18.dp).padding(bottom = 28.dp), verticalArrangement = Arrangement.spacedBy(16.dp)) {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                PosterArt(item, Modifier.width(112.dp).height(160.dp))
-                Spacer(Modifier.width(16.dp))
-                Column(Modifier.weight(1f)) {
-                    Text(item.title, color = Color.White, fontSize = 27.sp, fontWeight = FontWeight.Black)
-                    Text("${item.type} • ${item.year} • ★ ${item.score}", color = Soft)
-                    Spacer(Modifier.height(10.dp))
-                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                        AssistPill("AR")
-                        AssistPill("EN")
-                        AssistPill(item.episodes)
+private fun MainShell() {
+    var tab by remember { mutableStateOf(HubTab.Home) }
+    var selected by remember { mutableStateOf<MediaItem?>(null) }
+    val jobs = remember { mutableStateListOf(
+        JobItem("Blade Aurora S01E08", "Arabic SRT rendering", .71f, "SRT"),
+        JobItem("Neon Seoul", "Instant catalog request", .38f, "REQ"),
+        JobItem("Crimson Horizon", "English timing sync", .93f, "SYNC")
+    ) }
+
+    Scaffold(
+        containerColor = Color.Transparent,
+        bottomBar = { PremiumBottomBar(tab) { tab = it } }
+    ) { padding ->
+        Box(
+            Modifier.fillMaxSize().background(
+                Brush.verticalGradient(listOf(Color(0xFF070711), Color(0xFF05050A), Color.Black))
+            ).padding(padding)
+        ) {
+            AmbientGlow()
+            Crossfade(tab, label = "screen") { current ->
+                when (current) {
+                    HubTab.Home -> HomeScreen(onSelect = { selected = it }, jobs = jobs)
+                    HubTab.Movies -> CatalogScreen("Movies", "Foreign movies pipeline", sampleItems.filter { it.type == "Movie" }, onSelect = { selected = it })
+                    HubTab.Drama -> CatalogScreen("K‑Drama", "Korean drama episodes", sampleItems.filter { it.type == "K-Drama" }, onSelect = { selected = it })
+                    HubTab.Anime -> CatalogScreen("Anime", "Anime seasons and episode requests", sampleItems.filter { it.type == "Anime" }, onSelect = { selected = it })
+                    HubTab.Search -> SearchScreen(onSelect = { selected = it }, onRequest = { title -> jobs.add(0, JobItem(title, "Instant request sent", .12f, "NOW")) })
+                    HubTab.Requests -> RequestCenter(jobs)
+                }
+            }
+        }
+    }
+
+    selected?.let { item ->
+        val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+        ModalBottomSheet(
+            onDismissRequest = { selected = null },
+            sheetState = sheetState,
+            containerColor = Panel,
+            contentColor = Color.White,
+            dragHandle = { Box(Modifier.padding(top = 10.dp).size(52.dp, 5.dp).clip(CircleShape).background(Color.White.copy(.18f))) }
+        ) {
+            DetailSheet(item) {
+                jobs.add(0, JobItem(item.title, "Subtitle generation requested", .08f, "SRT"))
+            }
+        }
+    }
+}
+
+@Composable
+private fun AmbientGlow() {
+    val glow by rememberInfiniteTransition(label = "glow").animateFloat(
+        .18f, .42f,
+        infiniteRepeatable(tween(2400, easing = FastOutSlowInEasing), RepeatMode.Reverse),
+        label = "glowAlpha"
+    )
+    Box(Modifier.fillMaxSize().background(Brush.radialGradient(listOf(Gold.copy(glow), Color.Transparent), radius = 520f)))
+}
+
+@Composable
+private fun PremiumBottomBar(active: HubTab, onTab: (HubTab) -> Unit) {
+    Surface(color = Color.Transparent, modifier = Modifier.windowInsetsPadding(WindowInsets.navigationBars)) {
+        NavigationBar(
+            containerColor = Color(0xCC090A12),
+            tonalElevation = 0.dp,
+            modifier = Modifier.padding(horizontal = 10.dp, vertical = 8.dp).clip(RoundedCornerShape(28.dp)).border(1.dp, Color.White.copy(.08f), RoundedCornerShape(28.dp))
+        ) {
+            HubTab.entries.forEach { t ->
+                NavigationBarItem(
+                    selected = active == t,
+                    onClick = { onTab(t) },
+                    icon = { Text(t.icon, fontSize = 19.sp) },
+                    label = { Text(t.label, fontSize = 10.sp, maxLines = 1) },
+                    colors = NavigationBarItemDefaults.colors(
+                        selectedIconColor = Color.Black,
+                        selectedTextColor = Gold,
+                        indicatorColor = Gold,
+                        unselectedIconColor = Muted,
+                        unselectedTextColor = Muted
+                    )
+                )
+            }
+        }
+    }
+}
+
+@Composable
+private fun HomeScreen(onSelect: (MediaItem) -> Unit, jobs: List<JobItem>) {
+    LazyColumn(contentPadding = PaddingValues(18.dp), verticalArrangement = Arrangement.spacedBy(18.dp)) {
+        item { Header("AWR Stream Hub", "Full stack cinema catalog — frontend now, backend-ready architecture") }
+        item { MetricStrip() }
+        item { HeroSpotlight(sampleItems.first(), onSelect) }
+        item { SectionTitle("Live operations", "Requests, SRT rendering, catalog jobs") }
+        item { JobsRail(jobs) }
+        item { SectionTitle("Trending now", "Movies, K‑Drama, Anime") }
+        item { MediaRail(sampleItems, onSelect) }
+        item { SectionTitle("Backend pipelines", "What will connect next") }
+        item { BackendBlueprint() }
+        item { Spacer(Modifier.height(20.dp)) }
+    }
+}
+
+@Composable
+private fun Header(title: String, subtitle: String) {
+    Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+        Column(Modifier.weight(1f)) {
+            Text(title, color = Color.White, fontSize = 28.sp, fontWeight = FontWeight.Black)
+            Text(subtitle, color = Muted, fontSize = 13.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
+        }
+        Box(Modifier.size(52.dp).clip(CircleShape).background(Brush.linearGradient(listOf(Gold, Orange))), contentAlignment = Alignment.Center) {
+            Text("AI", color = Color.Black, fontWeight = FontWeight.Black)
+        }
+    }
+}
+
+@Composable
+private fun MetricStrip() {
+    Row(Modifier.horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+        MetricCard("Auto pull", "100×3", "every 10 min")
+        MetricCard("Request mode", "Instant", "priority queue")
+        MetricCard("SRT", "AR + EN", "on demand")
+        MetricCard("Storage", "GitHub", "JSON pages")
+    }
+}
+
+@Composable
+private fun MetricCard(label: String, value: String, sub: String) {
+    Card(colors = CardDefaults.cardColors(Panel2), shape = RoundedCornerShape(22.dp), border = BorderStroke(1.dp, Color.White.copy(.08f))) {
+        Column(Modifier.width(136.dp).padding(14.dp)) {
+            Text(label, color = Muted, fontSize = 12.sp)
+            Text(value, color = Color.White, fontSize = 22.sp, fontWeight = FontWeight.Black)
+            Text(sub, color = Gold, fontSize = 11.sp)
+        }
+    }
+}
+
+@Composable
+private fun HeroSpotlight(item: MediaItem, onSelect: (MediaItem) -> Unit) {
+    val scale by animateFloatAsState(1f, tween(600), label = "heroScale")
+    Card(
+        modifier = Modifier.fillMaxWidth().height(305.dp).scale(scale).clickable { onSelect(item) },
+        shape = RoundedCornerShape(34.dp),
+        border = BorderStroke(1.dp, Color.White.copy(.10f)),
+        colors = CardDefaults.cardColors(Color.Transparent)
+    ) {
+        Box(Modifier.fillMaxSize().background(Brush.linearGradient(listOf(item.accentA, item.accentB, Color.Black)))) {
+            Box(Modifier.fillMaxSize().background(Brush.verticalGradient(listOf(Color.Transparent, Color.Black.copy(.88f)))))
+            Column(Modifier.align(Alignment.BottomStart).padding(22.dp)) {
+                Pill(item.badge, Color.Black.copy(.35f), Gold)
+                Spacer(Modifier.height(10.dp))
+                Text(item.title, color = Color.White, fontSize = 34.sp, fontWeight = FontWeight.Black, maxLines = 2)
+                Text(item.overview, color = SoftText, fontSize = 13.sp, maxLines = 3, overflow = TextOverflow.Ellipsis)
+                Spacer(Modifier.height(14.dp))
+                Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
+                    PremiumButton("Open details") { onSelect(item) }
+                    OutlinedButton(onClick = { onSelect(item) }, border = BorderStroke(1.dp, Color.White.copy(.22f)), shape = RoundedCornerShape(18.dp)) {
+                        Text("Fetch SRT", color = Color.White)
                     }
                 }
             }
-            Text(item.overview, color = Color.White.copy(alpha = .86f), fontSize = 14.sp)
-            Button(
-                onClick = { },
-                modifier = Modifier.fillMaxWidth().height(58.dp),
-                shape = RoundedCornerShape(20.dp),
-                colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Night)
-            ) {
-                Icon(Icons.Default.Subtitles, contentDescription = null)
-                Spacer(Modifier.width(8.dp))
-                Text("Fetch Arabic + English SRT", fontWeight = FontWeight.Black)
+        }
+    }
+}
+
+@Composable
+private fun SectionTitle(title: String, sub: String) {
+    Column {
+        Text(title, color = Color.White, fontSize = 21.sp, fontWeight = FontWeight.Bold)
+        Text(sub, color = Muted, fontSize = 12.sp)
+    }
+}
+
+@Composable
+private fun JobsRail(jobs: List<JobItem>) {
+    LazyRow(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+        items(jobs) { job -> JobCard(job) }
+    }
+}
+
+@Composable
+private fun JobCard(job: JobItem) {
+    Card(colors = CardDefaults.cardColors(Panel), shape = RoundedCornerShape(24.dp), border = BorderStroke(1.dp, Gold.copy(.22f))) {
+        Column(Modifier.width(230.dp).padding(15.dp)) {
+            Row(horizontalArrangement = Arrangement.SpaceBetween, modifier = Modifier.fillMaxWidth()) {
+                Pill(job.tag, Gold.copy(.16f), Gold)
+                Text("${(job.progress * 100).toInt()}%", color = Color.White, fontSize = 12.sp)
             }
-            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-                TextButton(onClick = { }, modifier = Modifier.weight(1f)) { Text("Open player", color = Gold) }
-                TextButton(onClick = { }, modifier = Modifier.weight(1f)) { Text("Request dub", color = Gold) }
+            Spacer(Modifier.height(10.dp))
+            Text(job.title, color = Color.White, fontWeight = FontWeight.Bold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+            Text(job.status, color = Muted, fontSize = 12.sp, maxLines = 1)
+            Spacer(Modifier.height(12.dp))
+            LinearProgressIndicator(progress = { job.progress }, modifier = Modifier.fillMaxWidth().height(7.dp).clip(CircleShape), color = Gold, trackColor = Color.White.copy(.08f))
+        }
+    }
+}
+
+@Composable
+private fun MediaRail(items: List<MediaItem>, onSelect: (MediaItem) -> Unit) {
+    LazyRow(horizontalArrangement = Arrangement.spacedBy(14.dp)) {
+        items(items) { item -> MediaPoster(item, onSelect, Modifier.width(176.dp)) }
+    }
+}
+
+@Composable
+private fun MediaPoster(item: MediaItem, onSelect: (MediaItem) -> Unit, modifier: Modifier = Modifier) {
+    Card(
+        modifier = modifier.height(286.dp).clickable { onSelect(item) },
+        shape = RoundedCornerShape(26.dp),
+        colors = CardDefaults.cardColors(Color.Transparent),
+        border = BorderStroke(1.dp, Color.White.copy(.08f))
+    ) {
+        Box(Modifier.fillMaxSize().background(Brush.linearGradient(listOf(item.accentA.copy(.92f), item.accentB.copy(.86f), Color.Black)))) {
+            Text(item.type.uppercase(), color = Color.White.copy(.34f), fontSize = 13.sp, fontWeight = FontWeight.Black, modifier = Modifier.align(Alignment.TopEnd).padding(13.dp))
+            Column(Modifier.align(Alignment.BottomStart).padding(14.dp)) {
+                Pill(item.subtitle, Color.Black.copy(.38f), Gold)
+                Spacer(Modifier.height(8.dp))
+                Text(item.title, color = Color.White, fontWeight = FontWeight.Black, fontSize = 18.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                Text("${item.year} • ★ ${item.rating} • ${item.language}", color = SoftText, fontSize = 12.sp)
+            }
+        }
+    }
+}
+
+@OptIn(ExperimentalFoundationApi::class)
+@Composable
+private fun CatalogScreen(title: String, subtitle: String, items: List<MediaItem>, onSelect: (MediaItem) -> Unit) {
+    Column(Modifier.fillMaxSize().padding(18.dp)) {
+        Header(title, subtitle)
+        Spacer(Modifier.height(14.dp))
+        Row(Modifier.horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            listOf("All", "Ready SRT", "Need SRT", "Top rated", "New", "Episodes").forEachIndexed { index, chip ->
+                FilterChip(selected = index == 0, onClick = {}, label = { Text(chip) })
+            }
+        }
+        Spacer(Modifier.height(14.dp))
+        LazyVerticalGrid(columns = GridCells.Adaptive(150.dp), verticalArrangement = Arrangement.spacedBy(14.dp), horizontalArrangement = Arrangement.spacedBy(14.dp)) {
+            items(items) { item -> MediaPoster(item, onSelect, Modifier.fillMaxWidth()) }
+        }
+    }
+}
+
+@Composable
+private fun SearchScreen(onSelect: (MediaItem) -> Unit, onRequest: (String) -> Unit) {
+    var q by remember { mutableStateOf("") }
+    val results = remember(q) { if (q.isBlank()) sampleItems else sampleItems.filter { it.title.contains(q, true) || it.type.contains(q, true) || it.genres.any { g -> g.contains(q, true) } } }
+    LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(18.dp), verticalArrangement = Arrangement.spacedBy(16.dp)) {
+        item { Header("Ultra Search", "Search the catalog or request anything instantly") }
+        item {
+            OutlinedTextField(
+                value = q,
+                onValueChange = { q = it },
+                modifier = Modifier.fillMaxWidth(),
+                label = { Text("Movie, series, anime, episode…") },
+                singleLine = true,
+                shape = RoundedCornerShape(22.dp)
+            )
+        }
+        item {
+            Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                PremiumButton("Instant request") { if (q.isNotBlank()) onRequest(q) }
+                OutlinedButton(onClick = { if (q.isNotBlank()) onRequest("Translate SRT for $q") }, shape = RoundedCornerShape(18.dp)) { Text("Request SRT", color = Color.White) }
+            }
+        }
+        item { SectionTitle("Results", "Tap any card for details and SRT actions") }
+        items(results) { item -> WideResult(item, onSelect) }
+    }
+}
+
+@Composable
+private fun WideResult(item: MediaItem, onSelect: (MediaItem) -> Unit) {
+    Card(Modifier.fillMaxWidth().clickable { onSelect(item) }, shape = RoundedCornerShape(24.dp), colors = CardDefaults.cardColors(Panel), border = BorderStroke(1.dp, Color.White.copy(.08f))) {
+        Row(Modifier.padding(12.dp), verticalAlignment = Alignment.CenterVertically) {
+            Box(Modifier.size(82.dp).clip(RoundedCornerShape(18.dp)).background(Brush.linearGradient(listOf(item.accentA, item.accentB))))
+            Spacer(Modifier.width(12.dp))
+            Column(Modifier.weight(1f)) {
+                Text(item.title, color = Color.White, fontWeight = FontWeight.Black, fontSize = 18.sp)
+                Text(item.overview, color = Muted, fontSize = 12.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                Spacer(Modifier.height(7.dp))
+                Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) { item.genres.take(3).forEach { Pill(it, Color.White.copy(.06f), SoftText) } }
             }
         }
     }
 }
 
 @Composable
-fun ProBottomBar(selected: Tab, onSelect: (Tab) -> Unit) {
-    Surface(color = Color(0xF20A0B10), tonalElevation = 10.dp) {
-        Row(
-            Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 8.dp, vertical = 8.dp)
-                .padding(bottom = WindowInsets.navigationBars.asPaddingValues().calculateBottomPadding()),
-            horizontalArrangement = Arrangement.SpaceBetween,
-            verticalAlignment = Alignment.CenterVertically
-        ) {
-            Tab.entries.forEach { tab ->
-                val isSelected = tab == selected
-                val scale by animateFloatAsState(if (isSelected) 1.13f else 1f, spring(), label = "navScale")
-                Column(
-                    modifier = Modifier
-                        .clip(RoundedCornerShape(20.dp))
-                        .clickable { onSelect(tab) }
-                        .background(if (isSelected) Gold.copy(alpha = 0.16f) else Color.Transparent)
-                        .padding(horizontal = 8.dp, vertical = 7.dp)
-                        .scale(scale),
-                    horizontalAlignment = Alignment.CenterHorizontally
-                ) {
-                    Icon(tab.icon, contentDescription = tab.label, tint = if (isSelected) Gold else Soft, modifier = Modifier.size(22.dp))
-                    Text(tab.label, color = if (isSelected) Color.White else Soft, fontSize = 10.sp, fontWeight = if (isSelected) FontWeight.Black else FontWeight.Medium, maxLines = 1)
+private fun RequestCenter(jobs: MutableList<JobItem>) {
+    var title by remember { mutableStateOf("") }
+    LazyColumn(contentPadding = PaddingValues(18.dp), verticalArrangement = Arrangement.spacedBy(16.dp)) {
+        item { Header("Request Center", "Priority request pipeline for missing movies, episodes and subtitles") }
+        item {
+            Card(colors = CardDefaults.cardColors(Panel), shape = RoundedCornerShape(28.dp), border = BorderStroke(1.dp, Gold.copy(.22f))) {
+                Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                    Text("Request anything instantly", color = Color.White, fontWeight = FontWeight.Black, fontSize = 21.sp)
+                    OutlinedTextField(value = title, onValueChange = { title = it }, label = { Text("Example: One Piece S02E04 Arabic SRT") }, singleLine = true, modifier = Modifier.fillMaxWidth(), shape = RoundedCornerShape(20.dp))
+                    Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                        PremiumButton("Send request") { if (title.isNotBlank()) { jobs.add(0, JobItem(title, "Waiting for backend worker", .05f, "REQ")); title = "" } }
+                        OutlinedButton(onClick = { if (title.isNotBlank()) { jobs.add(0, JobItem(title, "SRT priority worker", .08f, "SRT")); title = "" } }, shape = RoundedCornerShape(18.dp)) { Text("Fetch SRT", color = Color.White) }
+                    }
+                }
+            }
+        }
+        item { SectionTitle("Queue", "Frontend states ready for backend connection") }
+        items(jobs) { JobCard(it) }
+        item { Spacer(Modifier.height(20.dp)) }
+    }
+}
+
+@Composable
+private fun BackendBlueprint() {
+    Card(colors = CardDefaults.cardColors(Panel), shape = RoundedCornerShape(28.dp), border = BorderStroke(1.dp, Color.White.copy(.08f))) {
+        Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+            listOf(
+                "GitHub Action: pulls 100 movies + 100 K‑Drama + 100 anime every 10 minutes",
+                "Request API: accepts instant user requests and writes them to a priority queue",
+                "Subtitle Worker: creates or fetches AR/EN SRT for a selected item",
+                "Dedup Engine: prevents repeated titles and stores seen IDs",
+                "Android App: reads paged JSON and shows live job states"
+            ).forEachIndexed { index, text ->
+                Row(verticalAlignment = Alignment.Top) {
+                    Box(Modifier.size(28.dp).clip(CircleShape).background(Gold), contentAlignment = Alignment.Center) { Text("${index + 1}", color = Color.Black, fontWeight = FontWeight.Black, fontSize = 12.sp) }
+                    Spacer(Modifier.width(10.dp))
+                    Text(text, color = SoftText, fontSize = 13.sp)
                 }
             }
         }
@@ -618,22 +510,55 @@ fun ProBottomBar(selected: Tab, onSelect: (Tab) -> Unit) {
 }
 
 @Composable
-fun AssistPill(text: String) {
-    Box(Modifier.clip(CircleShape).background(Color.White.copy(alpha = 0.11f)).padding(horizontal = 10.dp, vertical = 5.dp)) {
-        Text(text, color = Color.White, fontSize = 11.sp, fontWeight = FontWeight.Bold)
+private fun DetailSheet(item: MediaItem, onSubtitle: () -> Unit) {
+    LazyColumn(contentPadding = PaddingValues(20.dp), verticalArrangement = Arrangement.spacedBy(16.dp)) {
+        item {
+            Box(Modifier.fillMaxWidth().height(260.dp).clip(RoundedCornerShape(32.dp)).background(Brush.linearGradient(listOf(item.accentA, item.accentB, Color.Black)))) {
+                Column(Modifier.align(Alignment.BottomStart).padding(18.dp)) {
+                    Pill(item.badge, Color.Black.copy(.35f), Gold)
+                    Text(item.title, color = Color.White, fontSize = 30.sp, fontWeight = FontWeight.Black)
+                    Text(item.original, color = SoftText, fontSize = 13.sp)
+                }
+            }
+        }
+        item {
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.horizontalScroll(rememberScrollState())) {
+                Pill(item.type, Gold.copy(.16f), Gold)
+                Pill(item.year, Color.White.copy(.06f), SoftText)
+                Pill("★ ${item.rating}", Color.White.copy(.06f), SoftText)
+                Pill("${item.episodes} EP", Color.White.copy(.06f), SoftText)
+                Pill(item.subtitle, Color.White.copy(.06f), SoftText)
+            }
+        }
+        item { Text(item.overview, color = SoftText, fontSize = 15.sp, lineHeight = 22.sp) }
+        item {
+            Card(colors = CardDefaults.cardColors(Panel2), shape = RoundedCornerShape(24.dp)) {
+                Column(Modifier.padding(15.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                    Text("Subtitle Intelligence", color = Color.White, fontWeight = FontWeight.Black, fontSize = 20.sp)
+                    Text("This button will connect to the backend worker later: search existing subtitles, generate missing AR/EN SRT, sync timing, and update the catalog JSON status.", color = Muted, fontSize = 13.sp)
+                    Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                        PremiumButton("Fetch AR + EN SRT") { onSubtitle() }
+                        OutlinedButton(onClick = onSubtitle, shape = RoundedCornerShape(18.dp)) { Text("Request item", color = Color.White) }
+                    }
+                }
+            }
+        }
+        item { Spacer(Modifier.height(30.dp)) }
     }
 }
 
 @Composable
-fun ChipButton(text: String, selected: Boolean, onClick: () -> Unit) {
-    Box(
-        Modifier
-            .clip(CircleShape)
-            .clickable(onClick = onClick)
-            .background(if (selected) Gold else Color.White.copy(alpha = 0.08f))
-            .padding(horizontal = 14.dp, vertical = 9.dp)
-    ) {
-        Text(text, color = if (selected) Night else Color.White, fontWeight = FontWeight.Bold, fontSize = 12.sp)
-    }
+private fun PremiumButton(text: String, onClick: () -> Unit) {
+    Button(
+        onClick = onClick,
+        colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Color.Black),
+        shape = RoundedCornerShape(18.dp)
+    ) { Text(text, fontWeight = FontWeight.Black) }
 }
 
+@Composable
+private fun Pill(text: String, bg: Color, fg: Color) {
+    Box(Modifier.clip(CircleShape).background(bg).border(1.dp, fg.copy(.16f), CircleShape).padding(horizontal = 10.dp, vertical = 5.dp)) {
+        Text(text, color = fg, fontSize = 11.sp, fontWeight = FontWeight.Bold, maxLines = 1)
+    }
+}

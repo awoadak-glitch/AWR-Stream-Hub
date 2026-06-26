@@ -1,1 +1,1 @@
-# Frontend prototype only
+# Frontend demo rules
