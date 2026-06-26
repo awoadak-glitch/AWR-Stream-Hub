@@ -6,12 +6,13 @@ on:
         description: 'Requested movie/series/anime title'
         required: true
       kind:
-        description: 'movie | kdrama | anime | subtitle'
+        description: 'movie | kdrama | anime'
         required: false
         default: 'movie'
+  repository_dispatch:
+    types: [instant_request]
 permissions:
   contents: write
-  issues: write
 jobs:
   request:
     runs-on: ubuntu-latest
@@ -20,15 +21,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Resolve request title
+        id: req
+        run: |
+          TITLE="${{ github.event.inputs.title || github.event.client_payload.title }}"
+          KIND="${{ github.event.inputs.kind || github.event.client_payload.kind || 'movie' }}"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
+          echo "kind=$KIND" >> "$GITHUB_OUTPUT"
       - name: Process priority request
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: python backend/scripts/request_worker.py --title "${{ github.event.inputs.title }}" --kind "${{ github.event.inputs.kind }}"
+        run: python backend/scripts/request_worker.py --title "${{ steps.req.outputs.title }}" --kind "${{ steps.req.outputs.kind }}"
       - name: Commit request result
         run: |
           git config user.name "AWR Request Bot"
           git config user.email "actions@github.com"
           git add data
-          git commit -m "request: ${{ github.event.inputs.title }}" || echo "No changes"
+          git commit -m "request: ${{ steps.req.outputs.title }}" || echo "No changes"
           git push || true
