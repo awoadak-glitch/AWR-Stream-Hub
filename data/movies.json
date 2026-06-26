@@ -1,15 +1,1 @@
-[
-  {
-    "id": "movie-demo-001",
-    "title": "AWR Demo Movie",
-    "kind": "movies",
-    "language": "en",
-    "year": 2026,
-    "rating": 8.8,
-    "poster": "",
-    "backdrop": "",
-    "overview": "Placeholder movie record. The catalog workflow can replace or expand this file with TMDB metadata.",
-    "genres": ["Action", "Drama"],
-    "subtitle_status": "missing"
-  }
-]
+[]

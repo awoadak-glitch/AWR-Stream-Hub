@@ -1,6 +1,11 @@
 {
-  "movies": "data/movies.json",
-  "anime": "data/anime.json",
-  "kdrama": "data/kdrama.json",
-  "updated_at": null
+  "updated_at": null,
+  "movies_count": 0,
+  "anime_count": 0,
+  "kdrama_count": 0,
+  "files": {
+    "movies": "data/movies.json",
+    "anime": "data/anime.json",
+    "kdrama": "data/kdrama.json"
+  }
 }

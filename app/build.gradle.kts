@@ -12,8 +12,8 @@ android {
         applicationId = "com.awr.streamhub"
         minSdk = 24
         targetSdk = 35
-        versionCode = 2
-        versionName = "2.0.0-global-fullstack"
+        versionCode = 3
+        versionName = "3.0.0-direct-github"
     }
 
     buildTypes {
@@ -37,5 +37,6 @@ dependencies {
     implementation("androidx.compose.foundation:foundation")
     implementation("androidx.compose.material3:material3")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.7")
+    implementation("io.coil-kt:coil-compose:2.7.0")
     debugImplementation("androidx.compose.ui:ui-tooling")
 }

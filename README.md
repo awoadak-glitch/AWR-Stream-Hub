@@ -1,59 +1,62 @@
-# AWR Stream Hub — Global Fullstack Pro
+# AWR Stream Hub — Direct GitHub Connected
 
-نسخة كاملة مبدئية تجمع:
+هذه النسخة مربوطة مباشرة بريبوك:
 
-- Android Jetpack Compose frontend بتصميم سينمائي.
-- تبويبات Home / Movies / K-Drama / Anime / Search / Requests.
-- زر Fetch AR + EN SRT داخل تفاصيل كل عمل.
-- Request Center لطلب فيلم/مسلسل/أنمي أو ترجمة فوراً.
-- Backend Node/Express جاهز محلياً.
-- GitHub Actions:
-  - بناء APK.
-  - جلب 100 عنصر من كل نوع كل 10 دقائق.
-  - معالجة الطلبات ذات الأولوية.
-  - إنشاء ملفات SRT عند الطلب.
-- ملفات JSON داخل `data/` ليقرأها التطبيق لاحقاً من GitHub Raw أو CDN.
+- `awoadak-glitch/AWR-Stream-Hub`
+- تقرأ البيانات من:
+  - `data/movies.json`
+  - `data/anime.json`
+  - `data/kdrama.json`
+- لا تحتوي أعمال وهمية داخل التطبيق.
+- إذا كانت ملفات JSON فارغة سيعرض التطبيق رسالة فارغة فقط.
 
-## مهم قانونياً
+## أهم ميزة
 
-هذا المشروع مصمم لجلب بيانات metadata والترجمات للمحتوى الذي تملك حق استخدامه أو المحتوى المرخص. لا يحتوي على أي نظام لسحب أفلام أو حلقات مقرصنة.
-
-## بناء APK
-
-ارفع المشروع إلى GitHub ثم شغّل workflow:
-
-```bash
-gradle :app:assembleDebug --stacktrace
-```
-
-## تشغيل backend محلياً
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-Endpoints:
+داخل التطبيق افتح تبويب **Settings** وضع:
 
 ```text
-GET  /health
-GET  /catalog/movies
-GET  /catalog/kdrama
-GET  /catalog/anime
-GET  /search?q=anime
-POST /request
-POST /subtitle/request
+Owner: awoadak-glitch
+Repo: AWR-Stream-Hub
+Branch: main
+GitHub Token: token الخاص بك
 ```
 
-## Secrets المقترحة لاحقاً
+بعدها:
+
+- زر **Request now via GitHub Workflow** يشغل `priority-requests.yml`.
+- زر **Fetch / Generate AR + EN SRT** يشغل `subtitle-demand.yml`.
+- زر **Refresh** يعيد قراءة GitHub Raw.
+
+## صلاحيات GitHub Token
+
+استخدم Fine-grained token على نفس الريبو فقط:
+
+```text
+Repository: AWR-Stream-Hub
+Actions: Read and Write
+Contents: Read and Write
+Metadata: Read
+```
+
+## أسرار GitHub المطلوبة للـ workflows
+
+ضعها في:
+
+```text
+Settings → Secrets and variables → Actions
+```
 
 ```text
 TMDB_API_KEY
-OPENROUTER_API_KEY
 GROQ_API_KEY
+OPENROUTER_API_KEY
 ```
 
-## المرحلة القادمة
+## ملاحظات الترجمة
 
-ربط التطبيق فعلياً بـ GitHub JSON/API بدل البيانات التجريبية الموجودة داخل الواجهة، ثم إضافة caching وصور حقيقية وإشعارات الطلبات.
+إنشاء SRT حقيقي يحتاج مصدر قانوني:
+
+- `source_srt_url` أو
+- `video_url`
+
+إذا ضغطت طلب ترجمة بدون مصدر، سيحفظ workflow الحالة `needs_source` في `data/subtitles_index.json` ولا ينشئ ترجمة وهمية.
