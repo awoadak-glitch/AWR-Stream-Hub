@@ -5,6 +5,14 @@ from pathlib import Path
 DATA = Path('data')
 IMG = 'https://image.tmdb.org/t/p/w780'
 
+# دالة توليد روابط المشاهدة الذكية
+def get_watch_urls(tmdb_id, kind):
+    # الأفلام تستخدم المسار movie، المسلسلات (بما فيها الأنمي والكوري) تستخدم tv
+    vidsrc_kind = "movie" if kind == "movie" else "tv"
+    return [
+        {"name": "Vidsrc (Dood/OK)", "url": f"https://vidsrc.cc/v2/embed/{vidsrc_kind}/{tmdb_id}"},
+        {"name": "Multiembed (Direct)", "url": f"https://multiembed.mov/directstream.php?video_id={tmdb_id}&tmdb=1"}
+    ]
 
 def tmdb(path, params):
     key = os.environ.get('TMDB_API_KEY', '').strip()
@@ -16,7 +24,6 @@ def tmdb(path, params):
     with urllib.request.urlopen(url, timeout=30) as r:
         return json.loads(r.read().decode('utf-8'))
 
-
 def genre_map(kind):
     endpoint = '/genre/movie/list' if kind == 'movie' else '/genre/tv/list'
     try:
@@ -24,16 +31,17 @@ def genre_map(kind):
     except Exception:
         return {}
 
-
 def clean_item(x, kind, genres):
+    tmdb_id = x.get('id')
     title = x.get('title') or x.get('name') or x.get('original_title') or x.get('original_name') or 'Untitled'
     date = x.get('release_date') or x.get('first_air_date') or ''
-    item_id = f"{kind}-{x.get('id', str(abs(hash(title))))}"
+    item_id = f"{kind}-{tmdb_id}"
     poster = x.get('poster_path') or ''
     backdrop = x.get('backdrop_path') or ''
+    
     return {
         'id': item_id,
-        'tmdb_id': x.get('id'),
+        'tmdb_id': tmdb_id,
         'title': title,
         'original': x.get('original_title') or x.get('original_name') or title,
         'kind': kind,
@@ -44,10 +52,10 @@ def clean_item(x, kind, genres):
         'backdrop': IMG + backdrop if backdrop else '',
         'overview': x.get('overview') or '',
         'genres': [genres.get(g, str(g)) for g in x.get('genre_ids', [])[:4]],
+        'watch_urls': get_watch_urls(tmdb_id, kind), # هنا تم إدراج روابط المشاهدة
         'subtitle_status': 'missing',
         'updated_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
     }
-
 
 def discover_movies(limit):
     genres = genre_map('movie')
@@ -62,7 +70,6 @@ def discover_movies(limit):
         page += 1
     return dedupe(out)[:limit]
 
-
 def discover_kdrama(limit):
     genres = genre_map('tv')
     out = []
@@ -75,7 +82,6 @@ def discover_kdrama(limit):
         out += [clean_item(x, 'kdrama', genres) for x in data.get('results', [])]
         page += 1
     return dedupe(out)[:limit]
-
 
 def discover_anime(limit):
     genres = genre_map('tv')
@@ -90,7 +96,6 @@ def discover_anime(limit):
         page += 1
     return dedupe(out)[:limit]
 
-
 def dedupe(items):
     seen, out = set(), []
     for i in items:
@@ -99,11 +104,9 @@ def dedupe(items):
             seen.add(key); out.append(i)
     return out
 
-
 def write(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-
 
 def main():
     ap = argparse.ArgumentParser()
