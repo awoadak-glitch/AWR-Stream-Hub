@@ -1,1 +1,2582 @@
-[]
+[
+  {
+    "id": "anime-218613",
+    "tmdb_id": 218613,
+    "title": "TenPuru",
+    "overview": "\"I know! I'll become a monk!\" Akagami Akemitsu has spent his days and nights absorbed in studying and part-time work in an effort to distance himself from his family, which is notorious as a household of philanderers. One day, he falls in love at first sight with a girl named Aoba Yuzuki, and suddenly he's constantly drowning in worldly desires. Hoping to fight back against his genes and live a more stoic life, he enters a temple... only to find out that it's a convent filled with gorgeous girls! So begins a new rom-com about the temple life of three adorable triplets and two beautiful freeloaders!",
+    "poster": "https://image.tmdb.org/t/p/w780/3zGVf8svzcsFD4MyWpPfUcXYRVK.jpg",
+    "kind": "anime",
+    "updated_at": "2026-06-26T14:03:29Z",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "name": "حلقة 1",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/1"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/1"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=1"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/1"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/1"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 2",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/2"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/2"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=2"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/2"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/2"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 3",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/3"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/3"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=3"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/3"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/3"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 4",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/4"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/4"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=4"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/4"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/4"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 5",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/5"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/5"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=5"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/5"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/5"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 6",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/6"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/6"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=6"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/6"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/6"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 7",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/7"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/7"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=7"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/7"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/7"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 8",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/8"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/8"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=8"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/8"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/8"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 9",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/9"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/9"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=9"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/9"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/9"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 10",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/10"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/10"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=10"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/10"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/10"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 11",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/11"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/11"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=11"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/11"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/11"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 12",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/218613/1/12"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/218613/1/12"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=218613&tmdb=1&s=1&e=12"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/218613/1/12"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/218613/1/12"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-95897",
+    "tmdb_id": 95897,
+    "title": "Overflow",
+    "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+    "poster": "https://image.tmdb.org/t/p/w780/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+    "kind": "anime",
+    "updated_at": "2026-06-26T14:03:29Z",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "name": "حلقة 1",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/1"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/1"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=1"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/1"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/1"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 2",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/2"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/2"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=2"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/2"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/2"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 3",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/3"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/3"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=3"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/3"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/3"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 4",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/4"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/4"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=4"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/4"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/4"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 5",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/5"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/5"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=5"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/5"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/5"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 6",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/6"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/6"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=6"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/6"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/6"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 7",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/7"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/7"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=7"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/7"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/7"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 8",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/95897/1/8"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/95897/1/8"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=95897&tmdb=1&s=1&e=8"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/95897/1/8"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/95897/1/8"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-232393",
+    "tmdb_id": 232393,
+    "title": "6 Lovers",
+    "overview": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the magazine's 20th anniversary. Six anime series are collected into an \"in motion\" series titled \"6 Lovers.\"",
+    "poster": "https://image.tmdb.org/t/p/w780/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+    "kind": "anime",
+    "updated_at": "2026-06-26T14:03:29Z",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "name": "حلقة 1",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/1"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/1"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=1"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/1"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/1"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 2",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/2"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/2"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=2"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/2"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/2"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 3",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/3"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/3"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=3"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/3"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/3"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 4",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/4"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/4"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=4"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/4"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/4"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 5",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/5"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/5"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=5"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/5"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/5"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 6",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/232393/1/6"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/232393/1/6"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1&s=1&e=6"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/232393/1/6"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/232393/1/6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-45952",
+    "tmdb_id": 45952,
+    "title": "Hunter x Hunter",
+    "overview": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famous Hunter: an individual who has proven themself an elite member of humanity. Gon becomes determined to follow in his father's footsteps, pass the rigorous Hunter Examination.",
+    "poster": "https://image.tmdb.org/t/p/w780/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+    "kind": "anime",
+    "updated_at": "2026-06-26T14:03:28Z",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "name": "حلقة 1",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/1"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/1"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=1"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/1"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/1"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 2",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/2"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/2"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=2"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/2"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/2"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 3",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/3"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/3"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=3"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/3"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/3"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 4",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/4"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/4"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=4"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/4"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/4"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 5",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/5"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/5"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=5"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/5"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/5"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 6",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/6"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/6"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=6"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/6"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/6"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 7",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/7"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/7"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=7"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/7"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/7"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 8",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/8"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/8"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=8"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/8"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/8"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 9",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/9"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/9"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=9"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/9"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/9"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 10",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/10"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/10"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=10"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/10"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/10"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 11",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/11"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/11"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=11"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/11"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/11"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 12",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/12"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/12"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=12"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/12"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/12"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 13",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/13"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/13"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=13"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/13"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/13"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 14",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/14"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/14"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=14"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/14"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/14"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 15",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/15"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/15"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=15"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/15"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/15"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 16",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/16"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/16"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=16"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/16"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/16"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 17",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/17"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/17"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=17"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/17"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/17"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 18",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/18"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/18"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=18"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/18"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/18"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 19",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/19"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/19"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=19"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/19"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/19"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 20",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/20"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/20"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=20"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/20"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/20"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 21",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/21"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/21"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=21"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/21"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/21"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 22",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/22"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/22"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=22"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/22"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/22"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 23",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/23"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/23"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=23"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/23"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/23"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 24",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/24"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/24"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=24"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/24"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/24"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 25",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/25"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/25"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=25"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/25"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/25"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 26",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/26"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/26"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=26"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/26"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/26"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 27",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/27"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/27"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=27"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/27"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/27"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 28",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/28"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/28"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=28"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/28"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/28"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 29",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/29"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/29"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=29"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/29"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/29"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 30",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/30"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/30"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=30"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/30"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/30"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 31",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/31"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/31"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=31"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/31"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/31"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 32",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/32"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/32"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=32"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/32"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/32"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 33",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/33"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/33"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=33"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/33"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/33"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 34",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/34"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/34"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=34"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/34"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/34"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 35",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/35"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/35"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=35"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/35"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/35"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 36",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/36"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/36"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=36"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/36"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/36"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 37",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/37"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/37"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=37"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/37"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/37"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 38",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/38"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/38"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=38"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/38"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/38"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 39",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/39"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/39"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=39"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/39"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/39"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 40",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/40"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/40"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=40"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/40"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/40"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 41",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/41"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/41"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=41"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/41"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/41"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 42",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/42"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/42"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=42"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/42"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/42"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 43",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/43"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/43"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=43"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/43"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/43"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 44",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/44"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/44"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=44"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/44"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/44"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 45",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/45"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/45"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=45"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/45"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/45"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 46",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/46"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/46"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=46"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/46"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/46"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 47",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/47"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/47"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=47"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/47"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/47"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 48",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/48"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/48"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=48"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/48"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/48"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 49",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/49"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/49"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=49"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/49"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/49"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 50",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/50"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/50"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=50"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/50"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/50"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 51",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/51"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/51"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=51"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/51"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/51"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 52",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/52"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/52"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=52"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/52"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/52"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 53",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/53"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/53"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=53"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/53"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/53"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 54",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/54"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/54"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=54"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/54"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/54"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 55",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/55"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/55"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=55"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/55"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/55"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 56",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/56"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/56"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=56"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/56"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/56"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 57",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/57"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/57"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=57"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/57"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/57"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 58",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/58"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/58"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=58"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/58"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/58"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 59",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/59"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/59"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=59"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/59"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/59"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 60",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/60"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/60"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=60"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/60"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/60"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 61",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/61"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/61"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=61"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/61"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/61"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 62",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/45952/1/62"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/45952/1/62"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=45952&tmdb=1&s=1&e=62"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/45952/1/62"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/45952/1/62"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-276880",
+    "tmdb_id": 276880,
+    "title": "Please Put Them On, Takamine-san",
+    "overview": "Student council president Takane Takamine is a popular star student. On the other hand, Koushi Shirota doesn't have many friends. That all changes when Koushi accidentally discovers Takane's ability to go back in time and alter past actions just by changing her lingerie. After some pestering, Koushi agrees to help Takane and be her closet, by having spare lingerie on hand.",
+    "poster": "https://image.tmdb.org/t/p/w780/aN4X9QSECSfh5p8S3HtTiWRKJla.jpg",
+    "kind": "anime",
+    "updated_at": "2026-06-26T14:03:28Z",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "name": "حلقة 1",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/1"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/1"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=1"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/1"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/1"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 2",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/2"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/2"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=2"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/2"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/2"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 3",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/3"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/3"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=3"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/3"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/3"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 4",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/4"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/4"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=4"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/4"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/4"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 5",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/5"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/5"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=5"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/5"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/5"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 6",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/6"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/6"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=6"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/6"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/6"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 7",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/7"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/7"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=7"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/7"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/7"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 8",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/8"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/8"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=8"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/8"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/8"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 9",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/9"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/9"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=9"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/9"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/9"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 10",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/10"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/10"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=10"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/10"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/10"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 11",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/11"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/11"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=11"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/11"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/11"
+              }
+            ]
+          },
+          {
+            "name": "حلقة 12",
+            "servers": [
+              {
+                "name": "Vidsrc Pro",
+                "url": "https://vidsrc.pro/embed/tv/276880/1/12"
+              },
+              {
+                "name": "Vidsrc.to",
+                "url": "https://vidsrc.to/embed/tv/276880/1/12"
+              },
+              {
+                "name": "MultiEmbed",
+                "url": "https://multiembed.mov/directstream.php?video_id=276880&tmdb=1&s=1&e=12"
+              },
+              {
+                "name": "EmbedSu",
+                "url": "https://embed.su/embed/tv/276880/1/12"
+              },
+              {
+                "name": "Vidlink",
+                "url": "https://vidlink.pro/tv/276880/1/12"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
