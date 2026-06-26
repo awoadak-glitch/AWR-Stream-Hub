@@ -1,6 +1,8 @@
 package com.awr.streamhub
 
 import android.content.Context
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -117,6 +119,23 @@ enum class HubTab(val label: String, val icon: String) {
     Home("Home", "✦"), Movies("Movies", "▣"), Drama("K-Drama", "◆"), Anime("Anime", "◈"), Search("Search", "⌕"), Requests("Requests", "⚡"), Settings("Settings", "⚙")
 }
 
+data class ServerLink(
+    val name: String,
+    val url: String
+)
+
+data class EpisodeItem(
+    val name: String,
+    val season: Int,
+    val episode: Int,
+    val servers: List<ServerLink>
+)
+
+data class SeasonItem(
+    val season: Int,
+    val episodes: List<EpisodeItem>
+)
+
 data class MediaItem(
     val id: String,
     val title: String,
@@ -130,7 +149,9 @@ data class MediaItem(
     val poster: String,
     val backdrop: String,
     val subtitleStatus: String,
-    val episodes: Int = 1
+    val episodes: Int = 1,
+    val servers: List<ServerLink> = emptyList(),
+    val seasons: List<SeasonItem> = emptyList()
 )
 
 data class JobItem(val title: String, val status: String, val tag: String)
@@ -412,7 +433,7 @@ private fun MediaCard(item: MediaItem, compact: Boolean, onSelect: (MediaItem) -
                 Text(item.type, color = Gold, fontSize = 11.sp, fontWeight = FontWeight.Bold)
                 Text(item.title, color = Color.White, fontSize = 17.sp, fontWeight = FontWeight.Black, maxLines = 2, overflow = TextOverflow.Ellipsis)
                 Text("${item.year} • ${item.rating} • ${item.language}", color = Color.White.copy(.75f), fontSize = 12.sp)
-                Text(item.subtitleStatus, color = Cyan, fontSize = 12.sp, maxLines = 1)
+                Text(item.contentHint(), color = Cyan, fontSize = 12.sp, maxLines = 1)
             }
         }
     }
@@ -514,6 +535,9 @@ private fun SettingsScreen(settings: GitHubSettings, message: String, onSave: (G
 
 @Composable
 private fun DetailSheet(item: MediaItem, onRequestCatalog: () -> Unit, onRequestSubtitle: () -> Unit) {
+    val context = LocalContext.current
+    var expandedSeason by remember(item.id) { mutableStateOf(item.seasons.firstOrNull()?.season ?: 1) }
+
     LazyColumn(contentPadding = PaddingValues(20.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
         item {
             Row(verticalAlignment = Alignment.CenterVertically) {
@@ -523,16 +547,88 @@ private fun DetailSheet(item: MediaItem, onRequestCatalog: () -> Unit, onRequest
                 Spacer(Modifier.width(16.dp))
                 Column(Modifier.weight(1f)) {
                     Text(item.title, color = Color.White, fontSize = 24.sp, fontWeight = FontWeight.Black)
-                    Text(item.original, color = Muted)
+                    Text(item.original, color = Muted, maxLines = 1, overflow = TextOverflow.Ellipsis)
                     Text("${item.type} • ${item.year} • ${item.rating} • ${item.language}", color = Gold, fontSize = 13.sp)
+                    Text(item.contentHint(), color = Cyan, fontSize = 12.sp, fontWeight = FontWeight.Bold)
                 }
             }
+        }
+
+        item {
             Text(item.overview, color = Color.White.copy(.82f), lineHeight = 20.sp)
-            Text("Genres: ${item.genres.joinToString()}", color = Muted, fontSize = 13.sp)
+            if (item.genres.isNotEmpty()) Text("Genres: ${item.genres.joinToString()}", color = Muted, fontSize = 13.sp)
             Text("Subtitle status: ${item.subtitleStatus}", color = Cyan, fontWeight = FontWeight.Bold)
+        }
+
+        if (item.servers.isNotEmpty()) {
+            item { SectionTitle("Watch servers", "${item.servers.size} available") }
+            items(item.servers) { server ->
+                ServerButton(server = server, onOpen = { openUrl(context, server.url) })
+            }
+        }
+
+        if (item.seasons.isNotEmpty()) {
+            item { SectionTitle("Episodes", "${item.seasons.sumOf { it.episodes.size }} episodes") }
+            item {
+                LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    items(item.seasons) { season ->
+                        OutlinedButton(
+                            onClick = { expandedSeason = season.season },
+                            border = BorderStroke(1.dp, if (expandedSeason == season.season) Gold else Color.White.copy(.18f))
+                        ) {
+                            Text("Season ${season.season}", color = if (expandedSeason == season.season) Gold else Color.White)
+                        }
+                    }
+                }
+            }
+
+            val selectedSeason = item.seasons.firstOrNull { it.season == expandedSeason } ?: item.seasons.first()
+            items(selectedSeason.episodes) { episode ->
+                EpisodeCard(episode = episode, onOpen = { server -> openUrl(context, server.url) })
+            }
+        }
+
+        item {
             Button(onClick = onRequestSubtitle, modifier = Modifier.fillMaxWidth(), colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Color.Black)) { Text("Fetch / Generate AR + EN SRT") }
             OutlinedButton(onClick = onRequestCatalog, modifier = Modifier.fillMaxWidth(), border = BorderStroke(1.dp, Gold)) { Text("Request catalog refresh for this title", color = Gold) }
             Spacer(Modifier.height(25.dp))
+        }
+    }
+}
+
+@Composable
+private fun ServerButton(server: ServerLink, onOpen: () -> Unit) {
+    Card(colors = CardDefaults.cardColors(containerColor = Color(0xCC11131E)), shape = RoundedCornerShape(18.dp), border = BorderStroke(1.dp, Color.White.copy(.08f))) {
+        Row(Modifier.fillMaxWidth().padding(12.dp), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.SpaceBetween) {
+            Column(Modifier.weight(1f)) {
+                Text(server.name.ifBlank { "Server" }, color = Color.White, fontWeight = FontWeight.Bold)
+                Text(server.url, color = Muted, fontSize = 11.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+            }
+            Spacer(Modifier.width(10.dp))
+            Button(onClick = onOpen, colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Color.Black)) { Text("Play") }
+        }
+    }
+}
+
+@Composable
+private fun EpisodeCard(episode: EpisodeItem, onOpen: (ServerLink) -> Unit) {
+    Card(colors = CardDefaults.cardColors(containerColor = Color(0xCC11131E)), shape = RoundedCornerShape(18.dp), border = BorderStroke(1.dp, Color.White.copy(.08f))) {
+        Column(Modifier.fillMaxWidth().padding(12.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Text(episode.name, color = Color.White, fontWeight = FontWeight.Bold)
+            if (episode.servers.isEmpty()) {
+                Text("لا توجد سيرفرات لهذه الحلقة", color = Muted, fontSize = 12.sp)
+            } else {
+                episode.servers.forEach { server ->
+                    Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.SpaceBetween) {
+                        Column(Modifier.weight(1f)) {
+                            Text(server.name.ifBlank { "Server" }, color = Gold, fontSize = 13.sp, fontWeight = FontWeight.Bold)
+                            Text(server.url, color = Muted, fontSize = 11.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                        }
+                        Spacer(Modifier.width(8.dp))
+                        OutlinedButton(onClick = { onOpen(server) }, border = BorderStroke(1.dp, Gold)) { Text("Play", color = Gold) }
+                    }
+                }
+            }
         }
     }
 }
@@ -606,8 +702,75 @@ private fun parseMedia(o: JSONObject, fallbackType: String): MediaItem {
         poster = normalizeImage(o.optString("poster", o.optString("poster_path", ""))),
         backdrop = normalizeImage(o.optString("backdrop", o.optString("backdrop_path", ""))),
         subtitleStatus = o.optString("subtitle_status", o.optString("subtitle", "unknown")),
-        episodes = o.optInt("episodes", o.optInt("number_of_episodes", 1))
+        episodes = o.optInt("episodes", o.optInt("number_of_episodes", countEpisodes(o.optJSONArray("seasons")))),
+        servers = parseServers(o.optJSONArray("servers") ?: o.optJSONArray("watch_urls")),
+        seasons = parseSeasons(o.optJSONArray("seasons"))
     )
+}
+
+private fun parseServers(arr: JSONArray?): List<ServerLink> {
+    if (arr == null) return emptyList()
+    return List(arr.length()) { idx ->
+        val o = arr.optJSONObject(idx) ?: JSONObject()
+        ServerLink(
+            name = o.optString("name", "Server ${idx + 1}"),
+            url = o.optString("url", o.optString("watch_url", o.optString("video_url", "")))
+        )
+    }.filter { it.url.isNotBlank() }
+}
+
+private fun parseSeasons(arr: JSONArray?): List<SeasonItem> {
+    if (arr == null) return emptyList()
+    return List(arr.length()) { sIdx ->
+        val seasonObj = arr.optJSONObject(sIdx) ?: JSONObject()
+        val seasonNumber = seasonObj.optInt("season", seasonObj.optInt("season_number", sIdx + 1))
+        val episodesArr = seasonObj.optJSONArray("episodes")
+        val episodes = if (episodesArr == null) emptyList() else List(episodesArr.length()) { eIdx ->
+            val epObj = episodesArr.optJSONObject(eIdx) ?: JSONObject()
+            val epNumber = epObj.optInt("episode", epObj.optInt("episode_number", eIdx + 1))
+            val directServers = parseServers(epObj.optJSONArray("servers") ?: epObj.optJSONArray("watch_urls"))
+            val singleUrl = epObj.optString("url", epObj.optString("watch_url", epObj.optString("video_url", "")))
+            val servers = if (directServers.isNotEmpty()) {
+                directServers
+            } else if (singleUrl.isNotBlank()) {
+                listOf(ServerLink(epObj.optString("server", "Default"), singleUrl))
+            } else {
+                emptyList()
+            }
+            EpisodeItem(
+                name = epObj.optString("name", "حلقة $epNumber"),
+                season = seasonNumber,
+                episode = epNumber,
+                servers = servers
+            )
+        }
+        SeasonItem(season = seasonNumber, episodes = episodes)
+    }.filter { it.episodes.isNotEmpty() }
+}
+
+private fun countEpisodes(arr: JSONArray?): Int {
+    if (arr == null) return 1
+    var total = 0
+    for (i in 0 until arr.length()) {
+        total += arr.optJSONObject(i)?.optJSONArray("episodes")?.length() ?: 0
+    }
+    return if (total > 0) total else 1
+}
+
+private fun MediaItem.contentHint(): String {
+    val seasonCount = seasons.size
+    val episodeCount = seasons.sumOf { it.episodes.size }
+    return when {
+        seasonCount > 0 -> "$seasonCount seasons • $episodeCount episodes"
+        servers.isNotEmpty() -> "${servers.size} servers"
+        else -> subtitleStatus
+    }
+}
+
+private fun openUrl(context: Context, url: String) {
+    if (url.isBlank()) return
+    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
+    context.startActivity(intent)
 }
 
 private fun dispatchPriority(settings: GitHubSettings, title: String, kind: String): String {
