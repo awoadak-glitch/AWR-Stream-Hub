@@ -1,0 +1,6 @@
+{
+  "movies": "data/movies.json",
+  "anime": "data/anime.json",
+  "kdrama": "data/kdrama.json",
+  "updated_at": null
+}
