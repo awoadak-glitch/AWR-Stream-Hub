@@ -7,70 +7,70 @@ IMG = 'https://image.tmdb.org/t/p/w780'
 
 def tmdb(path, params):
     key = os.environ.get('TMDB_API_KEY', '').strip()
+    if not key: raise SystemExit('TMDB_API_KEY missing')
     params['api_key'] = key
     url = 'https://api.themoviedb.org/3' + path + '?' + urllib.parse.urlencode(params)
     with urllib.request.urlopen(url, timeout=30) as r:
         return json.loads(r.read().decode('utf-8'))
 
-# دالة لتوليد رابط مشاهدة لكل حلقة
-def get_episode_url(tmdb_id, season, episode):
-    # استخدام معرف vidsrc الذي يدعم تحديد الموسم والحلقة
-    return f"https://vidsrc.cc/v2/embed/tv/{tmdb_id}/{season}/{episode}"
-
 def get_tv_details(tmdb_id):
-    # جلب تفاصيل المسلسل لمعرفة المواسم
     data = tmdb(f'/tv/{tmdb_id}', {'language': 'en-US'})
-    seasons = []
-    for season in data.get('seasons', []):
-        s_num = season.get('season_number')
-        if s_num == 0: continue # تخطي الـ specials
-        
-        # جلب حلقات الموسم
-        episodes_data = tmdb(f'/tv/{tmdb_id}/season/{s_num}', {'language': 'en-US'})
-        episodes = []
-        for ep in episodes_data.get('episodes', []):
-            episodes.append({
-                'name': f"حلقة {ep.get('episode_number')}",
-                'url': get_episode_url(tmdb_id, s_num, ep.get('episode_number'))
-            })
-        seasons.append({'season': s_num, 'episodes': episodes})
-    return seasons
+    seasons_list = []
+    for s in data.get('seasons', []):
+        s_num = s.get('season_number')
+        if s_num == 0 or not s.get('episode_count'): continue
+        ep_data = tmdb(f'/tv/{tmdb_id}/season/{s_num}', {'language': 'en-US'})
+        episodes = [{
+            'name': f"حلقة {e.get('episode_number')}",
+            'url': f"https://vidsrc.cc/v2/embed/tv/{tmdb_id}/{s_num}/{e.get('episode_number')}"
+        } for e in ep_data.get('episodes', [])]
+        seasons_list.append({'season': s_num, 'episodes': episodes})
+    return seasons_list
 
-def clean_series(x, kind):
+def clean_item(x, kind):
     tmdb_id = x.get('id')
-    return {
+    base = {
         'id': f"{kind}-{tmdb_id}",
         'tmdb_id': tmdb_id,
-        'title': x.get('name'),
-        'kind': kind,
+        'title': x.get('title') or x.get('name'),
+        'overview': x.get('overview', ''),
         'poster': IMG + (x.get('poster_path') or ''),
-        'seasons': get_tv_details(tmdb_id), # هنا سحب كامل للمواسم والحلقات
+        'kind': kind,
         'updated_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
     }
-
-# تعديل دالة fetch للتعامل مع المسلسلات
-def fetch_series(endpoint, kind, params):
-    out = []
-    data = tmdb(endpoint, params)
-    for x in data.get('results', [])[:10]: # جلب 10 مسلسلات جديدة في كل تشغيلة لتجنب ضغط الـ API
-        out.append(clean_series(x, kind))
-    return out
+    if kind == 'movie':
+        base['watch_url'] = f"https://vidsrc.cc/v2/embed/movie/{tmdb_id}"
+    else:
+        base['seasons'] = get_tv_details(tmdb_id)
+    return base
 
 def merge_and_save(path, new_items):
-    existing = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
+    existing = []
+    if path.exists():
+        try:
+            content = path.read_text(encoding='utf-8').strip()
+            if content: existing = json.loads(content)
+        except: existing = []
+    
     seen = {i['id'] for i in existing}
     for item in new_items:
         if item['id'] not in seen:
             existing.insert(0, item)
-            seen.add(item['id'])
     path.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding='utf-8')
 
 def main():
     DATA.mkdir(exist_ok=True)
-    # سحب الكيدراما والأنمي
-    merge_and_save(DATA / 'kdrama.json', fetch_series('/discover/tv', 'kdrama', {'with_origin_country': 'KR', 'with_original_language': 'ko'}))
-    merge_and_save(DATA / 'anime.json', fetch_series('/discover/tv', 'anime', {'with_origin_country': 'JP', 'with_genres': '16'}))
-    print("تم تحديث المسلسلات مع كامل الحلقات.")
+    # سحب أفلام
+    movies = [clean_item(x, 'movie') for x in tmdb('/discover/movie', {'sort_by': 'popularity.desc', 'vote_count.gte': '100'}).get('results', [])[:20]]
+    merge_and_save(DATA / 'movies.json', movies)
+    
+    # سحب كيدراما
+    kdrama = [clean_item(x, 'kdrama') for x in tmdb('/discover/tv', {'with_origin_country': 'KR', 'with_original_language': 'ko'}).get('results', [])[:10]]
+    merge_and_save(DATA / 'kdrama.json', kdrama)
+    
+    # سحب أنمي
+    anime = [clean_item(x, 'anime') for x in tmdb('/discover/tv', {'with_origin_country': 'JP', 'with_genres': '16'}).get('results', [])[:10]]
+    merge_and_save(DATA / 'anime.json', anime)
 
 if __name__ == '__main__':
     main()
