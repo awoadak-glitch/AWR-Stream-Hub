@@ -4,5 +4,11 @@
     "status": "needs_source",
     "message": "Provide source_srt_url or legal video_url to generate real SRT.",
     "updated_at": "2026-06-26T12:52:08Z"
+  },
+  "kdrama-274570": {
+    "id": "kdrama-274570",
+    "status": "needs_source",
+    "message": "Provide source_srt_url or legal video_url to generate real SRT.",
+    "updated_at": "2026-06-26T13:34:11Z"
   }
 }
