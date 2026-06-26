@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-06-26T13:26:07Z",
-  "movies_count": 99,
-  "kdrama_count": 100,
-  "anime_count": 100,
-  "files": {
-    "movies": "data/movies.json",
-    "kdrama": "data/kdrama.json",
-    "anime": "data/anime.json"
-  }
+  "updated_at": "2026-06-26T13:32:58Z",
+  "added_movies": 396,
+  "added_kdrama": 371,
+  "added_anime": 364
 }

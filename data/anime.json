@@ -1,5 +1,6921 @@
 [
   {
+    "id": "anime-210181",
+    "tmdb_id": 210181,
+    "title": "Synduality Noir",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/x97QNSsHpHaq3HsbYD5Nhbsmr11.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/210181"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=210181&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-68071",
+    "tmdb_id": 68071,
+    "title": "ALL OUT!!",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/yxZPVoXgnepxo4y30qFKuMUZKtW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/68071"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=68071&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-243501",
+    "tmdb_id": 243501,
+    "title": "SHOSHIMIN: How to Become Ordinary",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/qYSvfn7OyVNB78ylL0m0Jw3oOrl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/243501"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=243501&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-80609",
+    "tmdb_id": 80609,
+    "title": "Kiteretsu Daihyakka",
+    "kind": "anime",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w780/3UoNmOT7E7o7FcGmzTMmcw1WGGU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/80609"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=80609&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-61461",
+    "tmdb_id": 61461,
+    "title": "Yona of the Dawn",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/aKLARBbIVlluToqSNYNQ0XOLhP.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61461"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61461&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-156563",
+    "tmdb_id": 156563,
+    "title": "The Reincarnation of the Strongest Exorcist in Another World",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/AvVe8mmY3FY3CJwbw5sCYubzaTj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/156563"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=156563&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-98748",
+    "tmdb_id": 98748,
+    "title": "Listeners",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/eUYgm7JQIDojyOSWc14yc1RTWzn.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/98748"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=98748&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-67575",
+    "tmdb_id": 67575,
+    "title": "Moomin",
+    "kind": "anime",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w780/oNwa7eEqZpnPaNGkFrvvd3mSKeJ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67575"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67575&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-5895",
+    "tmdb_id": 5895,
+    "title": "FLCL",
+    "kind": "anime",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w780/FkgA8CcmiLJGVCRYRQ2g2UfVtF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/5895"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=5895&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-243216",
+    "tmdb_id": 243216,
+    "title": "Wonderful Precure!",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/2PhiNPB0UyqBu9pHm0cluD0Sh3W.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/243216"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=243216&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-14451",
+    "tmdb_id": 14451,
+    "title": "Shugo Chara!",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/cP1oeOZCDv1KlQcaV7IpDAUpoFc.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/14451"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=14451&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-195990",
+    "tmdb_id": 195990,
+    "title": "Love Flops",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/oDdaWg2ROrXrpvixAN06MBiaYj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/195990"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=195990&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-118821",
+    "tmdb_id": 118821,
+    "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/118821"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=118821&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-44314",
+    "tmdb_id": 44314,
+    "title": "Dog Days",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/htSW5V0UpFZpVjldYnr8BvTe2T0.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/44314"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=44314&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-300131",
+    "tmdb_id": 300131,
+    "title": "KILL BLUE",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/lqly2Kha1aFu2lJ3e82ZxllEjBj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/300131"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=300131&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-1097",
+    "tmdb_id": 1097,
+    "title": "Ergo Proxy",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/tHcce6PKnhNBneSMbadI4jynHpY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/1097"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=1097&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-156510",
+    "tmdb_id": 156510,
+    "title": "Bibliophile Princess",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/S0xduJgRyZCDVzTjtZVuHIGlhj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/156510"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=156510&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-194774",
+    "tmdb_id": 194774,
+    "title": "Vermeil in Gold",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/bwAVzmeSKCCQbwixsuhADX5u6j7.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/194774"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=194774&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-138441",
+    "tmdb_id": 138441,
+    "title": "Ya Boy Kongming!",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/3WHz6tzLfoaJFoApAOHt2q9qR1m.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/138441"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=138441&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-5857",
+    "tmdb_id": 5857,
+    "title": "Macross Frontier",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/tV4FhGyWbkGQO0zV8arsrgnYXyT.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/5857"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=5857&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-62255",
+    "tmdb_id": 62255,
+    "title": "Seraph of the End",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/5IlxL2PfQ8CyY4TLRru9TcU56b3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62255"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62255&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-243140",
+    "tmdb_id": 243140,
+    "title": "Tonbo!",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/rAI0hOocFwELMJVmBJn1l3ubRD9.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/243140"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=243140&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-114868",
+    "tmdb_id": 114868,
+    "title": "Record of Ragnarok",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/114868"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=114868&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-85843",
+    "tmdb_id": 85843,
+    "title": "Kono Oto Tomare!: Sounds of Life",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/8Iro3QEDkPsqPNrA9UWhFUAgNOM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/85843"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=85843&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-271576",
+    "tmdb_id": 271576,
+    "title": "Summer Pockets",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/9k1bD9S3djSemQsQO7csBxEwMar.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/271576"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=271576&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-63164",
+    "tmdb_id": 63164,
+    "title": "Sgt. Frog",
+    "kind": "anime",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w780/moJbMMEEBHFxqAfPVCnomnLiW23.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/63164"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=63164&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-66078",
+    "tmdb_id": 66078,
+    "title": "Twin Star Exorcists",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/dbGtsHEuV8zREyMEXmf5YFtUZyL.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66078"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66078&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-62068",
+    "tmdb_id": 62068,
+    "title": "Cackling Kitarou",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/1oQI6xLEQbqJRrNcyFB0MxWKLuY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62068"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62068&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-237150",
+    "tmdb_id": 237150,
+    "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/jsugIfxS7mg7G254ZOi6b4jDIgM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/237150"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=237150&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-68074",
+    "tmdb_id": 68074,
+    "title": "Tiger Mask W",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/yisqc1PDIHL3fHoJdS0yPqGuOEO.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/68074"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=68074&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-253811",
+    "tmdb_id": 253811,
+    "title": "Tougen Anki",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/253811"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=253811&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-34663",
+    "tmdb_id": 34663,
+    "title": "Zenki",
+    "kind": "anime",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w780/sFhXlSqk4FnAvDBaG9YKYnJiE1V.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34663"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34663&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-62569",
+    "tmdb_id": 62569,
+    "title": "Go! Princess PreCure",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/uVwqlyJ6oqk4eRXYR7QIccFJ8pd.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62569"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62569&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-1042",
+    "tmdb_id": 1042,
+    "title": "Revolutionary Girl Utena",
+    "kind": "anime",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w780/riqymWBPqKmWpIvS3lVDYjZhwQ5.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/1042"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=1042&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-31679",
+    "tmdb_id": 31679,
+    "title": "Last Exile",
+    "kind": "anime",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w780/eJpGLLUoc2cYI6mxobHcmBCKHwk.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/31679"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=31679&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-201889",
+    "tmdb_id": 201889,
+    "title": "Kubo Won't Let Me Be Invisible",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/kQBRkfuByQVww9R51SeGsgDOIat.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/201889"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=201889&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-96884",
+    "tmdb_id": 96884,
+    "title": "Dragon Quest: The Adventure of Dai",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/i28TVlLozR09hqkGsSlu5wa1X2J.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/96884"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=96884&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-63576",
+    "tmdb_id": 63576,
+    "title": "Fate/kaleid liner Prisma Illya",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/fivwHxH3xddSkSyqonXtuydBpIY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/63576"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=63576&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-103927",
+    "tmdb_id": 103927,
+    "title": "Japan Animator Expo",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/c0hdu4gPQPiyK6y2N6mQONHUecM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/103927"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=103927&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-8974",
+    "tmdb_id": 8974,
+    "title": "Hell Girl",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/l50Wjrt2m362DjsKZVTpU2sp5L5.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/8974"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=8974&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-75208",
+    "tmdb_id": 75208,
+    "title": "Devilman Crybaby",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/2pQ9xfgDa3L3QpoXfkNhISby2R4.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/75208"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=75208&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-34121",
+    "tmdb_id": 34121,
+    "title": "Baccano!",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/jC4xEYiaGbgZkQSy1hOHbXhKh5D.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34121"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34121&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-216074",
+    "tmdb_id": 216074,
+    "title": "2.5 Dimensional Seduction",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/clrEz6ad3cFEae5q08iWsbnhhCW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/216074"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=216074&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-5660",
+    "tmdb_id": 5660,
+    "title": "Mobile Suit Gundam ZZ",
+    "kind": "anime",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w780/u7GMUFdfljplCbySERldRUReP6P.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/5660"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=5660&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-209077",
+    "tmdb_id": 209077,
+    "title": "Undead Unluck",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/pJYOYFlu4Vayz5xXJJuP7ViwHnT.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/209077"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=209077&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-105511",
+    "tmdb_id": 105511,
+    "title": "My Senpai Is Annoying",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/53cIDRA1JIzMSm9W0LrOPQkGuFg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105511"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105511&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-112138",
+    "tmdb_id": 112138,
+    "title": "Kageki Shojo!!",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/9PBHtRI3ZFdE3UkxsHBxbkzF3pl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/112138"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=112138&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-98823",
+    "tmdb_id": 98823,
+    "title": "Shadowverse",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/5OaguSPlSrfE1JCSsymwDXsdbz6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/98823"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=98823&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-121792",
+    "tmdb_id": 121792,
+    "title": "Akebi's Sailor Uniform",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/kGMOxl3o9QNeRzAvmeDJaaxLrtV.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/121792"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=121792&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-238843",
+    "tmdb_id": 238843,
+    "title": "The Fable",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/aQeVABaQ7gZedtmtDRwhrgOQwgq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/238843"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=238843&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-106342",
+    "tmdb_id": 106342,
+    "title": "I Want to Be His Prey!",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/iRwRV4CzpC6KyW7WbE9OsjICIlD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/106342"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=106342&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-111819",
+    "tmdb_id": 111819,
+    "title": "TSUKIMICHI -Moonlit Fantasy-",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/7XQ2dMEARAdUZQscnIJFPI54q3r.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/111819"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=111819&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-8864",
+    "tmdb_id": 8864,
+    "title": ".hack",
+    "kind": "anime",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w780/ukZD1VYRQbFLrwZX6CejZBpJlBE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/8864"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=8864&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-25117",
+    "tmdb_id": 25117,
+    "title": "Tomorrow's Joe",
+    "kind": "anime",
+    "year": 1970,
+    "poster": "https://image.tmdb.org/t/p/w780/tYPqEhoRYDXT1bl1klR6lZbqsln.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/25117"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=25117&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-68129",
+    "tmdb_id": 68129,
+    "title": "Yuri!!! on Ice",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/oxenakJNCj06JrWHENjvwaWGcSz.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/68129"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=68129&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-63663",
+    "tmdb_id": 63663,
+    "title": "Gate",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/bCuJkIUg1n9etSYrrQKlQuSrigE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/63663"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=63663&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-29310",
+    "tmdb_id": 29310,
+    "title": "Emma: A Victorian Romance",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/sbEsRPkypIVezOh6h5fZZN7LjUw.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/29310"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=29310&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-60844",
+    "tmdb_id": 60844,
+    "title": "Baby Steps",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/60844"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=60844&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-20353",
+    "tmdb_id": 20353,
+    "title": "Magical DoReMi",
+    "kind": "anime",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w780/iCINo8JNXswWelsEycO1frahHS1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/20353"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=20353&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-99083",
+    "tmdb_id": 99083,
+    "title": "Bottom-Tier Character Tomozaki",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/86sP2j7NdslbZywy98qPDtzgvEV.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/99083"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=99083&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-112160",
+    "tmdb_id": 112160,
+    "title": "The Way of the Househusband",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/p63rAZt0s8kedJtdxGwD5VYZafc.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/112160"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=112160&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-30982",
+    "tmdb_id": 30982,
+    "title": "Hikaru no Go",
+    "kind": "anime",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w780/wJI8Jrsxso3ftUqAuWEHHghZino.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30982"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30982&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-45211",
+    "tmdb_id": 45211,
+    "title": "Tari Tari",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/mr3wYtG6bO68Q1w32eHSQ5VBhPa.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45211"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45211&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-45997",
+    "tmdb_id": 45997,
+    "title": "The Devil Is a Part-Timer!",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/55jYHFT8iJuASF8Mzg0V8Dh3N3M.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45997"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45997&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-262141",
+    "tmdb_id": 262141,
+    "title": "I Have a Crush at Work",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/RV98CraecqAKfgGuhSyKrikd9Q.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/262141"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=262141&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-296870",
+    "tmdb_id": 296870,
+    "title": "Kusunoki's Garden of Gods",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/fZgfrsmBPFkZLmhVilfFjPDSsF6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/296870"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=296870&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-46440",
+    "tmdb_id": 46440,
+    "title": "Samurai Girls",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/HTVddlolhBpsE2JDPRpUrfv74G.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46440"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46440&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-68005",
+    "tmdb_id": 68005,
+    "title": "Yosuga no Sora",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/9F80WGUD6WYfoEDMImf988NlXhC.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/68005"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=68005&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-66103",
+    "tmdb_id": 66103,
+    "title": "Ace Attorney",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/6Rfcx9QxZqvsEl1Kh7yFhPpzb9R.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66103"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66103&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-93256",
+    "tmdb_id": 93256,
+    "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/bbg1FMU7c3W06KUKrgIhIECFliZ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/93256"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=93256&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-31713",
+    "tmdb_id": 31713,
+    "title": "Street Fighter II: V",
+    "kind": "anime",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w780/jwhr0Cttec7FgDDZqz19EIqNETK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/31713"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=31713&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-110975",
+    "tmdb_id": 110975,
+    "title": "Osamake: Romcom Where the Childhood Friend Won't Lose",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/xmVZuD4vr3fMwaPNvSuPZmQ76ai.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/110975"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=110975&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-98986",
+    "tmdb_id": 98986,
+    "title": "Uzaki-chan Wants to Hang Out!",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/kg7PD9mqKUlJulKTeHzVwHAKqqR.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/98986"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=98986&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-77240",
+    "tmdb_id": 77240,
+    "title": "Captain Tsubasa",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/77240"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=77240&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-78471",
+    "tmdb_id": 78471,
+    "title": "The Piano Forest",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/3sN8KTZFC8ypxnIhjoiE8M6L2Pj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/78471"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=78471&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-12536",
+    "tmdb_id": 12536,
+    "title": "Yu-Gi-Oh! GX",
+    "kind": "anime",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w780/dw9mYcs23tn3gxu2gbsYAfpX2Ye.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/12536"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=12536&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-52083",
+    "tmdb_id": 52083,
+    "title": "Amagami SS",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/fpMyFbUqu3eFl5Xm4sgGNEamrdE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/52083"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=52083&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-99995",
+    "tmdb_id": 99995,
+    "title": "I'm Standing on a Million Lives",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/vdUva7C2B1wZI2D4vjBSWJIc8IG.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/99995"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=99995&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-62715",
+    "tmdb_id": 62715,
+    "title": "Dragon Ball Super",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62715"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62715&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-194986",
+    "tmdb_id": 194986,
+    "title": "Spy Classroom",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/cjZL1z71AbNWVSs3ZpBcZ0LWac6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/194986"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=194986&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-137045",
+    "tmdb_id": 137045,
+    "title": "Tokyo 24th Ward",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/3NYB8HfKALKQ4cHGx8Rx4Dhd0YE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/137045"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=137045&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-24710",
+    "tmdb_id": 24710,
+    "title": "Nadia: The Secret of Blue Water",
+    "kind": "anime",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w780/gRucHR87gd3ZwvIP0V1IlEiLMzM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/24710"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=24710&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-83095",
+    "tmdb_id": 83095,
+    "title": "The Rising of the Shield Hero",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/83095"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=83095&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-60874",
+    "tmdb_id": 60874,
+    "title": "Space Dandy",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/yNjRKE4W2ZJIoCDA2o6brNqpjg7.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/60874"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=60874&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-56426",
+    "tmdb_id": 56426,
+    "title": "KochiKame",
+    "kind": "anime",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w780/ujltFuzCZ9FLe07kTRLZ2gpIJVY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/56426"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=56426&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-122369",
+    "tmdb_id": 122369,
+    "title": "Fuuto PI",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/oQpK0067z4owkPnFiulzauu5P7u.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/122369"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=122369&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-216272",
+    "tmdb_id": 216272,
+    "title": "Unnamed Memory",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/JKwYF6LbhsQOwgvfua2ZsQWoGv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/216272"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=216272&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-25760",
+    "tmdb_id": 25760,
+    "title": "Higurashi: When They Cry",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/m71gbHge6qp1kbWGJD5PsSWZpzI.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/25760"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=25760&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-67667",
+    "tmdb_id": 67667,
+    "title": "Beyblade Burst",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67667"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67667&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-76059",
+    "tmdb_id": 76059,
+    "title": "A Place Further than the Universe",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/vC3acJ5WsMSKLyXgEAj4zrwgpkG.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/76059"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=76059&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-203040",
+    "tmdb_id": 203040,
+    "title": "KONOSUBA – An Explosion on This Wonderful World!",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/68rh8l8RaGujTDF6k87yykxixIy.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/203040"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=203040&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-273467",
+    "tmdb_id": 273467,
+    "title": "The Warrior Princess and the Barbaric King",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/fv0Mr6ahZfmwksgDpVO46iMteA6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/273467"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=273467&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-37585",
+    "tmdb_id": 37585,
+    "title": "Kenichi: The Mightiest Disciple",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/xwpnnCCZErCfOBpWXy8y78cWfSt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/37585"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=37585&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-34674",
+    "tmdb_id": 34674,
+    "title": "Master Keaton",
+    "kind": "anime",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w780/5oMdGZa54VbeLVMed4CioWTVjQJ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34674"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34674&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-42511",
+    "tmdb_id": 42511,
+    "title": "The Melancholy of Haruhi Suzumiya",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/bimn3hOUjibgQD6RZn8rv1jiEL6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42511"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42511&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-75214",
+    "tmdb_id": 75214,
+    "title": "Violet Evergarden",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/61EwFPqc0r1uJo6la49J55F8bQ8.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/75214"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=75214&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:58Z"
+  },
+  {
+    "id": "anime-215799",
+    "tmdb_id": 215799,
+    "title": "Go! Go! Loser Ranger!",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/1xLqRhNM41Xv0UZRZsHBhsnB1lx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/215799"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=215799&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-56998",
+    "tmdb_id": 56998,
+    "title": "High School of the Dead",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/jaGpsfRddhzkZIlqxDnDqT3XBhr.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/56998"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=56998&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-62565",
+    "tmdb_id": 62565,
+    "title": "My Love Story!!",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/oKvrM8WVOGcSSwIKFfsAxIuk6Nx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62565"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62565&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-118541",
+    "tmdb_id": 118541,
+    "title": "The Slime Diaries",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/xONBusecKNd5BAaYue0pFKXANU6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/118541"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=118541&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-72505",
+    "tmdb_id": 72505,
+    "title": "In Another World with My Smartphone",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/k3DboKiicC4ZbJe50sjG1fGdMGX.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/72505"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=72505&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-60732",
+    "tmdb_id": 60732,
+    "title": "Maken-Ki! Battling Venus",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/wQub2j7xzXxjtjELPqDYgDmru4r.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/60732"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=60732&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-138180",
+    "tmdb_id": 138180,
+    "title": "In the Heart of Kunoichi Tsubaki",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/q2tuEq6N6Y5soicGzN3V7mz3L32.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/138180"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=138180&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61339",
+    "tmdb_id": 61339,
+    "title": "Sailor Moon Crystal",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/mVXlsNJw4fxD2UWNzaUh2TFfI5c.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61339"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61339&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-213830",
+    "tmdb_id": 213830,
+    "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/ruLkQB8i1yazHgO0QCWpyJRRTs9.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/213830"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=213830&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-91997",
+    "tmdb_id": 91997,
+    "title": "PLUTO",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/agf5sETjlO35s3EDA7wwGliZ5UW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/91997"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=91997&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-63087",
+    "tmdb_id": 63087,
+    "title": "Snow White with the Red Hair",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/jZtP1Zd7DNfVkPolpVhe7BCdDhL.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/63087"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=63087&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-212963",
+    "tmdb_id": 212963,
+    "title": "Buddy Daddies",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/qjRWZ1Ak9Ag6EvcA5LNhphqX8oV.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/212963"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=212963&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-137065",
+    "tmdb_id": 137065,
+    "title": "Arknights",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/1DDsRfaTNDZDhiy9TnZBxUOfkB2.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/137065"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=137065&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-291414",
+    "tmdb_id": 291414,
+    "title": "Does It Count If You Lose Your Innocence to an Android?",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/3gBgvOoYmnImpQ1pPx3u1xryNIn.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/291414"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=291414&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61408",
+    "tmdb_id": 61408,
+    "title": "Nagi-Asu: A Lull in the Sea",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/hOm9TB9JQJhAT1tBXGsngP35cCX.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61408"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61408&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-249854",
+    "tmdb_id": 249854,
+    "title": "mono",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/ukRfoQFqxDVttCGbyUg4ol3Nv6f.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/249854"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=249854&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-67011",
+    "tmdb_id": 67011,
+    "title": "Hybrid x Heart Magias Academy Ataraxia",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/s53DVqH9F2cw22O8enndCBQgTsF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67011"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67011&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-76134",
+    "tmdb_id": 76134,
+    "title": "Mitsuboshi Colors",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/uiB412p9JIfTqavtfJ54Izd64TD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/76134"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=76134&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-120155",
+    "tmdb_id": 120155,
+    "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/dtULGP3qRi932NzYGsp7u6q6zAS.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/120155"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=120155&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-37305",
+    "tmdb_id": 37305,
+    "title": "Soul Eater",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/hAszc4fYfKU4SexxiSIigS3z2WU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/37305"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=37305&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-64163",
+    "tmdb_id": 64163,
+    "title": "The Testament of Sister New Devil",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/4yrW5uBgcx7GSehJotlxWjAD0NQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/64163"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=64163&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-104711",
+    "tmdb_id": 104711,
+    "title": "EDENS ZERO",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/nfkn7IVG5aY2fyjHBIF3A98rMcl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/104711"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=104711&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-20695",
+    "tmdb_id": 20695,
+    "title": "Yu-Gi-Oh! 5D's",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/1fareX2gQVmpcxoPFHLAHu3ljld.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/20695"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=20695&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-44371",
+    "tmdb_id": 44371,
+    "title": "Spaceship Sagittarius",
+    "kind": "anime",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w780/pGlKqwpaqdig9208sgJQCi65YnB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/44371"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=44371&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-26867",
+    "tmdb_id": 26867,
+    "title": "Mushi-Shi",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/1EdA21TRBXJU5aBP4EHkOMF2tNx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/26867"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=26867&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-45783",
+    "tmdb_id": 45783,
+    "title": "Kuroko's Basketball",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45783"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45783&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-1087",
+    "tmdb_id": 1087,
+    "title": "Serial Experiments Lain",
+    "kind": "anime",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w780/93M6d0pAqVQySKrp43LfBYDTvZ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/1087"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=1087&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-100049",
+    "tmdb_id": 100049,
+    "title": "TONIKAWA: Over the Moon for You",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/100049"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=100049&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42410",
+    "tmdb_id": 42410,
+    "title": "Durarara!!",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/rOVSpNPFr62tFKeFuHgPdOXQx3E.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42410"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42410&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65949",
+    "tmdb_id": 65949,
+    "title": "JOKER GAME",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/1mvFLm2y4N6Et5JOFsSb9nhKPcd.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65949"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65949&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-44317",
+    "tmdb_id": 44317,
+    "title": "Saint Seiya Omega",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/rgPgae8BIu4wsTNzXsI4wtt30pn.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/44317"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=44317&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-111177",
+    "tmdb_id": 111177,
+    "title": "Godzilla Singular Point",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/xvlgCjL1Qk9K4FFXqUanugrg97h.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/111177"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=111177&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-92579",
+    "tmdb_id": 92579,
+    "title": "Keep Your Hands Off Eizouken!",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/1rHoqpvvfjHqEBGuhKfPtZoRQkC.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/92579"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=92579&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-198152",
+    "tmdb_id": 198152,
+    "title": "ONIMAI: I'm Now Your Sister!",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/tpvVSr6ThPQFISYc9xRVR7MKjDF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/198152"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=198152&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-236385",
+    "tmdb_id": 236385,
+    "title": "T・P BON",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/13HE9ZZorQ3KLQrFW2KOH0dZLlW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/236385"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=236385&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-218843",
+    "tmdb_id": 218843,
+    "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/218843"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=218843&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65503",
+    "tmdb_id": 65503,
+    "title": "Aikatsu!",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65503"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65503&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34660",
+    "tmdb_id": 34660,
+    "title": "Saiyuki",
+    "kind": "anime",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w780/xwvt1GANKwCELIXSeDdhZ2rEItQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34660"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34660&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-121078",
+    "tmdb_id": 121078,
+    "title": "Mieruko-chan",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/jWyIZj7yGbhvVRRxfy4ZDyfIIAB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/121078"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=121078&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-62327",
+    "tmdb_id": 62327,
+    "title": "Blood Blockade Battlefront",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/37Kvfpk5rxX2FYcAm8oiuqxkbfv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62327"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62327&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-56387",
+    "tmdb_id": 56387,
+    "title": "Fist of the North Star",
+    "kind": "anime",
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w780/yypGXmBPvyJiD7pOeD2R3q84FlA.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/56387"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=56387&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-80867",
+    "tmdb_id": 80867,
+    "title": "I Want You To Make a Disgusted Face and Show Me Your Underwear",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/ljmg6AiM56PlV9aGLtIqfGOamUA.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/80867"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=80867&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-124396",
+    "tmdb_id": 124396,
+    "title": "Sonny Boy",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/5R1UmoGInl3mHixVVngApV1Ap3T.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/124396"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=124396&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-279120",
+    "tmdb_id": 279120,
+    "title": "The Share House's Secret Rule",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/chmCJiUJqhOpBKfJi88Rw2iB8IT.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/279120"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=279120&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-78473",
+    "tmdb_id": 78473,
+    "title": "DRAGON PILOT: Hisone and Masotan",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/gB6MzRjB91fuVYujj6VxRmryHBK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/78473"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=78473&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-889",
+    "tmdb_id": 889,
+    "title": "Eureka Seven",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/1FRY2GvHGV5GX12td2lbFqFCfxt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/889"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=889&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42573",
+    "tmdb_id": 42573,
+    "title": "Slam Dunk",
+    "kind": "anime",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w780/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42573"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42573&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-258000",
+    "tmdb_id": 258000,
+    "title": "Bad Girl",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/16y6aBnSSNUOikPkk21SFyhGgjD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/258000"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=258000&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-254017",
+    "tmdb_id": 254017,
+    "title": "YAIBA: Samurai Legend",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/cxD3FQP4hDU5hSABwdQCvGrrnz6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/254017"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=254017&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65712",
+    "tmdb_id": 65712,
+    "title": "Dimension W",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/oS5tiW8fpwnBW9pwVvFSQ7pQtAg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65712"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65712&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-66926",
+    "tmdb_id": 66926,
+    "title": "Valkyrie Drive: Mermaid",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/6hEpqMPUxDcV3ljeCHgJoVY5U2d.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66926"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66926&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-122587",
+    "tmdb_id": 122587,
+    "title": "A Couple of Cuckoos",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/5QErGBshq37p0UKGUHhcYwLufSq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/122587"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=122587&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-274622",
+    "tmdb_id": 274622,
+    "title": "Go for It, Nakamura-kun!!",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/yh3OEp0PSrns1QN0jDMfiIC4TBm.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/274622"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=274622&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-153482",
+    "tmdb_id": 153482,
+    "title": "Raven of the Inner Palace",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/ifdhD2qXM6cDXJgCeIdXUPNIFM0.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/153482"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=153482&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-75975",
+    "tmdb_id": 75975,
+    "title": "Tada Never Falls in Love",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/3BazV6nF9Cr3vVepAhWCFMp12b4.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/75975"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=75975&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61223",
+    "tmdb_id": 61223,
+    "title": "Akame ga Kill!",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/rMpvMbSlPbm5QYfFem9fx2Jnttq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61223"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61223&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-67389",
+    "tmdb_id": 67389,
+    "title": "Golden Time",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/8HfxpBAOTNbWRemKwaLKNRjzaiy.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67389"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67389&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-93653",
+    "tmdb_id": 93653,
+    "title": "In/Spectre",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/dr19QEizMPDxpWtneSd9Mgp0RXE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/93653"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=93653&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-158373",
+    "tmdb_id": 158373,
+    "title": "NieR:Automata Ver1.1a",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/qHSCYOXHV3EKXKkMxUvC9rGx4Av.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/158373"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=158373&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-111255",
+    "tmdb_id": 111255,
+    "title": "Wonder Egg Priority",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/7Ief4J2hkBuaKxUzy9fMqUoh9BY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/111255"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=111255&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-132664",
+    "tmdb_id": 132664,
+    "title": "The Heike Story",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/fCqeRND1KqfQblDDD50S0VGfNP8.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/132664"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=132664&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34163",
+    "tmdb_id": 34163,
+    "title": "Urusei Yatsura",
+    "kind": "anime",
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w780/bs0Q5TMYVUTNXCPbuPBNylzqrxk.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34163"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34163&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-206799",
+    "tmdb_id": 206799,
+    "title": "Dark Gathering",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/4fSzalgBWLC52TGPGn91tNBoO0m.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/206799"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=206799&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-122826",
+    "tmdb_id": 122826,
+    "title": "Dance Dance Danseur",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/sF4IQP7jUVZmd8qup3dRj99faRY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/122826"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=122826&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42509",
+    "tmdb_id": 42509,
+    "title": "Steins;Gate",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/bj9lZLRey7ZTWNbA9o3L0tW0HfW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42509"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42509&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42253",
+    "tmdb_id": 42253,
+    "title": "K-ON!",
+    "kind": "anime",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w780/70hf2538UAf7mzzNgvqTlWq6PDf.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42253"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42253&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-121787",
+    "tmdb_id": 121787,
+    "title": "takt op.Destiny",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/k6oN7SJPj62Q04tRy9LLI3DrYTc.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/121787"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=121787&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-38251",
+    "tmdb_id": 38251,
+    "title": "Toriko",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/hXOIPTWn8XoODLBxiatYUAqyS1t.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/38251"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=38251&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-31730",
+    "tmdb_id": 31730,
+    "title": "Casshern Sins",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/y2jzEQ6Yqhw1rHuNANeO0L741zf.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/31730"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=31730&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-246862",
+    "tmdb_id": 246862,
+    "title": "New PANTY & STOCKING with GARTERBELT",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/4BreeBRj2yJpqwlMtIlFhd8NI50.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/246862"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=246862&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65676",
+    "tmdb_id": 65676,
+    "title": "My Teen Romantic Comedy SNAFU",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/sb5MNoeZGHX21qvtwhmizUsJJqq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65676"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65676&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-217766",
+    "tmdb_id": 217766,
+    "title": "Zom 100: Bucket List of the Dead",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/bTYMgERNC9rVdmxTSzKuex4GWbF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/217766"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=217766&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-91027",
+    "tmdb_id": 91027,
+    "title": "Val x Love",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/6TIEhcHYK8fLmgDKxrLE6tieEQQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/91027"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=91027&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61459",
+    "tmdb_id": 61459,
+    "title": "Parasyte -the maxim-",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61459"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61459&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-209707",
+    "tmdb_id": 209707,
+    "title": "The Café Terrace and Its Goddesses",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/oWN39kWHYfclI2ljtkpg905fV4s.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/209707"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=209707&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-62110",
+    "tmdb_id": 62110,
+    "title": "Assassination Classroom",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/qf0l0nQ2t06Es3cSXflqx6l6vsJ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62110"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62110&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-66077",
+    "tmdb_id": 66077,
+    "title": "Tanaka-kun Is Always Listless",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/q3TdnhtfXh6yfrHuZO0hEmkjjnr.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66077"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66077&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-154494",
+    "tmdb_id": 154494,
+    "title": "Lycoris Recoil",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/hcPLwLGEU4alv9sOWvzSY4IorxV.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/154494"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=154494&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-194829",
+    "tmdb_id": 194829,
+    "title": "My One-Hit Kill Sister",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/194829"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=194829&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-80623",
+    "tmdb_id": 80623,
+    "title": "BAKI",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/zILdYTEETOdaigYkoTvifxzdufN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/80623"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=80623&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42951",
+    "tmdb_id": 42951,
+    "title": "Kaiji",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/hKTG76a11adML9ecbJt07D3jH8i.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42951"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42951&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30395",
+    "tmdb_id": 30395,
+    "title": "Yawara!",
+    "kind": "anime",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w780/hRYqKPqAJp5PdrULbH75cLtVi6o.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30395"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30395&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-129516",
+    "tmdb_id": 129516,
+    "title": "My Stepmom's Daughter Is My Ex",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/eQMIfN5L2eIwOeFep6Dt6H7X4kg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/129516"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=129516&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-116725",
+    "tmdb_id": 116725,
+    "title": "Vivy -Fluorite Eye's Song-",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/xRakd62ihUP19NBgWyJzjO26NxE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/116725"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=116725&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-278704",
+    "tmdb_id": 278704,
+    "title": "Mobile Suit Gundam GQuuuuuuX",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/jb5d4vqHmKSQh9rB2T394e3z5To.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/278704"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=278704&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-235758",
+    "tmdb_id": 235758,
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/hfnzByZIRj6rx8xaxzS2zDilei1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/235758"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=235758&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-88803",
+    "tmdb_id": 88803,
+    "title": "Vinland Saga",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/88803"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=88803&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-69236",
+    "tmdb_id": 69236,
+    "title": "BanG Dream!",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/odOfS98nLcWcgz4NaGkTwI8jgq3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/69236"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=69236&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-241138",
+    "tmdb_id": 241138,
+    "title": "Rising Impact",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/i0jKVRkxf12hOUR1RZF62r9WdCk.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/241138"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=241138&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-107840",
+    "tmdb_id": 107840,
+    "title": "Otona nya Koi no Shikata ga Wakaranee!",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/7wYDsxOJgA92N0YdaT2K8vBiHiv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/107840"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=107840&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-36210",
+    "tmdb_id": 36210,
+    "title": "Blue Dragon",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/kz1WUNjTUnjQCYvvpn4Jx0ZV22A.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/36210"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=36210&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61422",
+    "tmdb_id": 61422,
+    "title": "The Fruit of Grisaia",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/bbyEffAlFj2X53yG37VQSgg3uL2.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61422"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61422&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-254174",
+    "tmdb_id": 254174,
+    "title": "Kakushite! Makina-san!!",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/viiiAmBVRtTYdOtP4nXlQ3b0xPf.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/254174"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=254174&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30623",
+    "tmdb_id": 30623,
+    "title": "Shin Chan",
+    "kind": "anime",
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w780/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30623"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30623&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-244808",
+    "tmdb_id": 244808,
+    "title": "Nukitashi the Animation",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/y9kuMGKMMtNgpqcHlgZlL4geEtn.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/244808"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=244808&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-36005",
+    "tmdb_id": 36005,
+    "title": "ItaKiss",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/ol4i6YBffA0781cwQFsrUC2eMF5.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/36005"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=36005&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65930",
+    "tmdb_id": 65930,
+    "title": "My Hero Academia",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65930"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65930&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-99778",
+    "tmdb_id": 99778,
+    "title": "The God of High School",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/lfa79lR34s6eyNkKjqC76uQEihh.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/99778"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=99778&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-197368",
+    "tmdb_id": 197368,
+    "title": "Blue Orchestra",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/dN0yhGAMVdS7lIEk52gom9XO268.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/197368"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=197368&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-72636",
+    "tmdb_id": 72636,
+    "title": "Made in Abyss",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/n30CBH4BoN5Z34tCpOWIPGJYOaS.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/72636"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=72636&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-71785",
+    "tmdb_id": 71785,
+    "title": "Mr. Osomatsu",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/vEsmh6m9fUhJzGfLxUpliT3vqdh.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/71785"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=71785&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-210899",
+    "tmdb_id": 210899,
+    "title": "UniteUp!",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/7jWi4SppOmtQMfxmviNlEUAY3Tz.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/210899"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=210899&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-139130",
+    "tmdb_id": 139130,
+    "title": "Skip and Loafer",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/xHVy0gnLNpkNAdtd3DHsUVYYEDN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/139130"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=139130&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34860",
+    "tmdb_id": 34860,
+    "title": "Ninja Boy Rantaro",
+    "kind": "anime",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w780/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34860"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34860&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-120013",
+    "tmdb_id": 120013,
+    "title": "RE-MAIN",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/nnsLtt5RndrFzNBgVRQjRdXLeeq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/120013"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=120013&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-84669",
+    "tmdb_id": 84669,
+    "title": "The Quintessential Quintuplets",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/mrahUSmFjae8UHtlOcZ58ytmAGu.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/84669"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=84669&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-32377",
+    "tmdb_id": 32377,
+    "title": "Armored Trooper VOTOMS",
+    "kind": "anime",
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w780/hYv6w515vwe3IowcvbPrk4R6ckl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/32377"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=32377&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-207347",
+    "tmdb_id": 207347,
+    "title": "Blue Box",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/207347"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=207347&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-45854",
+    "tmdb_id": 45854,
+    "title": "Yu-Gi-Oh! Zexal",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/lHOkQJs8oPvU5idZIcjzor7T4m3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45854"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45854&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-45845",
+    "tmdb_id": 45845,
+    "title": "Fate/Zero",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/chUbHBiMX7buj8TzOEIjHHPCJfF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45845"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45845&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-138909",
+    "tmdb_id": 138909,
+    "title": "The Prince's Favorite Is the Villainess",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/q76lLNhLGn0nW6cng2ryH42U35n.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/138909"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=138909&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-76121",
+    "tmdb_id": 76121,
+    "title": "DARLING in the FRANXX",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/m6R8gI3brohD6izeVCXFmuGeV2m.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/76121"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=76121&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-19849",
+    "tmdb_id": 19849,
+    "title": "Blood+",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/xljI1AQ9j4BXUbJWSTjbd8wQlJE.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/19849"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=19849&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-123876",
+    "tmdb_id": 123876,
+    "title": "Komi Can't Communicate",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/123876"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=123876&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42444",
+    "tmdb_id": 42444,
+    "title": "Saint Seiya",
+    "kind": "anime",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w780/dhtiYYbob8saEUFWle3aWgVY28M.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42444"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42444&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-92592",
+    "tmdb_id": 92592,
+    "title": "BNA",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/fwFYXaQz0mrY8v1HDky2wJsYa7t.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/92592"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=92592&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-111576",
+    "tmdb_id": 111576,
+    "title": "Shadows House",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/lyB5T6lWA4yCPZxolZ2KuVm8YV3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/111576"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=111576&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-37863",
+    "tmdb_id": 37863,
+    "title": "Fullmetal Alchemist",
+    "kind": "anime",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w780/kKOQbCKbGB75h1d3Jlx9Gy4ZTfv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/37863"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=37863&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-117024",
+    "tmdb_id": 117024,
+    "title": "Sacrificial Princess and the King of Beasts",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/oBfTGMOPAg10BeKLXTnQ7s3sgHW.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/117024"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=117024&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-67460",
+    "tmdb_id": 67460,
+    "title": "Yu-Gi-Oh! Arc-V",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/nVST01k1PpOZGbGEmCZhevRWhEL.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67460"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67460&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-95269",
+    "tmdb_id": 95269,
+    "title": "Toilet-Bound Hanako-kun",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/h1X1G8Q9Ba9Vy1YIgXHduenP8nv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/95269"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=95269&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-45501",
+    "tmdb_id": 45501,
+    "title": "Love, Chunibyo & Other Delusions!",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/1IapEqydEiGO0gCgBPVexTFbUCS.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/45501"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=45501&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-231003",
+    "tmdb_id": 231003,
+    "title": "Lazarus",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/231003"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=231003&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-84980",
+    "tmdb_id": 84980,
+    "title": "MÄR: Märchen Awakens Romance",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/8GCxSybC4X4nKPT2qZPTow30D2H.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/84980"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=84980&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-213402",
+    "tmdb_id": 213402,
+    "title": "Campfire Cooking in Another World with My Absurd Skill",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/213402"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=213402&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-67063",
+    "tmdb_id": 67063,
+    "title": "Hitori No Shita - The Outcast",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67063"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67063&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-119100",
+    "tmdb_id": 119100,
+    "title": "BOCCHI THE ROCK!",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/Af4tZ3eKjKWXG4vfiQ8R1NJomAP.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/119100"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=119100&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-241535",
+    "tmdb_id": 241535,
+    "title": "Makeine: Too Many Losing Heroines!",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/nLBBhmzN6tPhxMy9aFzDqMbAc4V.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/241535"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=241535&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-207250",
+    "tmdb_id": 207250,
+    "title": "The Dangers in My Heart",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/mKhMmREBOKXtp3tlv9rnLRxZec5.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/207250"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=207250&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-83100",
+    "tmdb_id": 83100,
+    "title": "Dororo",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/mLSJO9lj2RMHdzHJMNMoksmwlbv.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/83100"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=83100&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-105248",
+    "tmdb_id": 105248,
+    "title": "Cyberpunk: Edgerunners",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105248"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105248&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-256721",
+    "tmdb_id": 256721,
+    "title": "Gachiakuta",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/256721"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=256721&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-229676",
+    "tmdb_id": 229676,
+    "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/fxzL2EWdiv19eZAoC8s7zuGCJG1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/229676"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=229676&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-105249",
+    "tmdb_id": 105249,
+    "title": "The World Ends with You: The Animation",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/6qbkiUDUkJIcb5Jgc6kYIfBKE1i.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105249"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105249&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61415",
+    "tmdb_id": 61415,
+    "title": "Fate/stay night [Unlimited Blade Works]",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61415"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61415&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-63322",
+    "tmdb_id": 63322,
+    "title": "Superb Song of the Valkyries: Symphogear",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/g0jsgViN4aBybkgTmr4XgZHluxX.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/63322"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=63322&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-71013",
+    "tmdb_id": 71013,
+    "title": "Sakura Quest",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/1LvHgIRDNILt5dOPFsYio3CnDoT.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/71013"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=71013&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-208067",
+    "tmdb_id": 208067,
+    "title": "My Love Story with Yamada-kun at Lv999",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/208067"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=208067&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-312474",
+    "tmdb_id": 312474,
+    "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/312474"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=312474&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-79166",
+    "tmdb_id": 79166,
+    "title": "Grand Blue Dreaming",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/79166"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=79166&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-110309",
+    "tmdb_id": 110309,
+    "title": "SK8 the Infinity",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/kZHnqxP16mb2pVYthJfT4buYk4P.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/110309"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=110309&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-226688",
+    "tmdb_id": 226688,
+    "title": "Beyblade X",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/226688"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=226688&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-66875",
+    "tmdb_id": 66875,
+    "title": "Non Non Biyori",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/uEFfrd2xBV2XEGkbNtMrHgLXFM1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66875"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66875&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-35790",
+    "tmdb_id": 35790,
+    "title": "Cardcaptor Sakura",
+    "kind": "anime",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w780/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/35790"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=35790&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-97860",
+    "tmdb_id": 97860,
+    "title": "Tower of God",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/9QXO4C0AwAuBa15nuDLZU2MyktB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/97860"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=97860&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-35935",
+    "tmdb_id": 35935,
+    "title": "Berserk",
+    "kind": "anime",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w780/xctRBSZzvoHDHz38ZZUGxRYetvG.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/35935"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=35935&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-31654",
+    "tmdb_id": 31654,
+    "title": "Digimon: Digital Monsters",
+    "kind": "anime",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w780/vFJAiBNUlzEVa54mXgHGumr1z1s.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/31654"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=31654&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-248947",
+    "tmdb_id": 248947,
+    "title": "FAIRY TAIL 100 YEARS QUEST",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/wj5i6YgZj7LltRE3yE6VTgfdbK0.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/248947"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=248947&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65929",
+    "tmdb_id": 65929,
+    "title": "Aikatsu Stars!",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/fiWqW5wYF702dpQWwSeRwKOyXqZ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65929"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65929&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-274671",
+    "tmdb_id": 274671,
+    "title": "The Beginning After the End",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/u0QWnKUhxcxecQSclMBNnO5MXh.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/274671"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=274671&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-43865",
+    "tmdb_id": 43865,
+    "title": "Psycho-Pass",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/43865"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=43865&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-117992",
+    "tmdb_id": 117992,
+    "title": "The Duke of Death and His Maid",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/hNf26LXRCO1zX0R7RLgzN3x1DDL.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/117992"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=117992&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-8872",
+    "tmdb_id": 8872,
+    "title": "Aquarion",
+    "kind": "anime",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w780/b7nYCiRLElXOcSICrZ8jdBqQP1m.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/8872"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=8872&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-130237",
+    "tmdb_id": 130237,
+    "title": "Aharen-san wa Hakarenai",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/aVbzWCkIxIcKmHK4f9aWJueBHNk.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/130237"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=130237&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-99084",
+    "tmdb_id": 99084,
+    "title": "Princess Connect! Re:Dive",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/5NVgbJpJguHsBPR7X7amzioQ9ot.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/99084"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=99084&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-94523",
+    "tmdb_id": 94523,
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/5o32Jnu6MWJr7lfiGapVq0BSYiK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/94523"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=94523&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-66958",
+    "tmdb_id": 66958,
+    "title": "Orange",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/6GGkAhfjZy9rOvUD7K927vnltZA.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66958"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66958&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30980",
+    "tmdb_id": 30980,
+    "title": "A Certain Magical Index",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/v3Ka0J3iMte50oiH4cmXPISM3rm.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30980"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30980&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-82739",
+    "tmdb_id": 82739,
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/fbqDG7GjodvaNecgv1q8kfSNPl5.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/82739"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=82739&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-37567",
+    "tmdb_id": 37567,
+    "title": "Dr. Slump",
+    "kind": "anime",
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w780/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/37567"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=37567&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-280110",
+    "tmdb_id": 280110,
+    "title": "My Hero Academia: Vigilantes",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/280110"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=280110&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-96402",
+    "tmdb_id": 96402,
+    "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/fdcMiknnRcmVgWb9wGS9TxE06cG.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/96402"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=96402&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-94404",
+    "tmdb_id": 94404,
+    "title": "Dorohedoro",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/94404"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=94404&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30669",
+    "tmdb_id": 30669,
+    "title": "Yu Yu Hakusho",
+    "kind": "anime",
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w780/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30669"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30669&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-43702",
+    "tmdb_id": 43702,
+    "title": "Katri: Girl of the Meadows",
+    "kind": "anime",
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w780/l4pNaHsEo9rhlYALpyGgs10WKIj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/43702"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=43702&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-100565",
+    "tmdb_id": 100565,
+    "title": "86 EIGHTY-SIX",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/100565"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=100565&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-114477",
+    "tmdb_id": 114477,
+    "title": "Harem in the Labyrinth of Another World",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/drAnsk5w2PX5x3ooPv7I2xr3ksq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/114477"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=114477&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-67199",
+    "tmdb_id": 67199,
+    "title": "Saint Seiya: The Hades Chapter",
+    "kind": "anime",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w780/tJ3DwxuZXttTFLWuAIjI5ugsbtU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/67199"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=67199&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-129600",
+    "tmdb_id": 129600,
+    "title": "Baki Hanma",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/129600"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=129600&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-82822",
+    "tmdb_id": 82822,
+    "title": "Zombie Land SAGA",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/gf59Jgeo0VikKZdXQqeyimaJ6nl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/82822"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=82822&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-46261",
+    "tmdb_id": 46261,
+    "title": "Fairy Tail",
+    "kind": "anime",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w780/h50lj7xO65qafNYZCrfQ7ztkMBD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46261"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46261&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-237529",
+    "tmdb_id": 237529,
+    "title": "Medalist",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/237529"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=237529&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-208891",
+    "tmdb_id": 208891,
+    "title": "Tengoku Daimakyo",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/208891"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=208891&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-116724",
+    "tmdb_id": 116724,
+    "title": "The aquatope on white sand",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/86dxo38ksU7hnCpbfYgIJ3jA6kJ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/116724"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=116724&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-57775",
+    "tmdb_id": 57775,
+    "title": "Chibi Maruko-chan",
+    "kind": "anime",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w780/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/57775"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=57775&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-204832",
+    "tmdb_id": 204832,
+    "title": "MASHLE: MAGIC AND MUSCLES",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/hfSh6ISwUvtvihITPMK6TPOWarK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/204832"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=204832&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-39659",
+    "tmdb_id": 39659,
+    "title": "TIGER & BUNNY",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/iJWLZbCvnFXpTlNH9mn0whRNVMK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/39659"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=39659&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-85937",
+    "tmdb_id": 85937,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/85937"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=85937&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-223500",
+    "tmdb_id": 223500,
+    "title": "WIND BREAKER",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/223500"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=223500&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-62564",
+    "tmdb_id": 62564,
+    "title": "Sound! Euphonium",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/nY95nbirfKebWxCKEeVWr5AYFmO.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/62564"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=62564&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-105009",
+    "tmdb_id": 105009,
+    "title": "Tokyo Revengers",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105009"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105009&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-283880",
+    "tmdb_id": 283880,
+    "title": "Hands off: Sawaranaide Kotesashi-kun",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/qTlVmoB4lcPcZaxUKF63Hqu2gUg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/283880"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=283880&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-76757",
+    "tmdb_id": 76757,
+    "title": "Golden Kamuy",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/Ab1QIcwCAQUgs8Z8pTJnVPkKS0m.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/76757"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=76757&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-207784",
+    "tmdb_id": 207784,
+    "title": "Delicious in Dungeon",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/9t3DYdGxK3i4WRzKvIZwJd4kBnr.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/207784"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=207784&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-46153",
+    "tmdb_id": 46153,
+    "title": "Wagnaria!!",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/5Wnj5n0qPg5lVxTBYAnWuuxoiwf.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46153"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46153&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-902",
+    "tmdb_id": 902,
+    "title": "Yu-Gi-Oh! Duel Monsters",
+    "kind": "anime",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w780/mM6c5ISlyKWtie2hGiZWo6hmlhU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/902"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=902&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-46437",
+    "tmdb_id": 46437,
+    "title": "Kingdom",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/dehuJJkKo50nYvCYppigrWejqLe.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46437"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46437&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-100281",
+    "tmdb_id": 100281,
+    "title": "Moriarty the Patriot",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/lLcmshfrLg7JUMwMCnp5fuNqtoQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/100281"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=100281&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-115236",
+    "tmdb_id": 115236,
+    "title": "The Saint's Magic Power Is Omnipotent",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/beMZGlMpZSpfdaS1syKdZhf4MUx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/115236"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=115236&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-46004",
+    "tmdb_id": 46004,
+    "title": "Date A Live",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/xEwKIg7m8TzjFTY5T4Yj3beR7rH.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46004"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46004&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-56568",
+    "tmdb_id": 56568,
+    "title": "NANA",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/egEROVWFVUupRhK03Bj5IVGAEGu.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/56568"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=56568&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-105556",
+    "tmdb_id": 105556,
+    "title": "DON'T TOY WITH ME, MISS NAGATORO",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/ogXmggjfiDHBOBwA3JyuEzCr814.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105556"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105556&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30977",
+    "tmdb_id": 30977,
+    "title": "A Certain Scientific Railgun",
+    "kind": "anime",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w780/dZt1dqw0K4JGhwcqTh8yExHYK9w.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30977"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30977&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-281042",
+    "tmdb_id": 281042,
+    "title": "Food for the Soul",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/3jI8ZHkteqxYEi4xTET3HMQb4zD.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/281042"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=281042&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-65329",
+    "tmdb_id": 65329,
+    "title": "Hyouka",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/qoAig2n9LkukqnizytaBtOSwif7.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/65329"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=65329&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-114478",
+    "tmdb_id": 114478,
+    "title": "Star Wars: Visions",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/114478"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=114478&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-113808",
+    "tmdb_id": 113808,
+    "title": "Seirei Gensouki: Spirit Chronicles",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/dNki26bfC3ad6mRQZOxY8ysosrb.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/113808"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=113808&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-115694",
+    "tmdb_id": 115694,
+    "title": "Shikimori's Not Just a Cutie",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/1F9uYsrq9nwSeyfMRYoyJiMm9zt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/115694"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=115694&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-38112",
+    "tmdb_id": 38112,
+    "title": "The Qwaser of Stigmata",
+    "kind": "anime",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w780/zAdiOfxntBDbY3GSr17Q8vUQxE6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/38112"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=38112&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-64492",
+    "tmdb_id": 64492,
+    "title": "SHIROBAKO",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/pGcyyvixbsJpgMngSCULFvbnpBK.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/64492"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=64492&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-92892",
+    "tmdb_id": 92892,
+    "title": "Ahiru no Sora",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/jAVcBnYvxEHY5CR0lDnaPkjNTX3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/92892"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=92892&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61440",
+    "tmdb_id": 61440,
+    "title": "Strike the Blood",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/rbGaCkEVS7PE5fKKMAmvO4XZXyA.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61440"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61440&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-75865",
+    "tmdb_id": 75865,
+    "title": "Teasing Master Takagi-san",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/hKwpd9K5AXsDhcBhJ7hyP7iBJhN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/75865"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=75865&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-60833",
+    "tmdb_id": 60833,
+    "title": "The Irregular at Magic High School",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/4mJpMjdghHo4LfvmP1q1mubkEvl.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/60833"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=60833&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-207332",
+    "tmdb_id": 207332,
+    "title": "SAKAMOTO DAYS",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/wRpCqsJFyKNuh5FMegNPrhzp2NF.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/207332"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=207332&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-154526",
+    "tmdb_id": 154526,
+    "title": "MF GHOST",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/jqkDWnBDltFCjAdhxCqUWg9GXFB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/154526"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=154526&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-30991",
+    "tmdb_id": 30991,
+    "title": "Cowboy Bebop",
+    "kind": "anime",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w780/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/30991"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=30991&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-196040",
+    "tmdb_id": 196040,
+    "title": "Engage Kiss",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/irBMUE8A5M78qAzCmr0bEVdmEm7.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/196040"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=196040&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-278196",
+    "tmdb_id": 278196,
+    "title": "The Summer Hikaru Died",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/278196"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=278196&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-21729",
+    "tmdb_id": 21729,
+    "title": "Gurren Lagann",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/sG0Z0yWJmzr7UW6183cmz5DAjqm.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/21729"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=21729&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-69291",
+    "tmdb_id": 69291,
+    "title": "Miss Kobayashi's Dragon Maid",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/aDJC9SBNqUFoGQ6uuxs0EfBsqct.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/69291"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=69291&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-46392",
+    "tmdb_id": 46392,
+    "title": "Duel Masters",
+    "kind": "anime",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w780/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/46392"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=46392&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-110070",
+    "tmdb_id": 110070,
+    "title": "Horimiya",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/110070"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=110070&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-35610",
+    "tmdb_id": 35610,
+    "title": "InuYasha",
+    "kind": "anime",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w780/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/35610"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=35610&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-82591",
+    "tmdb_id": 82591,
+    "title": "Goblin Slayer",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/x8ZQyxAFjz9jtCGivbOMYUC4Tp3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/82591"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=82591&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-271607",
+    "tmdb_id": 271607,
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/271607"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=271607&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34805",
+    "tmdb_id": 34805,
+    "title": "Sekirei",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/g5lGhwt2M3RHXPgfqgEHRvGM8F.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34805"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34805&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-228663",
+    "tmdb_id": 228663,
+    "title": "Horimiya: The Missing Pieces",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/aEJVHbXaC94y6thJ3nA6lBBnHjs.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/228663"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=228663&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-131660",
+    "tmdb_id": 131660,
+    "title": "Show Time!",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/7S86pkMfatspJmXENcPZfgaKB33.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/131660"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=131660&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34075",
+    "tmdb_id": 34075,
+    "title": "Yes! PreCure 5",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/wQy3HqxoTWF3hByfIiMlVJMPolR.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34075"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34075&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-28136",
+    "tmdb_id": 28136,
+    "title": "Rurouni Kenshin",
+    "kind": "anime",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w780/lQ4p6OF9KjagTfs8otZt0VTe3Al.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/28136"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=28136&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-31724",
+    "tmdb_id": 31724,
+    "title": "Code Geass: Lelouch of the Rebellion",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/x316WCogkeIwNY4JR8zTCHbI2nQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/31724"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=31724&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-88806",
+    "tmdb_id": 88806,
+    "title": "The Demon Girl Next Door",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/jTzpBCrmWfqOdF3XoanFfpwKYZU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/88806"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=88806&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-64196",
+    "tmdb_id": 64196,
+    "title": "Overlord",
+    "kind": "anime",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w780/K8ZUjxaj9F0t3AwJDz8ypzBynM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/64196"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=64196&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-194916",
+    "tmdb_id": 194916,
+    "title": "Chiikawa",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/194916"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=194916&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-890",
+    "tmdb_id": 890,
+    "title": "Neon Genesis Evangelion",
+    "kind": "anime",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w780/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/890"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=890&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-290019",
+    "tmdb_id": 290019,
+    "title": "I Made Friends with the Second Prettiest Girl in My Class",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/hJRG85Va7Vz0t0AM1TLiM3PN6tC.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/290019"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=290019&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-12598",
+    "tmdb_id": 12598,
+    "title": "Black Lagoon",
+    "kind": "anime",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w780/oZvUMGTASnjdl9Dfq8OOl85qCML.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/12598"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=12598&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-236994",
+    "tmdb_id": 236994,
+    "title": "Dragon Ball DAIMA",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/lMULbSFZNXUC87MqOZQ4SSV9DXI.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/236994"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=236994&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-90937",
+    "tmdb_id": 90937,
+    "title": "BEASTARS",
+    "kind": "anime",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w780/sh9iNWkleOjEHRHj8WPHhmMi8HL.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/90937"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=90937&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-126437",
+    "tmdb_id": 126437,
+    "title": "Aoashi",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/erwRgEPtUtyv3Vkmxt0MhjKi5kA.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/126437"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=126437&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-260463",
+    "tmdb_id": 260463,
+    "title": "Daemons of the Shadow Realm",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/260463"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=260463&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-138357",
+    "tmdb_id": 138357,
+    "title": "Call of the Night",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/rDhwDG2ii8c3nCcfUNp6mogGQ93.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/138357"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=138357&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-205050",
+    "tmdb_id": 205050,
+    "title": "Shangri-La Frontier",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/205050"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=205050&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-42912",
+    "tmdb_id": 42912,
+    "title": "Inazuma Eleven",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/9kQWvBMPWz1gykKLXuX6JBjC9uQ.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/42912"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=42912&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-24835",
+    "tmdb_id": 24835,
+    "title": "Clannad",
+    "kind": "anime",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w780/jPBMYp4ddXkGJDSxxmaKBjzv2r3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/24835"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=24835&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61456",
+    "tmdb_id": 61456,
+    "title": "Free!",
+    "kind": "anime",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w780/izvAe9NLb2TV0OT1BaBYyjcP5Qg.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61456"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61456&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-196944",
+    "tmdb_id": 196944,
+    "title": "My Happy Marriage",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/5RZIBqSYHhpQF6s8Dgw2aXlA4ZS.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/196944"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=196944&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-66979",
+    "tmdb_id": 66979,
+    "title": "Days",
+    "kind": "anime",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w780/usqHOY0QdFgRETQIzqXwTaJ5WVN.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/66979"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=66979&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-43168",
+    "tmdb_id": 43168,
+    "title": "NARUTO Spin-Off: Rock Lee & His Ninja Pals",
+    "kind": "anime",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w780/2OTMpFejspg3fYnRbiuVuLsZtaq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/43168"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=43168&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-240411",
+    "tmdb_id": 240411,
+    "title": "Dan Da Dan",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/240411"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=240411&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-113137",
+    "tmdb_id": 113137,
+    "title": "Girlfriend, Girlfriend",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/113137"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=113137&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-196400",
+    "tmdb_id": 196400,
+    "title": "Mobile Suit Gundam: The Witch from Mercury",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/gBkDlMaAVOVMRWWlRUHhkLAhNE3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/196400"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=196400&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-61445",
+    "tmdb_id": 61445,
+    "title": "Rage of Bahamut",
+    "kind": "anime",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w780/osUNCb2v2kIlyLg9DgM5zBlnyRB.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/61445"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=61445&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-223564",
+    "tmdb_id": 223564,
+    "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/kBiPU7I7TEJdDXu8tHgVrgL5zAU.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/223564"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=223564&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-34742",
+    "tmdb_id": 34742,
+    "title": "To Love Ru",
+    "kind": "anime",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w780/vsWNCisRhrBbUaTR56qCk6pLsEn.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/34742"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=34742&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-96444",
+    "tmdb_id": 96444,
+    "title": "Interspecies Reviewers",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/xJZwaZAXoon6wxkgXiWQNEeyW4C.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/96444"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=96444&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-154743",
+    "tmdb_id": 154743,
+    "title": "The Angel Next Door Spoils Me Rotten",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/mRkGbf2HPyHdOcrD7iTjqzrwscS.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/154743"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=154743&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-196285",
+    "tmdb_id": 196285,
+    "title": "Farming Life in Another World",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/pT4OoVQE8zGJ0Z0GZpJotK5Vzsj.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/196285"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=196285&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-121964",
+    "tmdb_id": 121964,
+    "title": "The Case Study of Vanitas",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/hk9joSlfsrVTmcoYzQ7rFg028Fq.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/121964"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=121964&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-38464",
+    "tmdb_id": 38464,
+    "title": "Blue Exorcist",
+    "kind": "anime",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w780/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/38464"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=38464&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-296286",
+    "tmdb_id": 296286,
+    "title": "Smoking Behind the Supermarket with You",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/296286"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=296286&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-284780",
+    "tmdb_id": 284780,
+    "title": "Unexpectedly Naughty Fukami",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/ktoY0ykNWt5eqjKNyZA1PPGkpsx.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/284780"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=284780&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-283884",
+    "tmdb_id": 283884,
+    "title": "Chuhai Lips: Canned Flavor of Married Women",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/sVgDf52QbkKRYBXjM4Y2xQOr86X.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/283884"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=283884&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:57Z"
+  },
+  {
+    "id": "anime-283428",
+    "tmdb_id": 283428,
+    "title": "The Ramparts of Ice",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/283428"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=283428&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-157879",
+    "tmdb_id": 157879,
+    "title": "3 Seconds Later, He Turned into a Beast",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/9LnfZfpFEYsOP3THUz1uszExGyf.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/157879"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=157879&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-220118",
+    "tmdb_id": 220118,
+    "title": "Sazanami Soushi ni Junketsu wo Sasagu",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/220118"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=220118&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-78501",
+    "tmdb_id": 78501,
+    "title": "Sweet Punishment: I'm the Guard's Personal Pet",
+    "kind": "anime",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w780/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/78501"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=78501&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-271026",
+    "tmdb_id": 271026,
+    "title": "Taisho Era Contract Marriage ~ The Substitute Bride and a Soldier's Fierce Love",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/adLuRUaIzy44nUExYjUix2ZKjqM.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/271026"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=271026&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-105903",
+    "tmdb_id": 105903,
+    "title": "Eternity Shinya no Nurekoi Channel",
+    "kind": "anime",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w780/jJGNByRqVXvulYk0HjGZUG0aZBY.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/105903"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=105903&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-245215",
+    "tmdb_id": 245215,
+    "title": "The Perfect Prince Loves Me, the Side Character?!",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/ojlLmx0tpjW7z9c3anvx8HMda1Y.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/245215"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=245215&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-212568",
+    "tmdb_id": 212568,
+    "title": "Fufu Kokan: Modorenai Yoru",
+    "kind": "anime",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w780/XjujJZNZfGG9OSo3ORrDEM4lWe.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/212568"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=212568&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-204269",
+    "tmdb_id": 204269,
+    "title": "Caressing My Hibernating Bear",
+    "kind": "anime",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w780/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/204269"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=204269&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-288577",
+    "tmdb_id": 288577,
+    "title": "Room of Guilty Pleasure",
+    "kind": "anime",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w780/qHBVXipaleawbvr9ESBj8vv9gth.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/288577"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=288577&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-288659",
+    "tmdb_id": 288659,
+    "title": "Agents of the Four Seasons Dance of Spring",
+    "kind": "anime",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w780/zbzbUDLO3iTAuXDmoqtpOsrtLPi.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/288659"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=288659&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-250596",
+    "tmdb_id": 250596,
+    "title": "My Wife Has No Emotion",
+    "kind": "anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w780/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/250596"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=250596&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-70998",
+    "tmdb_id": 70998,
+    "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+    "kind": "anime",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w780/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/70998"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=70998&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
+    "id": "anime-232393",
+    "tmdb_id": 232393,
+    "title": "6 Lovers",
+    "kind": "anime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w780/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+    "watch_urls": [
+      {
+        "name": "Vidsrc (Dood/OK)",
+        "url": "https://vidsrc.cc/v2/embed/tv/232393"
+      },
+      {
+        "name": "Multiembed (Direct)",
+        "url": "https://multiembed.mov/directstream.php?video_id=232393&tmdb=1"
+      }
+    ],
+    "updated_at": "2026-06-26T13:32:56Z"
+  },
+  {
     "id": "anime-276880",
     "tmdb_id": 276880,
     "title": "Please Put Them On, Takamine-san",
