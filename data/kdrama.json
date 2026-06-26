@@ -1,1 +1,1943 @@
-[]
+[
+  {
+    "id": "kdrama-276161",
+    "tmdb_id": 276161,
+    "title": "Teach You a Lesson",
+    "original": "참교육",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 9.5,
+    "poster": "https://image.tmdb.org/t/p/w780/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-33238",
+    "tmdb_id": 33238,
+    "title": "Running Man",
+    "original": "런닝맨",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2010,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+    "genres": [
+      "Comedy",
+      "Reality"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-200709",
+    "tmdb_id": 200709,
+    "title": "Weak Hero",
+    "original": "약한영웅",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w780/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-127529",
+    "tmdb_id": 127529,
+    "title": "Bloodhounds",
+    "original": "사냥개들",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "overview": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-93405",
+    "tmdb_id": 93405,
+    "title": "Squid Game",
+    "original": "오징어 게임",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "genres": [
+      "Action & Adventure",
+      "Mystery",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-96648",
+    "tmdb_id": 96648,
+    "title": "Sweet Home",
+    "original": "스위트홈",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+    "overview": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-135157",
+    "tmdb_id": 135157,
+    "title": "Alchemy of Souls",
+    "original": "환혼",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "overview": "A powerful sorceress in a blind woman's body encounters a man from a prestigious family, who wants her help to change his destiny.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-303143",
+    "tmdb_id": 303143,
+    "title": "My Royal Nemesis",
+    "original": "멋진 신세계",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+    "overview": "A legendary Joseon villainess reincarnated in a modern actress’s body clashes with a cold-blooded chaebol heir, sparking a chaotic love-hate romance across centuries.",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-259837",
+    "tmdb_id": 259837,
+    "title": "The WONDERfools",
+    "original": "원더풀스",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 9.1,
+    "poster": "https://image.tmdb.org/t/p/w780/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-119769",
+    "tmdb_id": 119769,
+    "title": "Taxi Driver",
+    "original": "모범택시",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i1SyUHsi45psSH1xy9sM0in8FKJ.jpg",
+    "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-99966",
+    "tmdb_id": 99966,
+    "title": "All of Us Are Dead",
+    "original": "지금 우리 학교는",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-278573",
+    "tmdb_id": 278573,
+    "title": "Perfect Crown",
+    "original": "21세기 대군부인",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w780/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-233347",
+    "tmdb_id": 233347,
+    "title": "Study Group",
+    "original": "스터디그룹",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/nZDeIfKCzp0qhu4N3HxrcKWN59J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ucAo7E2fzTdwORGbMhLEUoPhfa.jpg",
+    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-112888",
+    "tmdb_id": 112888,
+    "title": "True Beauty",
+    "original": "여신강림",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-113268",
+    "tmdb_id": 113268,
+    "title": "The Uncanny Counter",
+    "original": "경이로운 소문",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/bsbuXbQqryQ8aJlwXFkFXbrYko1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
+    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-219246",
+    "tmdb_id": 219246,
+    "title": "When Life Gives You Tangerines",
+    "original": "폭싹 속았수다",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w780/Afrz3QAcQcsT6w4S5wrKUxmYPWM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5yk3QwnQxzwKfhU1tlDkV2PSIBz.jpg",
+    "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-68398",
+    "tmdb_id": 68398,
+    "title": "Dr. Romantic",
+    "original": "낭만닥터 김사부",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2016,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
+    "overview": "An eccentric, triple board-certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital, where he mentors young doctors.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-96102",
+    "tmdb_id": 96102,
+    "title": "Hospital Playlist",
+    "original": "슬기로운 의사생활",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg",
+    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-75820",
+    "tmdb_id": 75820,
+    "title": "Mr. Sunshine",
+    "original": "미스터 션샤인",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2018,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/p7ljjykSsiyWstGVAwIkbdfPzRV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gQwa6X2nmTHkmDgAifU4wacNqp4.jpg",
+    "overview": "Set in the early 1900s, this drama tells the story of a young man from Korea who grows up in the United States. When he returns to Korea as a US Marine Corps officer, he meets and falls in love with a noblewoman who is fighting for Korean independence. Their romance is complicated by social class and political ideology.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-126485",
+    "tmdb_id": 126485,
+    "title": "Moving",
+    "original": "무빙",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-117376",
+    "tmdb_id": 117376,
+    "title": "Vincenzo",
+    "original": "빈센조",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+    "overview": "During a visit to his motherland, a Korean-Italian mafia lawyer gives an unrivaled conglomerate a taste of its own medicinewith a side of justice.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-139798",
+    "tmdb_id": 139798,
+    "title": "Single's Inferno",
+    "original": "솔로지옥",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w780/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
+    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+    "genres": [
+      "Reality",
+      "Comedy",
+      "Talk"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-136283",
+    "tmdb_id": 136283,
+    "title": "The Glory",
+    "original": "더 글로리",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "overview": "Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-233219",
+    "tmdb_id": 233219,
+    "title": "ONE: High School Heroes",
+    "original": "ONE: 하이스쿨 히어로즈",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-94796",
+    "tmdb_id": 94796,
+    "title": "Crash Landing on You",
+    "original": "사랑의 불시착",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2019,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-67915",
+    "tmdb_id": 67915,
+    "title": "Guardian: The Lonely and Great God",
+    "original": "쓸쓸하고 찬란하神-도깨비",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2016,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-212204",
+    "tmdb_id": 212204,
+    "title": "Twinkling Watermelon",
+    "original": "반짝이는 워터멜론",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w780/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-112833",
+    "tmdb_id": 112833,
+    "title": "Juvenile Justice",
+    "original": "소년심판",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+    "overview": "A tough judge balances her aversion to minor offenders with firm beliefs on justice and punishment as she tackles complex cases inside a juvenile court.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-285838",
+    "tmdb_id": 285838,
+    "title": "If Wishes Could Kill",
+    "original": "기리고",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-197067",
+    "tmdb_id": 197067,
+    "title": "Extraordinary Attorney Woo",
+    "original": "이상한 변호사 우영우",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tmgtlnBnoFvk52xZBO7Z0pTmN9b.jpg",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-64010",
+    "tmdb_id": 64010,
+    "title": "Reply 1988",
+    "original": "응답하라 1988",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2015,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w780/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+    "genres": [
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-155226",
+    "tmdb_id": 155226,
+    "title": "Big Mouth",
+    "original": "빅마우스",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-215720",
+    "tmdb_id": 215720,
+    "title": "Queen of Tears",
+    "original": "눈물의 여왕",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-215072",
+    "tmdb_id": 215072,
+    "title": "A Shop for Killers",
+    "original": "킬러들의 쇼핑몰",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-68814",
+    "tmdb_id": 68814,
+    "title": "Strong Woman Do Bong-Soon",
+    "original": "힘쎈여자 도봉순",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2017,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-154825",
+    "tmdb_id": 154825,
+    "title": "Business Proposal",
+    "original": "사내맞선",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg",
+    "overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO — and makes a proposal.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-117378",
+    "tmdb_id": 117378,
+    "title": "Mouse",
+    "original": "마우스",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ikU9een11dr6UFy0XzQMJv3YJQq.jpg",
+    "overview": "A psychopath's ruthless serial murders have left the entire nation gripped by fear and chaos. An honest, justice-seeking rookie police officer and a veteran detective with a tragic past, face off against the killer. After their encounter with the psychopath, their lives change completely.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-218539",
+    "tmdb_id": 218539,
+    "title": "My Demon",
+    "original": "마이데몬",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
+    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-239385",
+    "tmdb_id": 239385,
+    "title": "The Manipulated",
+    "original": "조각도시",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/nOj4nsomFyAVJgpp68L0xq3cREc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "overview": "Taejoong's life is torn apart when he's framed for a heinous crime and imprisoned. Discovering it was all orchestrated by someone on the outside, he embarks on a rage-fueled quest for revenge.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-110534",
+    "tmdb_id": 110534,
+    "title": "D.P.",
+    "original": "D.P.",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/akvPsqe1u1NpIQ8Ln2Vt06uhOv9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kTf8vPcZVONrBHB35hEg1lG2Bk.jpg",
+    "overview": "A young private's assignment to capture army deserters reveals the painful reality endured by each enlistee during his compulsory call of duty.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-229915",
+    "tmdb_id": 229915,
+    "title": "Night Has Come",
+    "original": "밤이 되었습니다",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/qdolS77C0DXGZmchR6imcy4LiJf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-99489",
+    "tmdb_id": 99489,
+    "title": "The Penthouse",
+    "original": "펜트하우스",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+    "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-287011",
+    "tmdb_id": 287011,
+    "title": "Sold Out on You",
+    "original": "오늘도 매진했습니다",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-241454",
+    "tmdb_id": 241454,
+    "title": "Love Next Door",
+    "original": "엄마친구아들",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-227192",
+    "tmdb_id": 227192,
+    "title": "Pyramid Game",
+    "original": "피라미드 게임",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-70649",
+    "tmdb_id": 70649,
+    "title": "While You Were Sleeping",
+    "original": "당신이 잠든 사이에",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2017,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
+    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-70626",
+    "tmdb_id": 70626,
+    "title": "Stranger",
+    "original": "비밀의 숲",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2017,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xuf7G4srLSFcC7Q8YbX7HHEmXG2.jpg",
+    "overview": "Hwang Shi Mok underwent brain surgery as a child to curb his violent temper, which left him devoid of emotions. Hwang becomes a prosecutor known for his piercing intelligence and logic, but he is ostracized because he lacks empathy and social skills. He is also one of only a handful of upright prosecutors who have refused to take bribes. One day, he encounters a stabbing victim while investigating corruption. He meets Lieutenant Han Yeo Jin at the crime scene. They join forces to root out corruption at the prosecutors’ office and solve a serial murder case.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-238084",
+    "tmdb_id": 238084,
+    "title": "Trigger",
+    "original": "트리거",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-237565",
+    "tmdb_id": 237565,
+    "title": "Family by Choice",
+    "original": "조립식 가족",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
+    "overview": "A youth romance about two men and woman who aren't blood related but treated each other as family during their teens and how they meet again after 10 years.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-248244",
+    "tmdb_id": 248244,
+    "title": "Undercover High School",
+    "original": "언더커버 하이스쿨",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-158258",
+    "tmdb_id": 158258,
+    "title": "Duty After School",
+    "original": "방과 후 전쟁활동",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/gLeWTHccMPI60VGs8geiq1b5btV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-211747",
+    "tmdb_id": 211747,
+    "title": "Island",
+    "original": "아일랜드",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vtdpgm0QR4RDB3tQFIdpYG4QE16.jpg",
+    "overview": "Jeju Island is taken over by evil spirits. An exorcist, priest, and chaebol heiress are fated to fight against evil spirits attempting to end the world. “They are stirring at last.”",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-235577",
+    "tmdb_id": 235577,
+    "title": "The Judge from Hell",
+    "original": "지옥에서 온 판사",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
+    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Crime",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-217553",
+    "tmdb_id": 217553,
+    "title": "The Trauma Code: Heroes on Call",
+    "original": "중증외상센터",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-61148",
+    "tmdb_id": 61148,
+    "title": "Empress Ki",
+    "original": "기황후",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2013,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w780/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-198004",
+    "tmdb_id": 198004,
+    "title": "King the Land",
+    "original": "킹더랜드",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+    "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-208336",
+    "tmdb_id": 208336,
+    "title": "Revenge of Others",
+    "original": "3인칭 복수",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
+    "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-259015",
+    "tmdb_id": 259015,
+    "title": "My Dearest Nemesis",
+    "original": "그놈은 흑염룡",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/ifvFJ9xaKPJX2Il78lXMoeUQbMn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4Xer0oaXautbLRfJQOrlmPSCfN1.jpg",
+    "overview": "Baek Su-jeong leads a planning team at a renowned department store. She meets her new boss, Ban Ju-yeon, her first love from an online game 16 years ago, stirring up memories of when he confessed his feelings but she rejected him.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-16420",
+    "tmdb_id": 16420,
+    "title": "Boys Over Flowers",
+    "original": "꽃보다 남자",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2009,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/ty8uAV6ihcpw6yfYoMxTulXZRYA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1lKn0qrRGEDZpQEcdRlIB4tZIr8.jpg",
+    "overview": "Unassuming high school girl Jan-di stands up to — and eventually falls for — a spoiled rich kid who belongs to the school's most powerful clique.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-232402",
+    "tmdb_id": 232402,
+    "title": "S Line",
+    "original": "S라인",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w780/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-221851",
+    "tmdb_id": 221851,
+    "title": "Marry My Husband",
+    "original": "내 남편과 결혼해줘",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
+    "overview": "Kang Ji-won, a terminally ill cancer patient, is killed by her husband and best friend after she witnesses them having an affair. She wakes up 10 years before the incident and decides to seek revenge with the help of Yu Ji-hyuk, a director at the company where she works. Now, she must reclaim her fate and eliminate the trash from her life.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-231280",
+    "tmdb_id": 231280,
+    "title": "Good Boy",
+    "original": "굿보이",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8l1BN0IIjHmRyW0oDfUfs3F6F4N.jpg",
+    "overview": "Olympic medalists join the police force through a special recruitment program, trading medals for badges as they tackle violent crimes and injustices with their athletic skills.",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-70593",
+    "tmdb_id": 70593,
+    "title": "Kingdom",
+    "original": "킹덤",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2019,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+    "overview": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-228689",
+    "tmdb_id": 228689,
+    "title": "Genie, Make a Wish",
+    "original": "다 이루어질지니",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w780/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-256226",
+    "tmdb_id": 256226,
+    "title": "Dear X",
+    "original": "친애하는 X",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i3bMeXOGyT57owjlMPCuLiijhq5.jpg",
+    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-98827",
+    "tmdb_id": 98827,
+    "title": "Backstreet Rookie",
+    "original": "편의점 샛별이",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w780/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/876IYhxt8dcCuvhmeV7Pqeo30bm.jpg",
+    "overview": "It tells an unpredictable 24-hour love story of the four-dimensional innocent girl Jung Saet Byeol who was once a troublemaker and the adorkable caring male store manager, Choi Dae Hyun, in the context of a convenience store. They have met each other accidentally 4 years ago, back then Saet Byeol asked Dae Hyun to buy cigarettes for them. Until now, Saet Byeol comes to the convenience store Dae Hyun runs for a part-time job, their hilarious romantic story starts.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-92983",
+    "tmdb_id": 92983,
+    "title": "Vagabond",
+    "original": "배가본드",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2019,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-281013",
+    "tmdb_id": 281013,
+    "title": "Dynamite Kiss",
+    "original": "키스는 괜히 해서!",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-128883",
+    "tmdb_id": 128883,
+    "title": "Hometown Cha-Cha-Cha",
+    "original": "갯마을 차차차",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+    "overview": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-230923",
+    "tmdb_id": 230923,
+    "title": "Lovely Runner",
+    "original": "선재 업고 튀어",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2024,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w780/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-112836",
+    "tmdb_id": 112836,
+    "title": "Money Heist: Korea - Joint Economic Area",
+    "original": "종이의 집: 공동경제구역",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w780/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+    "overview": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-203164",
+    "tmdb_id": 203164,
+    "title": "Strong Girl Nam-soon",
+    "original": "힘쎈여자 강남순",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w780/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-333",
+    "tmdb_id": 333,
+    "title": "Jewel in the Palace",
+    "original": "대장금",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2003,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
+    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-129478",
+    "tmdb_id": 129478,
+    "title": "The King's Affection",
+    "original": "연모",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/2Qim2grFzfNJ4h3QSTzxi8CsKdG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4r7scgI5aUrShN0YzriAatWd15e.jpg",
+    "overview": "When the crown prince is killed, his twin sister assumes the throne while trying to keep her identity and affection for her first love a royal secret.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-65143",
+    "tmdb_id": 65143,
+    "title": "Descendants of the Sun",
+    "original": "태양의 후예",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2016,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-133678",
+    "tmdb_id": 133678,
+    "title": "Once Upon a Small Town",
+    "original": "어쩌다 전원일기",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w780/9DNkebzIQNAzr5YSi96RCZ0D3Q6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bdkfBz4waYCe3DsgLMMHsgQGw8R.jpg",
+    "overview": "Against his wishes a veterinarian from the big city relocates to the countryside, where he meets a policewoman, a town insider with a friendly secret.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-136732",
+    "tmdb_id": 136732,
+    "title": "Shooting Stars",
+    "original": "별똥별",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/ghAi885f6298pGW8aCLvl4Xjnc8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2u9M2WTPM6Olqh3JO0tt0OmmJnB.jpg",
+    "overview": "Frustrations and feelings collide when a dynamic PR executive finds herself working with her irksome nemesis — who happens to be a megastar client.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-90447",
+    "tmdb_id": 90447,
+    "title": "Hotel Del Luna",
+    "original": "호텔 델루나",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2019,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+    "overview": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-76557",
+    "tmdb_id": 76557,
+    "title": "Welcome to Waikiki",
+    "original": "으라차차 와이키키",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2018,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w780/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg",
+    "overview": "Kang Dong-Goo dreams of becoming a movie director, but he is cynical due to bad luck. Cheon Joon-Ki wanted to follow in his father's footsteps and become an actor, but he is now just a minor actor. Bong-Doo-Sik came to Seoul to become a scenario writer, but things have not been easy for him.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-96462",
+    "tmdb_id": 96462,
+    "title": "It's Okay to Not Be Okay",
+    "original": "사이코지만 괜찮아",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:40Z"
+  },
+  {
+    "id": "kdrama-136369",
+    "tmdb_id": 136369,
+    "title": "Tomorrow",
+    "original": "내일",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/3SFVIdXXQ2DrAOARBdf1knqG7Pw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2lQ1PwGFZKM9EakCw1j4NShEuuj.jpg",
+    "overview": "Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-66433",
+    "tmdb_id": 66433,
+    "title": "Scarlet Heart: Ryeo",
+    "original": "달의 연인 - 보보경심 려",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2016,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
+    "overview": "A story of a 25-year-old Go Hajin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae Soo and finds herself amongst the ruling princes of the Wang Family.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "War & Politics"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-219651",
+    "tmdb_id": 219651,
+    "title": "Welcome to Samdal-ri",
+    "original": "웰컴투 삼달리",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w780/98IvA2i0PsTY8CThoHByCKOEAjz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "overview": "After suffering a fall from grace, a photographer returns to her hometown and bumps into her childhood friend — rekindling an unfinished romance.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-233742",
+    "tmdb_id": 233742,
+    "title": "Newtopia",
+    "original": "뉴토피아",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/cIC36RA59lg9ruYtPc7UA3f72yy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+    "overview": "Jae-yoon, a late military enlistee, and his girlfriend, Young-joo, break up over the phone over growing misunderstandings. But a zombie outbreak rocks the world. A national emergency is declared, a plane crashes in the city center, and Jae-yoon and his unit get trapped on top of a Seoul skyscraper. Young-joo risks the zombie-filled streets to find him. Can their love survive the apocalypse?",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-106651",
+    "tmdb_id": 106651,
+    "title": "Hellbound",
+    "original": "지옥",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w780/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-153496",
+    "tmdb_id": 153496,
+    "title": "Reborn Rich",
+    "original": "재벌집 막내아들",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-128995",
+    "tmdb_id": 128995,
+    "title": "Yumi's Cells",
+    "original": "유미의 세포들",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/wb0ysW1H4bjceY551Dh4VW2jOzF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4TJG9k0u1WZfs9iwhLpHshnryaR.jpg",
+    "overview": "Yumi is a 30-year old, ordinary woman who struggles with expressing her feelings. Told from the perspective of the many brain cells in her head, she experiences growth in both her love life, her career, and finds happiness in the small joys of everyday life.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-86830",
+    "tmdb_id": 86830,
+    "title": "The Fiery Priest",
+    "original": "열혈사제",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2019,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/5EDJlbB3S1vwOpsR3h1k0NMHiHY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dMQmCThNrnlNd4bfC8iIce76bpr.jpg",
+    "overview": "People commit variety of ugly crimes these days. However, they forgive themselves by giving testimony every week. They believe that they can repent just by having faith. But the truth is that they have faith to repeat the sins again and again without remorse. These people atone for their evil deeds just to feel comfortable and carefree. It is not about the victims who are suffering because of them. They say every people are equal before the religions. But it is time to discriminate people who only uses them for their interest. Screening if they are really good people, punishing if they deserve to be punished, and defending justice is needed for modern day religion. A priest with this sense of justice teams up with a detective and a prosecutor. They try to solve the mysterious death of an elderly priest and serve justice.",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-67391",
+    "tmdb_id": 67391,
+    "title": "The K2",
+    "original": "더케이투",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2016,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w780/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-110356",
+    "tmdb_id": 110356,
+    "title": "My Name",
+    "original": "마이 네임",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2021,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w780/gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+    "overview": "Following her father's murder, a revenge-driven woman puts her trust in a powerful crime boss — and enters the police force under his direction.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-281016",
+    "tmdb_id": 281016,
+    "title": "Boyfriend on Demand",
+    "original": "월간남친",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-280948",
+    "tmdb_id": 280948,
+    "title": "Spring Fever",
+    "original": "스프링 피버",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2026,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w780/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
+    "overview": "After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-235355",
+    "tmdb_id": 235355,
+    "title": "Resident Playbook",
+    "original": "언젠가는 슬기로울 전공의생활",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w780/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-129888",
+    "tmdb_id": 129888,
+    "title": "Twenty Five Twenty One",
+    "original": "스물다섯 스물하나",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2022,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/yCQFnmYhYf7XALMka2EoBRAFmPO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jvFfHNiCKPWRULvkmeocyjm4QtE.jpg",
+    "overview": "In a time when dreams seem out of reach, a teen fencer pursues big ambitions and meets a hardworking young man who seeks to rebuild his life.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-37722",
+    "tmdb_id": 37722,
+    "title": "Dream High",
+    "original": "드림하이",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2011,
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w780/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ENWqq5onPtbOYSUXbB9fl7rV5h.jpg",
+    "overview": "Six dedicated students at Kirin Art High School work to achieve their dreams of becoming stars in the Korean music industry.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-205082",
+    "tmdb_id": 205082,
+    "title": "Vigilante",
+    "original": "비질란테",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "overview": "Kim Ji-yong leads a double life as a Korean National Police University student by day and the Vigilante by night, personally punishing criminals who evade the law. He is surrounded by people who all possess different ulterior motives.",
+    "genres": [
+      "Crime",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-48462",
+    "tmdb_id": 48462,
+    "title": "The Heirs",
+    "original": "상속자들",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2013,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w780/n4RX9QVXjHbMB31TDWqqRLjshgu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/asVatKAwDD1N5cx3v3GZkzdeVh0.jpg",
+    "overview": "After a chance encounter in LA, two teens from different social backgrounds reunite at an exclusive high school attended by Korea's über rich.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-108284",
+    "tmdb_id": 108284,
+    "title": "Tale of the Nine Tailed",
+    "original": "구미호뎐",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2020,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w780/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg",
+    "overview": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy",
+      "Mystery"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-261980",
+    "tmdb_id": 261980,
+    "title": "Our Unwritten Seoul",
+    "original": "미지의 서울",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2025,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w780/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
+    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+    "genres": [
+      "Drama"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  },
+  {
+    "id": "kdrama-218230",
+    "tmdb_id": 218230,
+    "title": "Death's Game",
+    "original": "이재, 곧 죽습니다",
+    "kind": "kdrama",
+    "language": "ko",
+    "year": 2023,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/ecM5MY9g2mF6x5SrB2QWOYkcH98.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/icy4p7Nb33UU2S5eHvlBcE0Dvmi.jpg",
+    "overview": "At the brink of going to hell, Yee-jae must cycle through twelve separate lives and twelve separate deaths in this reincarnation drama.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "subtitle_status": "missing",
+    "updated_at": "2026-06-26T11:54:41Z"
+  }
+]
