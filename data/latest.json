@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26T11:54:41Z",
-  "movies_count": 100,
-  "kdrama_count": 100,
-  "anime_count": 100,
+  "updated_at": null,
+  "movies_count": 0,
+  "anime_count": 0,
+  "kdrama_count": 0,
   "files": {
     "movies": "data/movies.json",
-    "kdrama": "data/kdrama.json",
-    "anime": "data/anime.json"
+    "anime": "data/anime.json",
+    "kdrama": "data/kdrama.json"
   }
 }

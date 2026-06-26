@@ -558,20 +558,31 @@ private fun EmptyState(text: String) {
 private data class CatalogResult(val movies: List<MediaItem>, val anime: List<MediaItem>, val kdrama: List<MediaItem>, val message: String)
 
 private fun loadCatalog(settings: GitHubSettings): CatalogResult {
-    return try {
-        val movies = fetchMediaArray(settings.raw("data/movies.json"), "Movie")
-        val anime = fetchMediaArray(settings.raw("data/anime.json"), "Anime")
-        val kdrama = fetchMediaArray(settings.raw("data/kdrama.json"), "K-Drama")
-        CatalogResult(movies, anime, kdrama, "Loaded ${movies.size + anime.size + kdrama.size} items from GitHub")
-    } catch (e: Exception) {
-        CatalogResult(emptyList(), emptyList(), emptyList(), "GitHub Raw error: ${e.message}")
-    }
+    val errors = mutableListOf<String>()
+    val movies = runCatching { fetchMediaArray(settings.raw("data/movies.json"), "Movie") }
+        .getOrElse { errors.add("movies: ${it.message}"); emptyList() }
+    val anime = runCatching { fetchMediaArray(settings.raw("data/anime.json"), "Anime") }
+        .getOrElse { errors.add("anime: ${it.message}"); emptyList() }
+    val kdrama = runCatching { fetchMediaArray(settings.raw("data/kdrama.json"), "K-Drama") }
+        .getOrElse { errors.add("kdrama: ${it.message}"); emptyList() }
+    val total = movies.size + anime.size + kdrama.size
+    val ok = "Loaded $total items: Movies ${movies.size}, Anime ${anime.size}, K-Drama ${kdrama.size}"
+    val msg = if (errors.isEmpty()) ok else "$ok | ${errors.joinToString(" | ")}"
+    return CatalogResult(movies, anime, kdrama, msg)
 }
 
 private fun fetchMediaArray(url: String, fallbackType: String): List<MediaItem> {
-    val text = httpGet(url, null)
+    val freshUrl = url + if (url.contains("?")) "&awr_cache=${System.currentTimeMillis()}" else "?awr_cache=${System.currentTimeMillis()}"
+    val text = httpGet(freshUrl, null).trim()
     if (text.isBlank()) return emptyList()
-    val arr = JSONArray(text)
+    val arr = when {
+        text.startsWith("[") -> JSONArray(text)
+        text.startsWith("{") -> {
+            val obj = JSONObject(text)
+            obj.optJSONArray("items") ?: obj.optJSONArray("results") ?: obj.optJSONArray("data") ?: JSONArray()
+        }
+        else -> throw IllegalStateException("Invalid JSON from $url: ${text.take(40)}")
+    }
     return List(arr.length()) { idx -> parseMedia(arr.getJSONObject(idx), fallbackType) }
 }
 
