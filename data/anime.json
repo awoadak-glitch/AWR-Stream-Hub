@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "anime-63926",
+    "tmdb_id": 63926,
+    "title": "One-Punch Man",
+    "original": "ワンパンマン",
+    "kind": "anime",
+    "language": "ja",
+    "year": 2015,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w780/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+    "overview": "Saitama is a hero who only became a hero for fun. After three years of “special” training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong—even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore. With his passion for being a hero lost along with his hair, yet still faced with new enemies every day, how much longer can he keep it going?",
+    "genres": [],
+    "subtitle_status": "missing",
+    "requested_at": "2026-06-26T12:09:17Z"
+  }
+]
