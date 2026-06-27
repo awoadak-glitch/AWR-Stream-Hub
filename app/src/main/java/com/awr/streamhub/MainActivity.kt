@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.animation.Crossfade
@@ -605,7 +606,7 @@ private fun ServerButton(server: ServerLink, onOpen: () -> Unit) {
                 Text(server.url, color = Muted, fontSize = 11.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
             }
             Spacer(Modifier.width(10.dp))
-            Button(onClick = onOpen, colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Color.Black)) { Text("Play") }
+            Button(onClick = onOpen, colors = ButtonDefaults.buttonColors(containerColor = Gold, contentColor = Color.Black)) { Text("MX") }
         }
     }
 }
@@ -625,7 +626,7 @@ private fun EpisodeCard(episode: EpisodeItem, onOpen: (ServerLink) -> Unit) {
                             Text(server.url, color = Muted, fontSize = 11.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                         }
                         Spacer(Modifier.width(8.dp))
-                        OutlinedButton(onClick = { onOpen(server) }, border = BorderStroke(1.dp, Gold)) { Text("Play", color = Gold) }
+                        OutlinedButton(onClick = { onOpen(server) }, border = BorderStroke(1.dp, Gold)) { Text("MX", color = Gold) }
                     }
                 }
             }
@@ -703,9 +704,33 @@ private fun parseMedia(o: JSONObject, fallbackType: String): MediaItem {
         backdrop = normalizeImage(o.optString("backdrop", o.optString("backdrop_path", ""))),
         subtitleStatus = o.optString("subtitle_status", o.optString("subtitle", "unknown")),
         episodes = o.optInt("episodes", o.optInt("number_of_episodes", countEpisodes(o.optJSONArray("seasons")))),
-        servers = parseServers(o.optJSONArray("servers") ?: o.optJSONArray("watch_urls")),
+        servers = parseAllServers(o),
         seasons = parseSeasons(o.optJSONArray("seasons"))
     )
+}
+
+private fun parseAllServers(o: JSONObject): List<ServerLink> {
+    val servers = mutableListOf<ServerLink>()
+
+    servers.addAll(parseServers(o.optJSONArray("servers")))
+    servers.addAll(parseServers(o.optJSONArray("watch_urls")))
+
+    val watchUrl = o.optString("watch_url", "")
+    if (watchUrl.isNotBlank()) {
+        servers.add(ServerLink(name = o.optString("watch_name", "Watch"), url = watchUrl))
+    }
+
+    val videoUrl = o.optString("video_url", "")
+    if (videoUrl.isNotBlank()) {
+        servers.add(ServerLink(name = o.optString("video_name", "Video"), url = videoUrl))
+    }
+
+    val streamUrl = o.optString("stream_url", "")
+    if (streamUrl.isNotBlank()) {
+        servers.add(ServerLink(name = o.optString("stream_name", "Stream"), url = streamUrl))
+    }
+
+    return servers.distinctBy { it.url.trim() }.filter { it.url.isNotBlank() }
 }
 
 private fun parseServers(arr: JSONArray?): List<ServerLink> {
@@ -769,8 +794,49 @@ private fun MediaItem.contentHint(): String {
 
 private fun openUrl(context: Context, url: String) {
     if (url.isBlank()) return
-    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
-    context.startActivity(intent)
+
+    val uri = Uri.parse(url.trim())
+    val mimeType = guessMimeType(url)
+
+    val mxPackages = listOf(
+        "com.mxtech.videoplayer.ad",   // MX Player
+        "com.mxtech.videoplayer.pro"   // MX Player Pro
+    )
+
+    for (pkg in mxPackages) {
+        val intent = Intent(Intent.ACTION_VIEW).apply {
+            setDataAndType(uri, mimeType)
+            setPackage(pkg)
+            addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            putExtra("title", "AWR Stream Hub")
+        }
+
+        try {
+            context.startActivity(intent)
+            return
+        } catch (_: Exception) {
+            // Try the next MX Player package.
+        }
+    }
+
+    Toast.makeText(
+        context,
+        "لم يتم العثور على MX Player أو الرابط ليس فيديو مباشر. استخدم رابط mp4 أو m3u8 أو mpd.",
+        Toast.LENGTH_LONG
+    ).show()
+}
+
+private fun guessMimeType(url: String): String {
+    val clean = url.substringBefore("?").lowercase(Locale.US)
+    return when {
+        clean.endsWith(".m3u8") -> "application/x-mpegURL"
+        clean.endsWith(".mpd") -> "application/dash+xml"
+        clean.endsWith(".mp4") -> "video/mp4"
+        clean.endsWith(".mkv") -> "video/x-matroska"
+        clean.endsWith(".webm") -> "video/webm"
+        clean.endsWith(".avi") -> "video/x-msvideo"
+        else -> "video/*"
+    }
 }
 
 private fun dispatchPriority(settings: GitHubSettings, title: String, kind: String): String {
