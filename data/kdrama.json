@@ -1,5 +1,71 @@
 [
   {
+    "id": "kdrama-219783",
+    "tmdb_id": 219783,
+    "imdb_id": null,
+    "title": "The Seasons",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/5WUFnTXfJkadGV5Ho5JzhdZ3sH0.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-06-27T18:49:45Z"
+  },
+  {
+    "id": "kdrama-5707",
+    "tmdb_id": 5707,
+    "imdb_id": null,
+    "title": "X-Man",
+    "overview": "Celebrity guests are split into two teams to compete in various contests. One guest, known only to himself, is designated the \"X-Man\", and does his best to cause his team to lose the contests. At the end, all guests try to determine the X-Man's identity.",
+    "poster": "https://image.tmdb.org/t/p/w780/lqxp7BHGvTcrwU5WZr4FuDCvNNS.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-06-27T18:49:45Z"
+  },
+  {
+    "id": "kdrama-132876",
+    "tmdb_id": 132876,
+    "imdb_id": null,
+    "title": "SNL Korea",
+    "overview": "\"SNL Korea\"! NBC's flagship program SNL, which won the Emmy Award, has returned for the first time in four years through Coupang Play.",
+    "poster": "https://image.tmdb.org/t/p/w780/bgFsUd788CupFK1xt2xFVEJRibT.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-06-27T18:49:44Z"
+  },
+  {
+    "id": "kdrama-73048",
+    "tmdb_id": 73048,
+    "imdb_id": "tt3294962",
+    "title": "SNL Korea",
+    "overview": "Korea's version of the late-night live television sketch comedy and variety show. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory cast members.",
+    "poster": "https://image.tmdb.org/t/p/w780/1feD9WnGOU19juCw79fACNmG7n4.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt3294962/",
+    "updated_at": "2026-06-27T18:49:43Z"
+  },
+  {
+    "id": "kdrama-322055",
+    "tmdb_id": 322055,
+    "imdb_id": "tt43592244",
+    "title": "The Prosecutor's Proposal",
+    "overview": "A victim’s son and a killer’s son reunite as a prosecutor and investigator, fighting systemic corruption while becoming each other's salvation.",
+    "poster": "https://image.tmdb.org/t/p/w780/lK6DrnFecG0AsA8O5UqEYOrOArd.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt43592244/",
+    "updated_at": "2026-06-27T18:49:37Z"
+  },
+  {
+    "id": "kdrama-286360",
+    "tmdb_id": 286360,
+    "imdb_id": "tt36270432",
+    "title": "Notes from the Last Row",
+    "overview": "A literature professor discovers a student's talent and offers him writing lessons — but as he sinks into the story, their sessions spiral into chaos.",
+    "poster": "https://image.tmdb.org/t/p/w780/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt36270432/",
+    "updated_at": "2026-06-27T18:49:36Z"
+  },
+  {
     "id": "kdrama-65270",
     "tmdb_id": 65270,
     "imdb_id": "tt6283624",
