@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-30983",
+    "tmdb_id": 30983,
+    "imdb_id": "tt0131179",
+    "title": "Detective Conan",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "poster": "https://image.tmdb.org/t/p/w780/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0131179/",
+    "updated_at": "2026-06-27T11:39:24Z"
+  },
+  {
     "id": "anime-31911",
     "tmdb_id": 31911,
     "imdb_id": "tt1355642",
