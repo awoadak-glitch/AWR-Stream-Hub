@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1413976",
+    "tmdb_id": 1413976,
+    "imdb_id": "tt35309713",
+    "title": "Citizen Vigilante",
+    "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+    "poster": "https://image.tmdb.org/t/p/w780/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt35309713/",
+    "updated_at": "2026-06-29T04:25:12Z"
+  },
+  {
     "id": "movie-1340206",
     "tmdb_id": 1340206,
     "imdb_id": "tt33296751",
