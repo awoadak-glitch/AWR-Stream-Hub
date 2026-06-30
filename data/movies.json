@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1314481",
+    "tmdb_id": 1314481,
+    "imdb_id": "tt33612209",
+    "title": "The Devil Wears Prada 2",
+    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "poster": "https://image.tmdb.org/t/p/w780/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt33612209/",
+    "updated_at": "2026-06-30T12:04:23Z"
+  },
+  {
     "id": "movie-1397385",
     "tmdb_id": 1397385,
     "imdb_id": "tt34888871",
