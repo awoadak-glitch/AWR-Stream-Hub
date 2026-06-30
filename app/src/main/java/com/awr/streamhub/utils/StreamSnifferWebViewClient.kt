@@ -1,3 +1,11 @@
+package com.awr.streamhub.utils
+
+import android.webkit.WebResourceRequest
+import android.webkit.WebResourceResponse
+import android.webkit.WebView
+import android.webkit.WebViewClient
+import java.io.ByteArrayInputStream
+
 class StreamSnifferWebViewClient(
     private val onVideoUrlFound: (String) -> Unit
 ) : WebViewClient() {
