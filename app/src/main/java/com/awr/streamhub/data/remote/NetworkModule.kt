@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit
 object NetworkModule {
 
     private const val JIKAN_BASE_URL = "https://api.jikan.moe/v4/"
-    private const val CONSUMET_BASE_URL = "https://api.consumet.org/"
+    private const val CONSUMET_BASE_URL = "https://awr-stream-api.onrender.com/"
 
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BASIC
