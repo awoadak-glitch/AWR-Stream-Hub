@@ -2,11 +2,9 @@ package com.awr.streamhub.ui.components
 
 import android.view.ViewGroup
 import android.webkit.WebView
-import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.draw.alpha
-import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import com.awr.streamhub.utils.StreamSnifferWebViewClient
 
@@ -15,40 +13,35 @@ fun BackgroundVideoExtractor(
     embedUrl: String,
     onDirectUrlExtracted: (String) -> Unit
 ) {
-    var isUrlFound by remember { mutableStateOf(false) }
-
-    if (!isUrlFound) {
-        AndroidView(
-            factory = { context ->
-                WebView(context).apply {
-                    // إعطاء أبعاد ضئيلة جداً لكي يعتبره النظام شغالاً في الواجهة ولا يوقفه
-                    layoutParams = ViewGroup.LayoutParams(1, 1) 
+    // نستخدم AndroidView لعرض الـ WebView الذي سيتفاعل معه المستخدم مباشرة
+    AndroidView(
+        factory = { context ->
+            WebView(context).apply {
+                layoutParams = ViewGroup.LayoutParams(
+                    ViewGroup.LayoutParams.MATCH_PARENT,
+                    ViewGroup.LayoutParams.MATCH_PARENT
+                )
+                
+                settings.apply {
+                    javaScriptEnabled = true
+                    domStorageEnabled = true
+                    databaseEnabled = true
+                    // السماح بتشغيل الوسائط
+                    mediaPlaybackRequiresUserGesture = false 
                     
-                    settings.apply {
-                        javaScriptEnabled = true
-                        domStorageEnabled = true
-                        databaseEnabled = true
-                        mediaPlaybackRequiresUserGesture = false // للسماح للموقع ببدء تشغيل الفيديو تلقائياً في الخلفية لاستخراج الرابط
-                        
-                        // خداع الحماية كأننا متصفح كروم رسمي على الكمبيوتر لتجنب إعلانات الموبايل الموجهة
-                        userAgentString = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-                    }
-
-                    // ربط الـ WebView بالصائد المخصص لنا
-                    webViewClient = StreamSnifferWebViewClient { extractedVideoUrl ->
-                        if (!isUrlFound) {
-                            isUrlFound = true
-                            onDirectUrlExtracted(extractedVideoUrl) // تمرير الرابط النظيف المكتشف
-                        }
-                    }
+                    // محاكاة متصفح سطح المكتب لتجنب قيود إعلانات الموبايل
+                    userAgentString = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
                 }
-            },
-            modifier = Modifier
-                .size(1.dp)
-                .alpha(0.01f), // شبه شفاف تماماً وغير مرئي نهائياً للمستخدم
-            update = { webView ->
-                webView.loadUrl(embedUrl)
+
+                // الـ Sniffer الخاص بك سيستمر في مراقبة الطلبات في الخلفية
+                webViewClient = StreamSnifferWebViewClient { extractedVideoUrl ->
+                    // عند نجاح عملية الصيد، نمرر الرابط للخارج (الـ PlayerScreen سيهتم بإخفاء هذا المكون)
+                    onDirectUrlExtracted(extractedVideoUrl)
+                }
+                
+                loadUrl(embedUrl)
             }
-        )
-    }
+        },
+        modifier = Modifier.fillMaxSize() // الآن أصبح مرئياً ويغطي كامل مساحة الشاشة
+    )
 }
