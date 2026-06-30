@@ -25,39 +25,34 @@ interface ConsumetApiService {
         @Query("server") server: String = "gogocdn"
     ): ConsumetSources
 
-    // ─── Movies (تحويل من TMDB إلى FlixHQ لتخطي حظر Cloudflare) ──────────────
+    // ─── Movies (التحويل الكامل إلى TMDB لضمان الـ ID الرقمي لـ WebView) ───────
 
-    @GET("movies/flixhq/trending")
+    @GET("meta/tmdb/trending")
     suspend fun getTrendingMovies(
         @Query("type") type: String = "movie",
         @Query("page") page: Int = 1
     ): ConsumetSearchResult
 
-    @GET("movies/flixhq/popular")
+    @GET("meta/tmdb/popular")
     suspend fun getPopularMovies(
         @Query("type") type: String = "movie",
         @Query("page") page: Int = 1
     ): ConsumetSearchResult
 
-    @GET("movies/flixhq/{query}")
+    @GET("meta/tmdb/{query}")
     suspend fun searchMovies(
         @Path("query") query: String,
         @Query("page") page: Int = 1,
-        @Query("type") type: String? = null
+        @Query("type") type: String? = "movie"
     ): ConsumetSearchResult
 
-    @GET("movies/flixhq/info")
+    @GET("meta/tmdb/info/{id}")
     suspend fun getMovieInfo(
-        @Query("id") id: String,
+        @Path("id") id: String, // هنا سيتم تمرير الـ TMDB ID النقي مباشرة لتجهيزه للمشغل
         @Query("type") type: String = "movie"
     ): ConsumetMedia
 
-    @GET("movies/flixhq/watch")
-    suspend fun getMovieSources(
-        @Query("episodeId") episodeId: String,
-        @Query("mediaId") mediaId: String,
-        @Query("type") type: String = "movie"
-    ): ConsumetSources
+    // ملاحظة: تم إلغاء دالة getMovieSources للأفلام تماماً لأن الـ WebView سيتولى الصيد تلقائياً.
 
     // ─── K-Drama (تصحيح المسار من anime إلى movies) ─────────────────────────
 
