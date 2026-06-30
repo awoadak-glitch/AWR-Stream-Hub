@@ -55,6 +55,18 @@ fun PlayerScreen(
     var showSubtitleMenu by remember { mutableStateOf(false) }
     var selectedSubtitle by remember { mutableStateOf("off") }
 
+    // الرمز البرمي للاحتفاظ بالرابط المستخرج من الـ WebView الخلفي
+    var extractedVideoUrl by remember { mutableStateOf<String?>(null) }
+
+    // بناء رابط الـ Embed تلقائياً (إذا كانت الحلقة أكبر من 0 يعتبره مسلسل، وإلا فيلم)
+    val embedUrl = remember(mediaItem.id, episodeNumber) {
+        if (episodeNumber > 0) {
+            "https://vidsrc.to/embed/tv/${mediaItem.id}/1/$episodeNumber"
+        } else {
+            "https://vidsrc.to/embed/movie/${mediaItem.id}"
+        }
+    }
+
     // Build ExoPlayer
     val exoPlayer = remember {
         ExoPlayer.Builder(context).build().apply {
@@ -63,27 +75,13 @@ fun PlayerScreen(
         }
     }
 
-    // Load source when available
-    LaunchedEffect(state.videoInfo) {
-        val info = state.videoInfo ?: return@LaunchedEffect
-        val bestSource = info.sources
-            .sortedByDescending {
-                when {
-                    it.quality.contains("1080") -> 4
-                    it.quality.contains("720") -> 3
-                    it.quality.contains("480") -> 2
-                    it.quality.contains("auto") -> 5
-                    else -> 1
-                }
-            }
-            .firstOrNull() ?: return@LaunchedEffect
-
+    // تجهيز المشغل وتشغيل الرابط فور اصطياده بنجاح من الـ WebView
+    LaunchedEffect(extractedVideoUrl) {
+        val url = extractedVideoUrl ?: return@LaunchedEffect
+        
         val mediaItemBuilder = ExoMediaItem.Builder()
-            .setUri(bestSource.url)
-
-        if (bestSource.isM3U8) {
-            mediaItemBuilder.setMimeType(MimeTypes.APPLICATION_M3U8)
-        }
+            .setUri(url)
+            .setMimeType(MimeTypes.APPLICATION_M3U8) // الروابط المقتنصة تكون بصيغة HLS المتكيفة
 
         exoPlayer.setMediaItem(mediaItemBuilder.build())
         exoPlayer.prepare()
@@ -120,6 +118,11 @@ fun PlayerScreen(
             .background(Color.Black)
             .clickable { showControls = !showControls }
     ) {
+        // ── 🕵️‍♂️ الـ WebView الخلفي الصامت الماص للروابط ومانع الإعلانات ──
+        BackgroundVideoExtractor(embedUrl = embedUrl) { url ->
+            extractedVideoUrl = url
+        }
+
         // ── ExoPlayer View ──────────────────────────────────────────────────
         AndroidView(
             factory = { ctx ->
@@ -136,7 +139,8 @@ fun PlayerScreen(
         )
 
         // ── Loading Overlay ─────────────────────────────────────────────────
-        if (state.isLoading) {
+        // يظهر في حالة تحميل السيرفر الأصلي أو أثناء قيام الـ WebView بعملية القنص في الخلفية
+        if (state.isLoading || extractedVideoUrl == null) {
             Box(
                 Modifier
                     .fillMaxSize()
@@ -146,7 +150,7 @@ fun PlayerScreen(
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     CircularProgressIndicator(color = Gold)
                     Spacer(Modifier.height(12.dp))
-                    Text("Loading stream...", color = TextSoft, fontSize = 14.sp)
+                    Text("جاري قنص الرابط النظيف وتخطي الإعلانات...", color = TextSoft, fontSize = 14.sp)
                 }
             }
         }
@@ -173,7 +177,7 @@ fun PlayerScreen(
 
         // ── Controls Overlay ────────────────────────────────────────────────
         AnimatedVisibility(
-            visible = showControls && state.isLoading.not() && state.error == null,
+            visible = showControls && state.isLoading.not() && extractedVideoUrl != null && state.error == null,
             enter = fadeIn(),
             exit = fadeOut()
         ) {
@@ -210,11 +214,13 @@ fun PlayerScreen(
                             fontSize = 14.sp,
                             maxLines = 1
                         )
-                        Text(
-                            "Episode $episodeNumber",
-                            color = Color.White.copy(.7f),
-                            fontSize = 12.sp
-                        )
+                        if (episodeNumber > 0) {
+                            Text(
+                                "Episode $episodeNumber",
+                                color = Color.White.copy(.7f),
+                                fontSize = 12.sp
+                            )
+                        }
                     }
                 }
 
@@ -283,8 +289,10 @@ fun PlayerScreen(
                             }
 
                             // Next episode
-                            TextButton(onClick = onNextEpisode) {
-                                Text("Next ▶▶", color = Color.White, fontSize = 12.sp)
+                            if (episodeNumber > 0) {
+                                TextButton(onClick = onNextEpisode) {
+                                    Text("Next ▶▶", color = Color.White, fontSize = 12.sp)
+                                }
                             }
                         }
                     }
