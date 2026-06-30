@@ -25,54 +25,54 @@ interface ConsumetApiService {
         @Query("server") server: String = "gogocdn"
     ): ConsumetSources
 
-    // ─── Movies (TMDB provider) ────────────────────────────────────────────
+    // ─── Movies (تحويل من TMDB إلى FlixHQ لتخطي حظر Cloudflare) ──────────────
 
-    @GET("meta/tmdb/trending")
+    @GET("movies/flixhq/trending")
     suspend fun getTrendingMovies(
         @Query("type") type: String = "movie",
         @Query("page") page: Int = 1
     ): ConsumetSearchResult
 
-    @GET("meta/tmdb/popular")
+    @GET("movies/flixhq/popular")
     suspend fun getPopularMovies(
         @Query("type") type: String = "movie",
         @Query("page") page: Int = 1
     ): ConsumetSearchResult
 
-    @GET("meta/tmdb/{query}")
+    @GET("movies/flixhq/{query}")
     suspend fun searchMovies(
         @Path("query") query: String,
         @Query("page") page: Int = 1,
         @Query("type") type: String? = null
     ): ConsumetSearchResult
 
-    @GET("meta/tmdb/info/{id}")
+    @GET("movies/flixhq/info")
     suspend fun getMovieInfo(
-        @Path("id") id: String,
+        @Query("id") id: String,
         @Query("type") type: String = "movie"
     ): ConsumetMedia
 
-    @GET("meta/tmdb/watch/{episodeId}")
+    @GET("movies/flixhq/watch")
     suspend fun getMovieSources(
-        @Path("episodeId") episodeId: String,
-        @Query("id") mediaId: String,
+        @Query("episodeId") episodeId: String,
+        @Query("mediaId") mediaId: String,
         @Query("type") type: String = "movie"
     ): ConsumetSources
 
-    // ─── K-Drama (using DramaQ provider) ──────────────────────────────────
+    // ─── K-Drama (تصحيح المسار من anime إلى movies) ─────────────────────────
 
-    @GET("anime/dramacool/{query}")
+    @GET("movies/dramacool/{query}")
     suspend fun searchDrama(
         @Path("query") query: String,
         @Query("page") page: Int = 1
     ): ConsumetSearchResult
 
-    @GET("anime/dramacool/info")
+    @GET("movies/dramacool/info")
     suspend fun getDramaInfo(
         @Query("id") id: String
     ): ConsumetMedia
 
-    @GET("anime/dramacool/watch")
+    @GET("movies/dramacool/watch")
     suspend fun getDramaEpisodeSources(
         @Query("episodeId") episodeId: String,
         @Query("mediaId") mediaId: String
