@@ -75,7 +75,7 @@ fun HistoryScreen(
             )
         } else {
             LazyColumn(
-                contentPadding = PaddingValues(horizontal = 18.dp, vertical = 4.dp, bottom = 90.dp),
+                contentPadding = PaddingValues(start = 18.dp, top = 4.dp, end = 18.dp, bottom = 90.dp),
                 verticalArrangement = Arrangement.spacedBy(10.dp)
             ) {
                 items(history) { entry ->
