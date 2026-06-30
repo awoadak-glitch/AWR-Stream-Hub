@@ -88,15 +88,11 @@ class MediaRepository(private val db: AppDatabase) {
         response.toMediaItem(MediaType.MOVIE)
     }
 
+    // 📌 التعديل هنا: تم جعل الدالة ترجع كائن VideoInfo فارغاً بأمان لأن الـ WebView سيقتنص البث ذاتياً
     suspend fun getMovieSources(episodeId: String, mediaId: String): Result<VideoInfo> = runCatching {
-        val response = consumet.getMovieSources(episodeId = episodeId, mediaId = mediaId, type = "movie")
         VideoInfo(
-            sources = response.sources.map {
-                StreamSource(url = it.url, quality = it.quality ?: "auto", isM3U8 = it.isM3U8)
-            },
-            subtitles = response.subtitles.map {
-                SubtitleTrack(url = it.url, lang = it.lang, label = it.lang)
-            }
+            sources = emptyList(),
+            subtitles = emptyList()
         )
     }
 
@@ -152,7 +148,6 @@ class MediaRepository(private val db: AppDatabase) {
 
     suspend fun toggleFavorite(item: MediaItem) {
         val isFav = db.favoriteDao().isFavorite(item.id)
-        // We'll handle this in ViewModel with a collect
         db.favoriteDao().addFavorite(
             FavoriteEntity(
                 mediaId = item.id,
