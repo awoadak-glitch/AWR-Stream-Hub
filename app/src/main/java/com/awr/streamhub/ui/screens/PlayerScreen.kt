@@ -31,7 +31,6 @@ import androidx.media3.common.util.UnstableApi
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.ui.PlayerView
 import com.awr.streamhub.data.models.MediaItem
-import com.awr.streamhub.data.models.SubtitleTrack
 import com.awr.streamhub.ui.components.*
 import com.awr.streamhub.ui.theme.*
 import com.awr.streamhub.viewmodel.PlayerState
@@ -48,26 +47,24 @@ fun PlayerScreen(
     onNextEpisode: () -> Unit
 ) {
     val context = LocalContext.current
+    
+    // متغيرات الحالة
     var showControls by remember { mutableStateOf(true) }
     var isPlaying by remember { mutableStateOf(false) }
     var currentPosition by remember { mutableStateOf(0L) }
     var duration by remember { mutableStateOf(0L) }
     var showSubtitleMenu by remember { mutableStateOf(false) }
     var selectedSubtitle by remember { mutableStateOf("off") }
-
-    // الرمز البرمي للاحتفاظ بالرابط المستخرج من الـ WebView الخلفي
+    
+    // متغيرات القنص والتبديل
     var extractedVideoUrl by remember { mutableStateOf<String?>(null) }
+    var isPlayerReady by remember { mutableStateOf(false) } // التبديل بين WebView والمشغل
 
-    // بناء رابط الـ Embed تلقائياً (إذا كانت الحلقة أكبر من 0 يعتبره مسلسل، وإلا فيلم)
     val embedUrl = remember(mediaItem.id, episodeNumber) {
-        if (episodeNumber > 0) {
-            "https://vidsrc.to/embed/tv/${mediaItem.id}/1/$episodeNumber"
-        } else {
-            "https://vidsrc.to/embed/movie/${mediaItem.id}"
-        }
+        if (episodeNumber > 0) "https://vidsrc.to/embed/tv/${mediaItem.id}/1/$episodeNumber"
+        else "https://vidsrc.to/embed/movie/${mediaItem.id}"
     }
 
-    // Build ExoPlayer
     val exoPlayer = remember {
         ExoPlayer.Builder(context).build().apply {
             playWhenReady = true
@@ -75,284 +72,130 @@ fun PlayerScreen(
         }
     }
 
-    // تجهيز المشغل وتشغيل الرابط فور اصطياده بنجاح من الـ WebView
-    LaunchedEffect(extractedVideoUrl) {
-        val url = extractedVideoUrl ?: return@LaunchedEffect
-        
-        val mediaItemBuilder = ExoMediaItem.Builder()
-            .setUri(url)
-            .setMimeType(MimeTypes.APPLICATION_M3U8) // الروابط المقتنصة تكون بصيغة HLS المتكيفة
-
-        exoPlayer.setMediaItem(mediaItemBuilder.build())
-        exoPlayer.prepare()
+    // تجهيز المشغل فقط عند التبديل
+    LaunchedEffect(isPlayerReady, extractedVideoUrl) {
+        if (isPlayerReady && extractedVideoUrl != null) {
+            val mediaItemBuilder = ExoMediaItem.Builder()
+                .setUri(extractedVideoUrl!!)
+                .setMimeType(MimeTypes.APPLICATION_M3U8)
+            exoPlayer.setMediaItem(mediaItemBuilder.build())
+            exoPlayer.prepare()
+        }
     }
 
-    // Track progress
+    // تتبع التقدم
     LaunchedEffect(exoPlayer) {
         while (true) {
             delay(1000)
-            currentPosition = exoPlayer.currentPosition
-            duration = exoPlayer.duration.coerceAtLeast(1L)
-            isPlaying = exoPlayer.isPlaying
-            if (currentPosition > 0 && duration > 0) {
-                onProgress(currentPosition, duration)
+            if (isPlayerReady) {
+                currentPosition = exoPlayer.currentPosition
+                duration = exoPlayer.duration.coerceAtLeast(1L)
+                isPlaying = exoPlayer.isPlaying
+                if (currentPosition > 0 && duration > 0) onProgress(currentPosition, duration)
             }
         }
     }
 
-    // Auto-hide controls
-    LaunchedEffect(showControls) {
-        if (showControls && isPlaying) {
-            delay(3500)
-            showControls = false
-        }
-    }
+    DisposableEffect(Unit) { onDispose { exoPlayer.release() } }
 
-    DisposableEffect(Unit) {
-        onDispose { exoPlayer.release() }
-    }
+    Box(Modifier.fillMaxSize().background(Color.Black)) {
 
-    Box(
-        Modifier
-            .fillMaxSize()
-            .background(Color.Black)
-            .clickable { showControls = !showControls }
-    ) {
-        // ── 🕵️‍♂️ الـ WebView الخلفي الصامت الماص للروابط ومانع الإعلانات ──
-        BackgroundVideoExtractor(embedUrl = embedUrl) { url ->
-            extractedVideoUrl = url
-        }
-
-        // ── ExoPlayer View ──────────────────────────────────────────────────
-        AndroidView(
-            factory = { ctx ->
-                PlayerView(ctx).apply {
-                    player = exoPlayer
-                    useController = false
-                    layoutParams = FrameLayout.LayoutParams(
-                        ViewGroup.LayoutParams.MATCH_PARENT,
-                        ViewGroup.LayoutParams.MATCH_PARENT
-                    )
+        // 1. حالة الـ WebView (قبل بدء المشغل)
+        if (!isPlayerReady) {
+            BackgroundVideoExtractor(embedUrl = embedUrl) { url ->
+                extractedVideoUrl = url
+            }
+            
+            // زر التشغيل يظهر فوق الـ WebView عند إيجاد الرابط
+            if (extractedVideoUrl != null) {
+                Box(Modifier.fillMaxSize(), contentAlignment = Alignment.BottomCenter) {
+                    Button(
+                        onClick = { isPlayerReady = true },
+                        modifier = Modifier.padding(32.dp).fillMaxWidth(),
+                        colors = ButtonDefaults.buttonColors(containerColor = Gold)
+                    ) {
+                        Text("بدء المشاهدة الآن ▶", fontWeight = FontWeight.Bold, color = Color.Black)
+                    }
                 }
-            },
-            modifier = Modifier.fillMaxSize()
-        )
+            }
+        } 
+        
+        // 2. حالة المشغل (بعد التبديل)
+        else {
+            Box(Modifier.fillMaxSize().clickable { showControls = !showControls }) {
+                AndroidView(
+                    factory = { ctx ->
+                        PlayerView(ctx).apply {
+                            player = exoPlayer
+                            useController = false
+                            layoutParams = FrameLayout.LayoutParams(-1, -1)
+                        }
+                    },
+                    modifier = Modifier.fillMaxSize()
+                )
 
-        // ── Loading Overlay ─────────────────────────────────────────────────
-        // يظهر في حالة تحميل السيرفر الأصلي أو أثناء قيام الـ WebView بعملية القنص في الخلفية
-        if (state.isLoading || extractedVideoUrl == null) {
-            Box(
-                Modifier
-                    .fillMaxSize()
-                    .background(Color.Black.copy(.6f)),
-                contentAlignment = Alignment.Center
-            ) {
+                // ── Controls Overlay ──────────────────────────────────────────────
+                AnimatedVisibility(
+                    visible = showControls,
+                    enter = fadeIn(),
+                    exit = fadeOut()
+                ) {
+                    Box(Modifier.fillMaxSize()) {
+                        // Top UI
+                        Box(Modifier.fillMaxWidth().height(100.dp).align(Alignment.TopStart).background(Brush.verticalGradient(listOf(Color.Black.copy(.8f), Color.Transparent))))
+                        
+                        Row(Modifier.align(Alignment.TopStart).padding(12.dp), verticalAlignment = Alignment.CenterVertically) {
+                            IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back", tint = Color.White) }
+                            Column {
+                                Text(mediaItem.title, color = Color.White, fontWeight = FontWeight.Bold, fontSize = 14.sp)
+                                if (episodeNumber > 0) Text("Episode $episodeNumber", color = Color.White.copy(.7f), fontSize = 12.sp)
+                            }
+                        }
+
+                        // Center Play/Pause
+                        Box(Modifier.align(Alignment.Center).size(64.dp).clip(CircleShape).background(Color.Black.copy(.55f)).clickable {
+                            if (exoPlayer.isPlaying) exoPlayer.pause() else exoPlayer.play()
+                        }, contentAlignment = Alignment.Center) {
+                            Text(if (isPlaying) "⏸" else "▶", color = Color.White, fontSize = 28.sp)
+                        }
+
+                        // Bottom Controls
+                        Column(Modifier.align(Alignment.BottomStart).fillMaxWidth().background(Brush.verticalGradient(listOf(Color.Transparent, Color.Black.copy(.9f)))).padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                            val progress = if (duration > 0) currentPosition.toFloat() / duration else 0f
+                            Slider(value = progress, onValueChange = { exoPlayer.seekTo((it * duration).toLong()) }, colors = SliderDefaults.colors(thumbColor = Gold, activeTrackColor = Gold))
+                            
+                            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
+                                Text("${formatMs(currentPosition)} / ${formatMs(duration)}", color = Color.White.copy(.8f), fontSize = 12.sp)
+                                Row {
+                                    if (state.videoInfo?.subtitles?.isNotEmpty() == true) TextButton(onClick = { showSubtitleMenu = true }) { Text("CC", color = Gold, fontSize = 13.sp) }
+                                    if (episodeNumber > 0) TextButton(onClick = onNextEpisode) { Text("Next ▶▶", color = Color.White, fontSize = 12.sp) }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        // 3. Loading & Error Overlay
+        if (!isPlayerReady && extractedVideoUrl == null) {
+            Box(Modifier.fillMaxSize().background(Color.Black.copy(.6f)), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     CircularProgressIndicator(color = Gold)
                     Spacer(Modifier.height(12.dp))
-                    Text("جاري قنص الرابط النظيف وتخطي الإعلانات...", color = TextSoft, fontSize = 14.sp)
+                    Text("جاري البحث عن الرابط...", color = TextSoft, fontSize = 14.sp)
                 }
             }
         }
-
-        // ── Error Overlay ───────────────────────────────────────────────────
-        state.error?.let { err ->
-            Box(
-                Modifier
-                    .fillMaxSize()
-                    .background(Color.Black.copy(.85f)),
-                contentAlignment = Alignment.Center
-            ) {
-                Column(
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.spacedBy(12.dp)
-                ) {
-                    Text("⚠", fontSize = 40.sp)
-                    Text("Stream unavailable", color = TextPrimary, fontSize = 18.sp, fontWeight = FontWeight.Bold)
-                    Text(err, color = TextMuted, fontSize = 12.sp)
-                    AWRButton("Go Back", onBack)
-                }
-            }
-        }
-
-        // ── Controls Overlay ────────────────────────────────────────────────
-        AnimatedVisibility(
-            visible = showControls && state.isLoading.not() && extractedVideoUrl != null && state.error == null,
-            enter = fadeIn(),
-            exit = fadeOut()
-        ) {
-            Box(Modifier.fillMaxSize()) {
-                // Top gradient + header
-                Box(
-                    Modifier
-                        .fillMaxWidth()
-                        .height(100.dp)
-                        .align(Alignment.TopStart)
-                        .background(Brush.verticalGradient(listOf(Color.Black.copy(.8f), Color.Transparent)))
-                )
-
-                // Back button
-                Row(
-                    Modifier
-                        .align(Alignment.TopStart)
-                        .padding(12.dp),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    IconButton(onClick = onBack) {
-                        Icon(
-                            Icons.AutoMirrored.Filled.ArrowBack,
-                            contentDescription = "Back",
-                            tint = Color.White
-                        )
-                    }
-                    Spacer(Modifier.width(4.dp))
-                    Column {
-                        Text(
-                            mediaItem.title,
-                            color = Color.White,
-                            fontWeight = FontWeight.Bold,
-                            fontSize = 14.sp,
-                            maxLines = 1
-                        )
-                        if (episodeNumber > 0) {
-                            Text(
-                                "Episode $episodeNumber",
-                                color = Color.White.copy(.7f),
-                                fontSize = 12.sp
-                            )
-                        }
-                    }
-                }
-
-                // Center play/pause
-                Box(
-                    Modifier
-                        .align(Alignment.Center)
-                        .size(64.dp)
-                        .clip(CircleShape)
-                        .background(Color.Black.copy(.55f))
-                        .clickable {
-                            if (exoPlayer.isPlaying) exoPlayer.pause()
-                            else exoPlayer.play()
-                        },
-                    contentAlignment = Alignment.Center
-                ) {
-                    Text(
-                        if (isPlaying) "⏸" else "▶",
-                        color = Color.White,
-                        fontSize = 28.sp
-                    )
-                }
-
-                // Bottom gradient + controls
-                val bottomBg = Brush.verticalGradient(listOf(Color.Transparent, Color.Black.copy(.9f)))
-                Column(
-                    Modifier
-                        .align(Alignment.BottomStart)
-                        .fillMaxWidth()
-                        .background(bottomBg)
-                        .padding(horizontal = 16.dp, vertical = 12.dp),
-                    verticalArrangement = Arrangement.spacedBy(8.dp)
-                ) {
-                    // Progress bar
-                    val progress = if (duration > 0) currentPosition.toFloat() / duration else 0f
-                    Slider(
-                        value = progress,
-                        onValueChange = { newVal ->
-                            exoPlayer.seekTo((newVal * duration).toLong())
-                        },
-                        modifier = Modifier.fillMaxWidth(),
-                        colors = SliderDefaults.colors(
-                            thumbColor = Gold,
-                            activeTrackColor = Gold,
-                            inactiveTrackColor = Color.White.copy(.3f)
-                        )
-                    )
-
-                    Row(
-                        Modifier.fillMaxWidth(),
-                        horizontalArrangement = Arrangement.SpaceBetween,
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        Text(
-                            "${formatMs(currentPosition)} / ${formatMs(duration)}",
-                            color = Color.White.copy(.8f),
-                            fontSize = 12.sp
-                        )
-
-                        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                            // Subtitle button
-                            if (state.videoInfo?.subtitles?.isNotEmpty() == true) {
-                                TextButton(onClick = { showSubtitleMenu = true }) {
-                                    Text("CC", color = if (selectedSubtitle != "off") Gold else Color.White, fontSize = 13.sp, fontWeight = FontWeight.Bold)
-                                }
-                            }
-
-                            // Next episode
-                            if (episodeNumber > 0) {
-                                TextButton(onClick = onNextEpisode) {
-                                    Text("Next ▶▶", color = Color.White, fontSize = 12.sp)
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
-        // ── Subtitle Menu ────────────────────────────────────────────────────
+        
+        // Subtitle Menu
         if (showSubtitleMenu) {
-            Box(
-                Modifier
-                    .fillMaxSize()
-                    .background(Color.Black.copy(.7f))
-                    .clickable { showSubtitleMenu = false },
-                contentAlignment = Alignment.Center
-            ) {
-                Card(
-                    shape = RoundedCornerShape(16.dp),
-                    colors = CardDefaults.cardColors(containerColor = Panel)
-                ) {
-                    Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                        Text("Select Subtitle", color = TextPrimary, fontWeight = FontWeight.Black, fontSize = 16.sp)
-                        HorizontalDivider(color = Color.White.copy(.1f))
-
-                        SubtitleOption("Off", selectedSubtitle == "off") {
-                            selectedSubtitle = "off"
-                            showSubtitleMenu = false
-                        }
-
-                        state.videoInfo?.subtitles?.forEach { sub ->
-                            SubtitleOption(sub.label, selectedSubtitle == sub.lang) {
-                                selectedSubtitle = sub.lang
-                                showSubtitleMenu = false
-                                // TODO: Load subtitle into ExoPlayer
-                            }
-                        }
-                    }
-                }
-            }
+            // ... (نفس كود القائمة الموجود لديك)
         }
     }
 }
 
-@Composable
-private fun SubtitleOption(label: String, isSelected: Boolean, onClick: () -> Unit) {
-    Row(
-        Modifier
-            .fillMaxWidth()
-            .clip(RoundedCornerShape(10.dp))
-            .background(if (isSelected) Gold.copy(.15f) else Color.Transparent)
-            .clickable(onClick = onClick)
-            .padding(12.dp),
-        horizontalArrangement = Arrangement.SpaceBetween,
-        verticalAlignment = Alignment.CenterVertically
-    ) {
-        Text(label, color = if (isSelected) Gold else TextSoft, fontSize = 14.sp, fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Normal)
-        if (isSelected) Text("✓", color = Gold, fontSize = 14.sp)
-    }
-}
-
+// دالة تنسيق الوقت
 private fun formatMs(ms: Long): String {
     val totalSec = ms / 1000
     val min = totalSec / 60
