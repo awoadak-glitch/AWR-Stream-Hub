@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-65278",
+    "tmdb_id": 65278,
+    "imdb_id": "tt6050846",
+    "title": "Inkigayo",
+    "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week, they ask viewers to vote and select the most popular song of the week.",
+    "poster": "https://image.tmdb.org/t/p/w780/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt6050846/",
+    "updated_at": "2026-07-02T15:36:20Z"
+  },
+  {
     "id": "kdrama-130931",
     "tmdb_id": 130931,
     "imdb_id": null,
