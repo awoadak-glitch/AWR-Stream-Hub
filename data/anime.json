@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-57911",
+    "tmdb_id": 57911,
+    "imdb_id": "tt0069576",
+    "title": "Doraemon",
+    "overview": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is the much more successful successor of the 1973 anime.",
+    "poster": "https://image.tmdb.org/t/p/w780/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0069576/",
+    "updated_at": "2026-07-03T14:55:07Z"
+  },
+  {
+    "id": "anime-323243",
+    "tmdb_id": 323243,
+    "imdb_id": "tt31228002",
+    "title": "One Pace",
+    "overview": "Monkey D. Luffy sets off on an adventure with his pirate crew in hopes of finding the greatest treasure ever, known as the \"One Piece.\"\n\nOne Pace is a fan project that recuts the One Piece anime in an endeavor to bring it more in line with the pacing of the original manga by Eiichiro Oda. The team accomplishes this by removing filler scenes not present in the source material, fixing animation errors and correcting subtitles.",
+    "poster": "https://image.tmdb.org/t/p/w780/l5menwH7JjOBbXjoftYdwMmsqmT.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt31228002/",
+    "updated_at": "2026-07-03T14:55:01Z"
+  },
+  {
     "id": "anime-283428",
     "tmdb_id": 283428,
     "imdb_id": "tt39123061",
