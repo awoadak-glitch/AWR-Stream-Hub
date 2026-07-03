@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-64770",
+    "tmdb_id": 64770,
+    "imdb_id": "tt3385756",
+    "title": "Potato Star 2013QR3",
+    "overview": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically to the Noh family and their neighbors.",
+    "poster": "https://image.tmdb.org/t/p/w780/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt3385756/",
+    "updated_at": "2026-07-03T16:39:00Z"
+  },
+  {
     "id": "kdrama-65278",
     "tmdb_id": 65278,
     "imdb_id": "tt6050846",
