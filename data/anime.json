@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-105903",
+    "tmdb_id": 105903,
+    "imdb_id": "tt12669906",
+    "title": "Eternity Shinya no Nurekoi Channel",
+    "overview": "Anime adaptation of 12 romantic works from the Eternity Books manga label.",
+    "poster": "https://image.tmdb.org/t/p/w780/jJGNByRqVXvulYk0HjGZUG0aZBY.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt12669906/",
+    "updated_at": "2026-07-04T12:38:04Z"
+  },
+  {
     "id": "anime-57911",
     "tmdb_id": 57911,
     "imdb_id": "tt0069576",
