@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-118824",
+    "tmdb_id": 118824,
+    "imdb_id": "tt15432528",
+    "title": "Everything for Demon King Evelogia",
+    "overview": "Gozu dies, wakes up in his favorite game, and falls for the Demon King. Together, they set out to conquer the world—and each other.",
+    "poster": "https://image.tmdb.org/t/p/w780/4KSCo3y6zYFJzrCpqx8atl8qMVy.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt15432528/",
+    "updated_at": "2026-07-05T19:25:16Z"
+  },
+  {
+    "id": "anime-322512",
+    "tmdb_id": 322512,
+    "imdb_id": "tt13906272",
+    "title": "Re:ゼロから始める異世界生活 新編集版",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13906272/",
+    "updated_at": "2026-07-05T19:25:15Z"
+  },
+  {
     "id": "anime-312949",
     "tmdb_id": 312949,
     "imdb_id": "tt39551330",
