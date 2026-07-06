@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-7677",
+    "tmdb_id": 7677,
+    "imdb_id": "tt2377276",
+    "title": "We Got Married",
+    "overview": "We Got Married is a South Korean reality variety show, one segment of the Sunday Sunday Night program. First broadcast in 2008, the show pairs up Korean celebrities to show what life would be like if they were married. Each week, couples are assigned missions to complete, with candid interviews of the participants to reveal their thoughts and feelings.",
+    "poster": "https://image.tmdb.org/t/p/w780/mRibuyUmOttydFuuiW3rmKhkldz.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt2377276/",
+    "updated_at": "2026-07-06T14:39:33Z"
+  },
+  {
     "id": "kdrama-299365",
     "tmdb_id": 299365,
     "imdb_id": "tt42206645",
