@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1315772",
+    "tmdb_id": 1315772,
+    "imdb_id": "tt32890033",
+    "title": "Minions & Monsters",
+    "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "poster": "https://image.tmdb.org/t/p/w780/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt32890033/",
+    "updated_at": "2026-07-06T02:01:55Z"
+  },
+  {
     "id": "movie-9671",
     "tmdb_id": 9671,
     "imdb_id": "tt0090555",
