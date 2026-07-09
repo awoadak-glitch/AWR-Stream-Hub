@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1280738",
+    "tmdb_id": 1280738,
+    "imdb_id": "tt33311069",
+    "title": "The Furious",
+    "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+    "poster": "https://image.tmdb.org/t/p/w780/mwRspK4RPa5dSYS4Aul8KyZ1qcW.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt33311069/",
+    "updated_at": "2026-07-09T03:46:57Z"
+  },
+  {
     "id": "movie-5721",
     "tmdb_id": 5721,
     "imdb_id": "tt0063787",
