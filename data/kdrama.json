@@ -1,5 +1,38 @@
 [
   {
+    "id": "kdrama-64356",
+    "tmdb_id": 64356,
+    "imdb_id": "tt5129382",
+    "title": "The Return of Superman",
+    "overview": "An up-close look at celebrity dads who have to take care of their kids for the next 48 hours without any help. Will it be a dad-tastrophe, or can they finish their wives' to-do lists while having fun with their kids?",
+    "poster": "https://image.tmdb.org/t/p/w780/qjBx2RCnyyBPgu9qBV7j3UiXjeo.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt5129382/",
+    "updated_at": "2026-07-09T13:36:59Z"
+  },
+  {
+    "id": "kdrama-35024",
+    "tmdb_id": 35024,
+    "imdb_id": "tt2375022",
+    "title": "Show! Music Core",
+    "overview": "Show! Music Core is a music show that has been aired since 2005. Not like any other music shows, this show doesn't include any charts or awards. There are a few segments such as This Week's Hot 3, Chart Up Core and Core of Rising Stars.",
+    "poster": "https://image.tmdb.org/t/p/w780/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt2375022/",
+    "updated_at": "2026-07-09T13:36:59Z"
+  },
+  {
+    "id": "kdrama-105194",
+    "tmdb_id": 105194,
+    "imdb_id": "tt5233470",
+    "title": "Three Guys and Three Girls",
+    "overview": "The series is Korea’s first youth sitcom, revolving around three men and three women sharing a university lodging house. The group navigates comedic and romantic adventures, with a focus on friendships and budding relationships. Key highlights:\n\nLee Ui-jung (one of the female leads) stands out with her quirky hairstyle and serves as the show’s central figure, particularly through her dynamic with Song Seung-heon’s character\n\nThe sitcom blends lighthearted humour with relatable themes of young adulthood, making it a pioneer in Korean TV history",
+    "poster": "https://image.tmdb.org/t/p/w780/k7WJy6YdiONTn5Y9PQiu0AN23MP.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt5233470/",
+    "updated_at": "2026-07-09T13:36:59Z"
+  },
+  {
     "id": "kdrama-287009",
     "tmdb_id": 287009,
     "imdb_id": "tt39184653",
