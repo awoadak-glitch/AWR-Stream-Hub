@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-57775",
+    "tmdb_id": 57775,
+    "imdb_id": "tt0220204",
+    "title": "Chibi Maruko-chan",
+    "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+    "poster": "https://image.tmdb.org/t/p/w780/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0220204/",
+    "updated_at": "2026-07-09T18:14:32Z"
+  },
+  {
+    "id": "anime-30623",
+    "tmdb_id": 30623,
+    "imdb_id": "tt12853970",
+    "title": "Shin Chan",
+    "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+    "poster": "https://image.tmdb.org/t/p/w780/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt12853970/",
+    "updated_at": "2026-07-09T18:14:32Z"
+  },
+  {
+    "id": "anime-153485",
+    "tmdb_id": 153485,
+    "imdb_id": "tt0236924",
+    "title": "Sazae-san",
+    "overview": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+    "poster": "https://image.tmdb.org/t/p/w780/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0236924/",
+    "updated_at": "2026-07-09T18:14:31Z"
+  },
+  {
     "id": "anime-37854",
     "tmdb_id": 37854,
     "imdb_id": "tt0388629",
