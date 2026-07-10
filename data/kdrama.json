@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-297826",
+    "tmdb_id": 297826,
+    "imdb_id": "tt32869308",
+    "title": "Tomb Raider King",
+    "overview": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+    "poster": "https://image.tmdb.org/t/p/w780/xDW6cor12UD0b2IqboQWnrIn0UO.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt32869308/",
+    "updated_at": "2026-07-10T13:34:01Z"
+  },
+  {
+    "id": "kdrama-136915",
+    "tmdb_id": 136915,
+    "imdb_id": "tt15823370",
+    "title": "Catch! Teenieping",
+    "overview": "Set free on Earth, fairies with magical powers begin influencing people's emotions. Now, it's up to a princess from a faraway kingdom to stop them!",
+    "poster": "https://image.tmdb.org/t/p/w780/qa2qFufGnKdiu0UOkoTYsui953h.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt15823370/",
+    "updated_at": "2026-07-10T13:34:01Z"
+  },
+  {
     "id": "kdrama-64356",
     "tmdb_id": 64356,
     "imdb_id": "tt5129382",

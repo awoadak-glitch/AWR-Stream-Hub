@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-80020",
+    "tmdb_id": 80020,
+    "imdb_id": "tt8433216",
+    "title": "Super Dragon Ball Heroes",
+    "overview": "Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?",
+    "poster": "https://image.tmdb.org/t/p/w780/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt8433216/",
+    "updated_at": "2026-07-10T13:34:01Z"
+  },
+  {
     "id": "anime-57775",
     "tmdb_id": 57775,
     "imdb_id": "tt0220204",
