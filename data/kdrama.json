@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-7011",
+    "tmdb_id": 7011,
+    "imdb_id": "tt0891369",
+    "title": "Bernard",
+    "overview": "Bernard is a series of animated shorts centered on the fictional polar bear and main character of the same name. It is a Korean-Spanish-French co-production. Each three-minute episode focuses on the bear's curiosity and have many moments of slapstick. Bernard never speaks with the exception of unintelligible noises\n\nBernard is accompanied in the cartoons by a few other characters: Lloyd and Eva the penguins, Zack the lizard, Goliat the chihuahua, Sam the baby, Pilot the dog, Pokey the porcupine and Santa Claus. He usually gets knocked unconscious or severely injured at the end of an episode, due to some calamity caused by his bumbling",
+    "poster": "https://image.tmdb.org/t/p/w780/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt0891369/",
+    "updated_at": "2026-07-11T19:35:57Z"
+  },
+  {
+    "id": "kdrama-67915",
+    "tmdb_id": 67915,
+    "imdb_id": "tt5994364",
+    "title": "Guardian: The Lonely and Great God",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "poster": "https://image.tmdb.org/t/p/w780/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt5994364/",
+    "updated_at": "2026-07-11T19:35:57Z"
+  },
+  {
     "id": "kdrama-297826",
     "tmdb_id": 297826,
     "imdb_id": "tt32869308",
