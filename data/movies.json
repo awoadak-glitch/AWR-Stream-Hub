@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1110034",
+    "tmdb_id": 1110034,
+    "imdb_id": "tt19838566",
+    "title": "Kraken",
+    "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+    "poster": "https://image.tmdb.org/t/p/w780/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt19838566/",
+    "updated_at": "2026-07-12T18:13:42Z"
+  },
+  {
     "id": "movie-1280738",
     "tmdb_id": 1280738,
     "imdb_id": "tt33311069",
