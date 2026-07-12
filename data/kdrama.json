@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-300727",
+    "tmdb_id": 300727,
+    "imdb_id": "tt43357366",
+    "title": "The Apartment Job",
+    "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+    "poster": "https://image.tmdb.org/t/p/w780/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt43357366/",
+    "updated_at": "2026-07-12T04:43:21Z"
+  },
+  {
     "id": "kdrama-7011",
     "tmdb_id": 7011,
     "imdb_id": "tt0891369",
