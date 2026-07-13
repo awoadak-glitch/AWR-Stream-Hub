@@ -1,5 +1,71 @@
 [
   {
+    "id": "kdrama-35026",
+    "tmdb_id": 35026,
+    "imdb_id": "tt3207438",
+    "title": "M Countdown",
+    "overview": "M Countdown, the World No.1 K-POP Chart Show, is broadcast in 13 countries worldwide, including Mnet USA and Japan. Featuring a dazzling lineup of K-Pop stars delivering charismatic performances, spectacular stages, and even online voting for active fan engagement! M Countdown announces the top 10 songs of the week as \"MCD's Top 10\" by combining weekly album and song sales, online music fan votes, and votes from a panel of music experts. Viewers can directly vote for the winner during the live broadcast, providing a glimpse of the latest K-Pop trends. Since its debut in 2004, M COUNTDOWN has aired over 800 episodes as of 2023. Experience the WORLD NO.1 K-POP Premium Chart Show leading the global K-Pop craze and music trends.",
+    "poster": "https://image.tmdb.org/t/p/w780/hORGaqUt13CTLlVUx5KUdiwaGl0.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt3207438/",
+    "updated_at": "2026-07-13T16:12:12Z"
+  },
+  {
+    "id": "kdrama-52823",
+    "tmdb_id": 52823,
+    "imdb_id": "tt3141676",
+    "title": "Weekly Idol",
+    "overview": "Weekly Idol is back with all new hosts. Cho Sae Ho, Hwang Kwang Hee and Nam Chang Hee are sticking together as a new unit group for Weekly Idol, a.k.a CKN Trio, to turn the idol world upside down! Get ready for their hot debut! Cho Sae Ho transforms himself into an idol expert. The hottest entertainer in the show business is marching into the idol world after taking over variety shows and he's more than ready to dominate the show with his amazing look and talents. They say idols understand each other best! As soon as being discharged from military service, Hwang Kwang Hee is reenlisted in Weekly Idol as a senior and a mentor to cheer his fellow idol friends. And lastly, the hidden card of the trio, Nam Chang Hee joins Weekly Idol. With his irresistible charms and talents, Nam Chang Hee becomes the irreplaceable member of Weekly Idol and shows off his amazing chemistry with idols.",
+    "poster": "https://image.tmdb.org/t/p/w780/uZP58JwdBzCwPBh9h3ZbGsVKMAQ.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt3141676/",
+    "updated_at": "2026-07-13T16:12:12Z"
+  },
+  {
+    "id": "kdrama-74035",
+    "tmdb_id": 74035,
+    "imdb_id": "tt14418108",
+    "title": "Yo! Welcome to Korea!",
+    "overview": "This Korean reality vacation show explores the cultural differences of foreigners who are in Korea for the first time through their Korean vacation travel log.",
+    "poster": "https://image.tmdb.org/t/p/w780/wX1mxlacWMhpLL3ap8r4uGCximE.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt14418108/",
+    "updated_at": "2026-07-13T16:12:11Z"
+  },
+  {
+    "id": "kdrama-5705",
+    "tmdb_id": 5705,
+    "imdb_id": "tt4973750",
+    "title": "Gag Concert",
+    "overview": "Gag Concert is a South Korean sketch-comedy TV show shown on the KBS2 network.",
+    "poster": "https://image.tmdb.org/t/p/w780/blNsGElKgc6SKnloMVAIUmDGqWR.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt4973750/",
+    "updated_at": "2026-07-13T16:12:11Z"
+  },
+  {
+    "id": "kdrama-83319",
+    "tmdb_id": 83319,
+    "imdb_id": null,
+    "title": "BANGTAN BOMB",
+    "overview": "Bangtan Bomb are short videos of BTS released on their YouTube channel.",
+    "poster": "https://image.tmdb.org/t/p/w780/i01uYYJoovqILhexlYA6E1CHh56.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-13T16:12:11Z"
+  },
+  {
+    "id": "kdrama-63942",
+    "tmdb_id": 63942,
+    "imdb_id": null,
+    "title": "The Delicious Guys",
+    "overview": "Four comedians who are famous for their love of food visit restaurants all over Korea to try the popular menus.",
+    "poster": "https://image.tmdb.org/t/p/w780/c2a1brhbBrYkAu9JPSXAHG8h7rj.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-13T16:12:11Z"
+  },
+  {
     "id": "kdrama-120554",
     "tmdb_id": 120554,
     "imdb_id": null,

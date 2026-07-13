@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-35790",
+    "tmdb_id": 35790,
+    "imdb_id": "tt0221735",
+    "title": "Cardcaptor Sakura",
+    "overview": "Sakura Kinomoto, an elementary school student who discovers that she possesses magical powers after accidentally freeing a set of magical cards from the book they had been sealed in for years. She is then tasked with retrieving those cards in order to avoid an unknown catastrophe from befalling the world.",
+    "poster": "https://image.tmdb.org/t/p/w780/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0221735/",
+    "updated_at": "2026-07-13T16:12:13Z"
+  },
+  {
+    "id": "anime-34860",
+    "tmdb_id": 34860,
+    "imdb_id": "tt0306365",
+    "title": "Ninja Boy Rantaro",
+    "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+    "poster": "https://image.tmdb.org/t/p/w780/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0306365/",
+    "updated_at": "2026-07-13T16:12:12Z"
+  },
+  {
     "id": "anime-297438",
     "tmdb_id": 297438,
     "imdb_id": "tt38797595",

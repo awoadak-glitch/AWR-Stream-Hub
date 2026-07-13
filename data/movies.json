@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1212763",
+    "tmdb_id": 1212763,
+    "imdb_id": "tt31170389",
+    "title": "Evil Dead Burn",
+    "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+    "poster": "https://image.tmdb.org/t/p/w780/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt31170389/",
+    "updated_at": "2026-07-13T16:12:07Z"
+  },
+  {
     "id": "movie-1110034",
     "tmdb_id": 1110034,
     "imdb_id": "tt19838566",
