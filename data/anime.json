@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-271576",
+    "tmdb_id": 271576,
+    "imdb_id": "tt16741414",
+    "title": "Summer Pockets",
+    "overview": "Hairi Takahara never expected summer to feel like a dream. Sent to Torishirojima to sort through his late grandmother's belongings, he's met with endless sea, quiet nostalgia, and mysterious girls, each chasing something just out of reach. As he settles into island life, lost memories begin to surface and he finds what he never knew he'd lost.",
+    "poster": "https://image.tmdb.org/t/p/w780/9k1bD9S3djSemQsQO7csBxEwMar.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt16741414/",
+    "updated_at": "2026-07-14T17:47:26Z"
+  },
+  {
+    "id": "anime-323180",
+    "tmdb_id": 323180,
+    "imdb_id": null,
+    "title": "クレヨンしんちゃん",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/kQo5FG8xSSKybH9vEYgR2aCB2Qa.jpg",
+    "kind": "anime",
+    "watch_url": "",
+    "updated_at": "2026-07-14T17:47:26Z"
+  },
+  {
     "id": "anime-35790",
     "tmdb_id": 35790,
     "imdb_id": "tt0221735",
