@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-132544",
+    "tmdb_id": 132544,
+    "imdb_id": null,
+    "title": "Great Minds",
+    "overview": "A current affairs program that began airing on EBS in August 2021. Co-produced by the Ministry of Education, the National Institute for Lifelong Learning, and EBS, the program is part of the Korean MOOC (Korean Massive Open Online Course) program, which aims to disseminate world-class knowledge to the public amid the prolonged COVID-19 pandemic, which has widened the knowledge gap between classes and spread fake information on social media. Hear great thoughts from some of the world's leading minds right now, including Nobel Prize-winning economist Paul Krugman, Michael Sandel of What is Justice, and world-renowned conductor and pianist Daniel Barenboim.",
+    "poster": "https://image.tmdb.org/t/p/w780/lj46PSaBziqCqbGXlmnXN325biA.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-16T17:35:08Z"
+  },
+  {
+    "id": "kdrama-64369",
+    "tmdb_id": 64369,
+    "imdb_id": "tt25605188",
+    "title": "TV Animal Farm",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt25605188/",
+    "updated_at": "2026-07-16T17:35:07Z"
+  },
+  {
     "id": "kdrama-202977",
     "tmdb_id": 202977,
     "imdb_id": null,
