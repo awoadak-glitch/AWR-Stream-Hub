@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-279323",
+    "tmdb_id": 279323,
+    "imdb_id": "tt35051401",
+    "title": "The East Palace",
+    "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+    "poster": "https://image.tmdb.org/t/p/w780/cSSLOfs53udkWPI5MXXonfwe4oN.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt35051401/",
+    "updated_at": "2026-07-18T09:09:47Z"
+  },
+  {
     "id": "kdrama-66130",
     "tmdb_id": 66130,
     "imdb_id": null,
