@@ -1,5 +1,49 @@
 [
   {
+    "id": "anime-111177",
+    "tmdb_id": 111177,
+    "imdb_id": "tt13229934",
+    "title": "Godzilla Singular Point",
+    "overview": "Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world.",
+    "poster": "https://image.tmdb.org/t/p/w780/xvlgCjL1Qk9K4FFXqUanugrg97h.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13229934/",
+    "updated_at": "2026-07-18T17:26:35Z"
+  },
+  {
+    "id": "anime-223500",
+    "tmdb_id": 223500,
+    "imdb_id": "tt29605391",
+    "title": "WIND BREAKER",
+    "overview": "Furin High School's delinquents get bad grades, but they excel at protecting their town. Then a victory-obsessed newcomer threatens the balance of power.",
+    "poster": "https://image.tmdb.org/t/p/w780/qIz7VwbeTei1ReLBf0xKDWKLPpe.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt29605391/",
+    "updated_at": "2026-07-18T17:26:35Z"
+  },
+  {
+    "id": "anime-237529",
+    "tmdb_id": 237529,
+    "imdb_id": "tt33310730",
+    "title": "Medalist",
+    "overview": "Tsukasa Akeuraji, a frustrated skater, meets Inori Yuitsuka, a girl who yearns to be a figure skater. Motivated by Inori's obsession on the rink, Tsukasa begins coaching Inori. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!",
+    "poster": "https://image.tmdb.org/t/p/w780/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt33310730/",
+    "updated_at": "2026-07-18T17:26:34Z"
+  },
+  {
+    "id": "anime-82739",
+    "tmdb_id": 82739,
+    "imdb_id": "tt8993398",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "overview": "Puberty Syndrome—a rumored, mysterious syndrome that only affects those in their puberty. For example, a bunny girl suddenly appeared in front of Sakuta Azusagawa. The bunny girl's real identity is Mai Sakurajima, a teenage celebrity who is currently an inactive high school senior. For some reason, her charming figure does not reflect in the eyes of others. In the course of revealing the mystery behind this phenomenon, Sakuta begins to explore his feelings towards Mai. Set in a city where the skies and seas shine, Sakuta unfolds the meaning behind his bizarre encounters on women with the said syndrome.",
+    "poster": "https://image.tmdb.org/t/p/w780/fbqDG7GjodvaNecgv1q8kfSNPl5.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt8993398/",
+    "updated_at": "2026-07-18T17:26:34Z"
+  },
+  {
     "id": "anime-93653",
     "tmdb_id": 93653,
     "imdb_id": "tt11328872",
