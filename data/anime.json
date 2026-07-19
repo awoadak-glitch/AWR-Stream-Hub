@@ -1,5 +1,82 @@
 [
   {
+    "id": "anime-65336",
+    "tmdb_id": 65336,
+    "imdb_id": "tt6074794",
+    "title": "March Comes In Like a Lion",
+    "overview": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his family in an accident when he was young. Now he is a 17-year-old pro shogi player who is burdened with deep loneliness. Rei lives alone in an old town in Tokyo, but after becoming acquainted with three sisters, Akari, Hinata and Momo, he begins to change little by little...",
+    "poster": "https://image.tmdb.org/t/p/w780/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt6074794/",
+    "updated_at": "2026-07-19T15:01:44Z"
+  },
+  {
+    "id": "anime-65503",
+    "tmdb_id": 65503,
+    "imdb_id": "tt2398674",
+    "title": "Aikatsu!",
+    "overview": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol training academy, Starlight Academy, her whole world is turned upside down. As she encounters all kinds of rivals and learns what it takes to be an idol, she uses her Aikatsu Cards to challenge countless auditions.",
+    "poster": "https://image.tmdb.org/t/p/w780/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2398674/",
+    "updated_at": "2026-07-19T15:01:44Z"
+  },
+  {
+    "id": "anime-65931",
+    "tmdb_id": 65931,
+    "imdb_id": "tt5679720",
+    "title": "Bungo Stray Dogs",
+    "overview": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.",
+    "poster": "https://image.tmdb.org/t/p/w780/6AQmGhkYwAqW2OevjXbsh7tZnNO.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt5679720/",
+    "updated_at": "2026-07-19T15:01:44Z"
+  },
+  {
+    "id": "anime-65929",
+    "tmdb_id": 65929,
+    "imdb_id": "tt9864008",
+    "title": "Aikatsu Stars!",
+    "overview": "Yume Nijino aims to become a top idol, and she enrolls in the Yotsuboshi Gakuen (Four Stars Academy). This academy has a special group called the S4, who are the top four active idols in the school. Yume and the other first-year students aim to become a part of the S4.",
+    "poster": "https://image.tmdb.org/t/p/w780/fiWqW5wYF702dpQWwSeRwKOyXqZ.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt9864008/",
+    "updated_at": "2026-07-19T15:01:43Z"
+  },
+  {
+    "id": "anime-67460",
+    "tmdb_id": 67460,
+    "imdb_id": "tt3696476",
+    "title": "Yu-Gi-Oh! Arc-V",
+    "overview": "Yuya Sakaki's dream is to follow in his father's footsteps and become the greatest \"duel-tainer\" in history - and he just might pull it off when he suddenly discovers Pendulum Summoning, a never-before-seen technique that lets him summon many monsters at once!",
+    "poster": "https://image.tmdb.org/t/p/w780/nVST01k1PpOZGbGEmCZhevRWhEL.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt3696476/",
+    "updated_at": "2026-07-19T15:01:43Z"
+  },
+  {
+    "id": "anime-69500",
+    "tmdb_id": 69500,
+    "imdb_id": "tt1352421",
+    "title": "Natsume's Book of Friends",
+    "overview": "Natsume Takashi has the ability to see spirits, which he has long kept secret. However, once he inherits a strange book that belonged to his deceased grandmother, Reiko, he discovers the reason why spirits surround him.",
+    "poster": "https://image.tmdb.org/t/p/w780/6iIoK9LEM92hBEZD3aVQVCWeaRC.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1352421/",
+    "updated_at": "2026-07-19T15:01:43Z"
+  },
+  {
+    "id": "anime-67667",
+    "tmdb_id": 67667,
+    "imdb_id": "tt6348126",
+    "title": "Beyblade Burst",
+    "overview": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+    "poster": "https://image.tmdb.org/t/p/w780/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt6348126/",
+    "updated_at": "2026-07-19T15:01:43Z"
+  },
+  {
     "id": "anime-111177",
     "tmdb_id": 111177,
     "imdb_id": "tt13229934",
