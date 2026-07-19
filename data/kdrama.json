@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-64300",
+    "tmdb_id": 64300,
+    "imdb_id": "tt5478804",
+    "title": "Ugly Alert",
+    "overview": "Gong Joon-soo is a man who's had a rough life and early on had to fend for himself. He takes the blame for a murder his younger sibling commits and serves time in prison. There he learns to sew and acquires a trade. With his newly acquired skills, Joon-soo goes to work for Na Do-hee at a fashion company. Do-hee has inherited her job because her grandfather built the company. But even though she inherited her position, she is serious about doing a good job and is something of a workaholic.",
+    "poster": "https://image.tmdb.org/t/p/w780/vdrDOjK15jZOcrxWAUyeNz2L8F1.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt5478804/",
+    "updated_at": "2026-07-19T18:12:24Z"
+  },
+  {
+    "id": "kdrama-70204",
+    "tmdb_id": 70204,
+    "imdb_id": null,
+    "title": "Soonpoong Clinic",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/cRvExNNMVinTXyW8YITQQ62oznN.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-19T18:12:24Z"
+  },
+  {
     "id": "kdrama-279323",
     "tmdb_id": 279323,
     "imdb_id": "tt35051401",
