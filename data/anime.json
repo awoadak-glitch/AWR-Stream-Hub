@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-38251",
+    "tmdb_id": 38251,
+    "imdb_id": "tt1899047",
+    "title": "Toriko",
+    "overview": "In a world where gastronomy reigns, Gourmet Hunter Toriko hunts rare ingredients and animals to create his ultimate full-course meal.",
+    "poster": "https://image.tmdb.org/t/p/w780/hXOIPTWn8XoODLBxiatYUAqyS1t.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1899047/",
+    "updated_at": "2026-07-20T04:56:06Z"
+  },
+  {
     "id": "anime-65336",
     "tmdb_id": 65336,
     "imdb_id": "tt6074794",
