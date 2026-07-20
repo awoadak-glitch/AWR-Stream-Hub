@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-298610",
+    "tmdb_id": 298610,
+    "imdb_id": "tt40247521",
+    "title": "Spooky in Love",
+    "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+    "poster": "https://image.tmdb.org/t/p/w780/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt40247521/",
+    "updated_at": "2026-07-20T11:16:57Z"
+  },
+  {
     "id": "kdrama-64300",
     "tmdb_id": 64300,
     "imdb_id": "tt5478804",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-3570",
+    "tmdb_id": 3570,
+    "imdb_id": "tt0103369",
+    "title": "Sailor Moon",
+    "overview": "One day, Usagi Tsukino, clumsy 2nd-year middle school student, stumbles upon a talking cat named Luna. Luna tells her that she is destined to be Sailor Moon, \"champion of love and justice\", and she must search for the fabled Moon Princess. Usagi finds friends that turn out to be destined senshi as well, and together they fight to save the world from the certain doom brought upon by the Dark Kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w780/wz45BNOMLRZdxXm94P8NGevKubm.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0103369/",
+    "updated_at": "2026-07-20T11:17:05Z"
+  },
+  {
     "id": "anime-38251",
     "tmdb_id": 38251,
     "imdb_id": "tt1899047",
