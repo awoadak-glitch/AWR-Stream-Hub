@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-100064",
+    "tmdb_id": 100064,
+    "imdb_id": "tt14493840",
+    "title": "Love Naggers",
+    "overview": "From the quirky to the scandalous, any relationship is fair game for a panel of love experts who comb over text messages and revel in reenactments.",
+    "poster": "https://image.tmdb.org/t/p/w780/5CxwFNv9YVk1YyAkzbyXAMplbfX.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt14493840/",
+    "updated_at": "2026-07-21T14:04:20Z"
+  },
+  {
+    "id": "kdrama-120555",
+    "tmdb_id": 120555,
+    "imdb_id": null,
+    "title": "Huh Young Man's Food Travel",
+    "overview": "Traveling across Korea to enjoy the heartiest meals, manhwa artist Huh Young-man invites guests to join him for tasty dishes and genuine conversation.",
+    "poster": "https://image.tmdb.org/t/p/w780/ysPjn9WA5DFrDNceKr9KStd6j75.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-21T14:04:20Z"
+  },
+  {
     "id": "kdrama-3729",
     "tmdb_id": 3729,
     "imdb_id": "tt2309828",
