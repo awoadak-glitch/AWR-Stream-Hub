@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-43270",
+    "tmdb_id": 43270,
+    "imdb_id": "tt1890725",
+    "title": "BLOOD-C",
+    "overview": "Saya Kisaragi is an outwardly normal girl who serves as the shrine maiden to a country town; in reality, she is a skilled swordswoman charged by her father to defeat Elder Bairns, monsters who feed on human blood. As her battles grow more desperate and more people she cares for fall victim to the Elder Bairns, Saya begins finding faults in her reality, and eventually uncovers a disturbing truth about herself, the town and her surviving friends.",
+    "poster": "https://image.tmdb.org/t/p/w780/8r2BAyeeoycf4F5l29hsCal5a8I.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1890725/",
+    "updated_at": "2026-07-22T15:55:37Z"
+  },
+  {
+    "id": "anime-65329",
+    "tmdb_id": 65329,
+    "imdb_id": "tt2340841",
+    "title": "Hyouka",
+    "overview": "Oreki Houtarou is a minimalistic high school boy. One day, he joins the Classic Literature Club at his elder sister's request. There he meets Chitanda Eru, Fukube Satoshi, and Ibara Mayaka. Chitanda is a calm beautiful girl but she turns into an embodiment of curiosity once she says, \"I'm curious.\" Fukube is a smiling boy with a fantastic memory who calls himself a database. Ibara is a short girl and is strict with others and herself. They begin to investigate a case that occurred 45 years ago. Hints of the mystery are buried in an old collection of works of the former members of Classics Club. The collection is titled \"Hyouka.\"",
+    "poster": "https://image.tmdb.org/t/p/w780/qoAig2n9LkukqnizytaBtOSwif7.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2340841/",
+    "updated_at": "2026-07-22T15:55:37Z"
+  },
+  {
+    "id": "anime-154526",
+    "tmdb_id": 154526,
+    "imdb_id": "tt28299608",
+    "title": "MF GHOST",
+    "overview": "Japan adopts self-driving electric automobiles and renders most gas engines obsolete by 202X. The fastest cars find new life in the MFG, a racing circuit held on Japanese motorways. Drivers from around the world race for a shot at the title. Kanata Rivington returns from Britain to Japan for the MFG—and to find his father. Can he win the title and find answers? Buckle up and push it to the limit!",
+    "poster": "https://image.tmdb.org/t/p/w780/jqkDWnBDltFCjAdhxCqUWg9GXFB.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt28299608/",
+    "updated_at": "2026-07-22T15:55:34Z"
+  },
+  {
     "id": "anime-42912",
     "tmdb_id": 42912,
     "imdb_id": "tt2189248",
