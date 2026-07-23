@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-73036",
+    "tmdb_id": 73036,
+    "imdb_id": "tt4546444",
+    "title": "Chef & My Fridge",
+    "overview": "The best chefs of Korea compete to create impromptu dishes that feature ingredients found inside the guest stars' personal refrigerators.",
+    "poster": "https://image.tmdb.org/t/p/w780/zc7qvd7CVuYpWMXZxuSbhG8n8g1.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt4546444/",
+    "updated_at": "2026-07-23T14:28:09Z"
+  },
+  {
+    "id": "kdrama-281634",
+    "tmdb_id": 281634,
+    "imdb_id": null,
+    "title": "Star Road",
+    "overview": "OSEN’s “Star Road” is a program for Vietnamese hallyu fans where Korean celebrities showcase charms that haven’t been seen yet. From casual interviews to real daily life footage, it is expected to be well-received by fans.",
+    "poster": "https://image.tmdb.org/t/p/w780/raYbjMPg2FZZc8X02duQrCdKeUj.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-23T14:28:08Z"
+  },
+  {
     "id": "kdrama-215072",
     "tmdb_id": 215072,
     "imdb_id": "tt26450613",
