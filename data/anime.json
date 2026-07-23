@@ -1,5 +1,82 @@
 [
   {
+    "id": "anime-66077",
+    "tmdb_id": 66077,
+    "imdb_id": "tt5531604",
+    "title": "Tanaka-kun Is Always Listless",
+    "overview": "A lethargic student dozes through class, activities and pretty much everything, frustrating his best friend but attracting the affections of others.",
+    "poster": "https://image.tmdb.org/t/p/w780/q3TdnhtfXh6yfrHuZO0hEmkjjnr.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt5531604/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-56426",
+    "tmdb_id": 56426,
+    "imdb_id": "tt2811158",
+    "title": "KochiKame",
+    "overview": "Ryotsu Kankichi, or Ryo-san for short, is an unconventional cop working at the local police station who loves money. Together with famous celebrities like Nakagawa and Reiko, his strict boss Police Chief Ohara, and other wildly unique characters, he gets everyone caught up in all sorts of hijinks!",
+    "poster": "https://image.tmdb.org/t/p/w780/ujltFuzCZ9FLe07kTRLZ2gpIJVY.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2811158/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-104699",
+    "tmdb_id": 104699,
+    "imdb_id": "tt12502782",
+    "title": "SHAMAN KING",
+    "overview": "Medium Yoh Asakura enters a battle tournament held every 500 years, competing with other shamans in a bid to become the all-powerful Shaman King.",
+    "poster": "https://image.tmdb.org/t/p/w780/my6AEDKL6NfJYOLZg5g71D3PBe2.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt12502782/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-113808",
+    "tmdb_id": 113808,
+    "imdb_id": "tt13544802",
+    "title": "Seirei Gensouki: Spirit Chronicles",
+    "overview": "His past life and current life are intersecting--a boy with memories of two lives faces his destiny! After his mother was killed at an early age, the orphaned Rio fought his hardest to survive in the slums. One day, he awakens to the memories of Haruto Amakwa, who died in an accident while dreaming of being reunited with his childhood friend, and Rio realizing he has reincarnated in a world of swords and sorcery.",
+    "poster": "https://image.tmdb.org/t/p/w780/dNki26bfC3ad6mRQZOxY8ysosrb.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13544802/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-66958",
+    "tmdb_id": 66958,
+    "imdb_id": "tt5839732",
+    "title": "Orange",
+    "overview": "One day, Naho Takamiya receives a letter written to herself from ten years in the future. As Naho reads on, the letter recites the exact events of the day, including the transfer of a new student into her class named Kakeru Naruse. The Naho from ten years later repeatedly states that she has many regrets, and she wants to fix these by making sure the Naho from the past can make the right decisions—especially regarding Kakeru. What's more shocking is that she discovers that ten years later, Kakeru will no longer be with them. Future Naho asks her to watch over him closely.",
+    "poster": "https://image.tmdb.org/t/p/w780/6GGkAhfjZy9rOvUD7K927vnltZA.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt5839732/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-80885",
+    "tmdb_id": 80885,
+    "imdb_id": "tt2787558",
+    "title": "Ninja Hattori-kun",
+    "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
+    "poster": "https://image.tmdb.org/t/p/w780/9PUkpvq0wJnJ2M00dtgxKn6LptB.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2787558/",
+    "updated_at": "2026-07-23T16:10:42Z"
+  },
+  {
+    "id": "anime-76757",
+    "tmdb_id": 76757,
+    "imdb_id": "tt8225204",
+    "title": "Golden Kamuy",
+    "overview": "A Russo-Japanese War veteran partners with an Ainu girl to find a treasure stolen from her people, but they’re not the only ones pursuing the gold.",
+    "poster": "https://image.tmdb.org/t/p/w780/Ab1QIcwCAQUgs8Z8pTJnVPkKS0m.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt8225204/",
+    "updated_at": "2026-07-23T16:10:41Z"
+  },
+  {
     "id": "anime-43270",
     "tmdb_id": 43270,
     "imdb_id": "tt1890725",
