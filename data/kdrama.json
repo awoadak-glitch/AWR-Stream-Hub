@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-215072",
+    "tmdb_id": 215072,
+    "imdb_id": "tt26450613",
+    "title": "A Shop for Killers",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "poster": "https://image.tmdb.org/t/p/w780/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt26450613/",
+    "updated_at": "2026-07-23T04:40:48Z"
+  },
+  {
     "id": "kdrama-134864",
     "tmdb_id": 134864,
     "imdb_id": null,
