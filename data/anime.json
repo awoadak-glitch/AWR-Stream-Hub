@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-104711",
+    "tmdb_id": 104711,
+    "imdb_id": "tt13167196",
+    "title": "EDENS ZERO",
+    "overview": "Aboard the Edens Zero, a lonely boy with the ability to control gravity embarks on an adventure to meet the fabled space goddess known as Mother.",
+    "poster": "https://image.tmdb.org/t/p/w780/nfkn7IVG5aY2fyjHBIF3A98rMcl.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13167196/",
+    "updated_at": "2026-07-23T18:53:59Z"
+  },
+  {
+    "id": "anime-241811",
+    "tmdb_id": 241811,
+    "imdb_id": "tt33498499",
+    "title": "Puniru Is a Kawaii Slime",
+    "overview": "The slime created by the boy Kotarou can transform into a super beautiful girl! Kotarou is constantly getting pushed around by Puniru's freewheeling antics. It's a joyful and exciting life every day!",
+    "poster": "https://image.tmdb.org/t/p/w780/zaUlTqv4OWyTmi0Z80g9XQ5LFbE.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt33498499/",
+    "updated_at": "2026-07-23T18:53:58Z"
+  },
+  {
     "id": "anime-66077",
     "tmdb_id": 66077,
     "imdb_id": "tt5531604",
