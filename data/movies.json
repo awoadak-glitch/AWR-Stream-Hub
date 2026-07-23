@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1234821",
+    "tmdb_id": 1234821,
+    "imdb_id": "tt31036941",
+    "title": "Jurassic World Rebirth",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "poster": "https://image.tmdb.org/t/p/w780/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt31036941/",
+    "updated_at": "2026-07-23T17:47:50Z"
+  },
+  {
     "id": "movie-1468683",
     "tmdb_id": 1468683,
     "imdb_id": "tt36619926",
