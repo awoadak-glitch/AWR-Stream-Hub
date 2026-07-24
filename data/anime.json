@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-210879",
+    "tmdb_id": 210879,
+    "imdb_id": "tt22249034",
+    "title": "Rurouni Kenshin",
+    "overview": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money.",
+    "poster": "https://image.tmdb.org/t/p/w780/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt22249034/",
+    "updated_at": "2026-07-24T19:56:31Z"
+  },
+  {
     "id": "anime-30979",
     "tmdb_id": 30979,
     "imdb_id": "tt0331743",
