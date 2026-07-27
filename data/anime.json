@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-902",
+    "tmdb_id": 902,
+    "imdb_id": "tt0247902",
+    "title": "Yu-Gi-Oh! Duel Monsters",
+    "overview": "Bullies often target someone frail and weak—someone exactly like Yûgi Muto. He treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him, the soul of the \"King of Games.\" The new personality named Yami Yûgi is the exact opposite of Yûgi. Upon any injustice toward him, Yami Yûgi takes over Yûgi's body and forces the opponent into a \"Shadow Game\".",
+    "poster": "https://image.tmdb.org/t/p/w780/mM6c5ISlyKWtie2hGiZWo6hmlhU.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0247902/",
+    "updated_at": "2026-07-27T14:46:49Z"
+  },
+  {
     "id": "anime-210879",
     "tmdb_id": 210879,
     "imdb_id": "tt22249034",
