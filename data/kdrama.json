@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-72237",
+    "tmdb_id": 72237,
+    "imdb_id": "tt6446792",
+    "title": "Miniforce",
+    "overview": "Four animal superheroes called the Miniforce transform into robots to protect small and defenseless creatures from the hands of scheming villains.",
+    "poster": "https://image.tmdb.org/t/p/w780/4SCNu5uw54AgyO7pMWWonuXrUSD.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt6446792/",
+    "updated_at": "2026-07-29T15:31:59Z"
+  },
+  {
     "id": "kdrama-103905",
     "tmdb_id": 103905,
     "imdb_id": null,
