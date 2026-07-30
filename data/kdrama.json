@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-74225",
+    "tmdb_id": 74225,
+    "imdb_id": null,
+    "title": "GOING SEVENTEEN",
+    "overview": "GOING SEVENTEEN is a variety show by SEVENTEEN. The show is all about SEVENTEEN doing activities, challenges and everything else.",
+    "poster": "https://image.tmdb.org/t/p/w780/qQZvkevnkCWlfOg7fn6rHcqu5yC.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-07-30T15:27:30Z"
+  },
+  {
     "id": "kdrama-72237",
     "tmdb_id": 72237,
     "imdb_id": "tt6446792",
