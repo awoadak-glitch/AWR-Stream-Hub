@@ -1,5 +1,27 @@
 [
   {
+    "id": "movie-429617",
+    "tmdb_id": 429617,
+    "imdb_id": "tt6320628",
+    "title": "Spider-Man: Far From Home",
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "poster": "https://image.tmdb.org/t/p/w780/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt6320628/",
+    "updated_at": "2026-07-31T16:54:55Z"
+  },
+  {
+    "id": "movie-299536",
+    "tmdb_id": 299536,
+    "imdb_id": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "poster": "https://image.tmdb.org/t/p/w780/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt4154756/",
+    "updated_at": "2026-07-31T16:54:55Z"
+  },
+  {
     "id": "movie-1481343",
     "tmdb_id": 1481343,
     "imdb_id": "tt36958312",

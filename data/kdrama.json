@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-207924",
+    "tmdb_id": 207924,
+    "imdb_id": "tt32270896",
+    "title": "I am Solo, Love Forever",
+    "overview": "Who found a happily ever after and who's still happily searching? Cast members from \"I'm SOLO\" reveal what happened in their lives after the show aired.",
+    "poster": "https://image.tmdb.org/t/p/w780/lWewcQUBpasdbfs9WLdXS9qHCDv.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt32270896/",
+    "updated_at": "2026-07-31T16:54:56Z"
+  },
+  {
     "id": "kdrama-74225",
     "tmdb_id": 74225,
     "imdb_id": null,
