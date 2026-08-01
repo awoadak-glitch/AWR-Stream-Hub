@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-9537",
+    "tmdb_id": 9537,
+    "imdb_id": "tt1127682",
+    "title": "Atashin'chi",
+    "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+    "poster": "https://image.tmdb.org/t/p/w780/bQCZvbyTJFWt3majCn37ykJBpIf.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1127682/",
+    "updated_at": "2026-08-01T16:26:09Z"
+  },
+  {
     "id": "anime-312383",
     "tmdb_id": 312383,
     "imdb_id": "tt40104578",
