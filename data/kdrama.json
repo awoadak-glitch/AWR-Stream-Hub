@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-294095",
+    "tmdb_id": 294095,
+    "imdb_id": "tt43616775",
+    "title": "A Bona Fide Killer",
+    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+    "poster": "https://image.tmdb.org/t/p/w780/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt43616775/",
+    "updated_at": "2026-08-03T16:11:43Z"
+  },
+  {
+    "id": "kdrama-139798",
+    "tmdb_id": 139798,
+    "imdb_id": "tt16283666",
+    "title": "Single's Inferno",
+    "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+    "poster": "https://image.tmdb.org/t/p/w780/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt16283666/",
+    "updated_at": "2026-08-03T16:11:42Z"
+  },
+  {
     "id": "kdrama-300954",
     "tmdb_id": 300954,
     "imdb_id": "tt39393581",
