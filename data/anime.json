@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-99071",
+    "tmdb_id": 99071,
+    "imdb_id": "tt13370404",
+    "title": "Redo of Healer",
+    "overview": "In a world of monsters, adventurers and magic, some of the most gifted healers are subjugated to brute force. Keyaru gains the ability to rewind time and turns the tables on those who’ve exploited him in this dark fantasy tale of vengeance and fury.",
+    "poster": "https://image.tmdb.org/t/p/w780/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13370404/",
+    "updated_at": "2026-08-03T20:02:54Z"
+  },
+  {
+    "id": "anime-82684",
+    "tmdb_id": 82684,
+    "imdb_id": "tt9054364",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+    "poster": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt9054364/",
+    "updated_at": "2026-08-03T20:02:54Z"
+  },
+  {
     "id": "anime-9537",
     "tmdb_id": 9537,
     "imdb_id": "tt1127682",
