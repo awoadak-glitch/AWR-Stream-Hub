@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-289324",
+    "tmdb_id": 289324,
+    "imdb_id": "tt43337681",
+    "title": "Star Wars: Visions Presents - The Ninth Jedi",
+    "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+    "poster": "https://image.tmdb.org/t/p/w780/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt43337681/",
+    "updated_at": "2026-08-06T10:10:33Z"
+  },
+  {
     "id": "anime-88090",
     "tmdb_id": 88090,
     "imdb_id": "tt10203472",
