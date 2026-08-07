@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-127599",
+    "tmdb_id": 127599,
+    "imdb_id": "tt14272628",
+    "title": "Super Crooks",
+    "overview": "Johnny Bolt recruits a group of ragtag supervillains for one last heist. Their target: A ruthless super-powered crime boss. What can go wrong?",
+    "poster": "https://image.tmdb.org/t/p/w780/8n1Zd4fG1eTf4adUBd7EQVEzWur.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt14272628/",
+    "updated_at": "2026-08-07T00:25:42Z"
+  },
+  {
     "id": "anime-289324",
     "tmdb_id": 289324,
     "imdb_id": "tt43337681",
