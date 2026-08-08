@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-220074",
+    "tmdb_id": 220074,
+    "imdb_id": "tt30413181",
+    "title": "Flex X Cop",
+    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+    "poster": "https://image.tmdb.org/t/p/w780/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt30413181/",
+    "updated_at": "2026-08-08T11:48:15Z"
+  },
+  {
     "id": "kdrama-291496",
     "tmdb_id": 291496,
     "imdb_id": "tt36955608",
