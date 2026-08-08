@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-280110",
+    "tmdb_id": 280110,
+    "imdb_id": "tt35636246",
+    "title": "My Hero Academia: Vigilantes",
+    "overview": "After a life-changing incident, timid college student Koichi Haimawari accepts an offer from revered vigilante Knuckleduster to train as his protégé.",
+    "poster": "https://image.tmdb.org/t/p/w780/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt35636246/",
+    "updated_at": "2026-08-08T19:48:54Z"
+  },
+  {
     "id": "anime-278043",
     "tmdb_id": 278043,
     "imdb_id": "tt36034547",
