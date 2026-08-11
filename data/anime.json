@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-194916",
+    "tmdb_id": 194916,
+    "imdb_id": "tt26997679",
+    "title": "Chiikawa",
+    "overview": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" (Nanka Chiisakute Kawaii Yatsu) known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.",
+    "poster": "https://image.tmdb.org/t/p/w780/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt26997679/",
+    "updated_at": "2026-08-11T18:36:13Z"
+  },
+  {
+    "id": "anime-60863",
+    "tmdb_id": 60863,
+    "imdb_id": "tt3398540",
+    "title": "Haikyu!!",
+    "overview": "Inspired by a small-statured pro volleyball player, Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama’s team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+    "poster": "https://image.tmdb.org/t/p/w780/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt3398540/",
+    "updated_at": "2026-08-11T18:36:12Z"
+  },
+  {
     "id": "anime-306762",
     "tmdb_id": 306762,
     "imdb_id": "tt39050141",
