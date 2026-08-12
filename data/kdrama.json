@@ -1,5 +1,49 @@
 [
   {
+    "id": "kdrama-31175",
+    "tmdb_id": 31175,
+    "imdb_id": "tt2464270",
+    "title": "Music Bank",
+    "overview": "The best tunes in Korea! The most sensational music show on TV satisfies all your senses! Fantastic performances and awe-inspiring harmony by the nation's top musicians! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.",
+    "poster": "https://image.tmdb.org/t/p/w780/zS2ctF0HFjW65AfM8eKsCX5Z7xU.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt2464270/",
+    "updated_at": "2026-08-12T17:45:22Z"
+  },
+  {
+    "id": "kdrama-60006",
+    "tmdb_id": 60006,
+    "imdb_id": "tt5457312",
+    "title": "Hello Counselor",
+    "overview": "A talk show with an emphasis on regular people, regardless of age or gender, that aims to help take down communication barriers by sharing stories about life.",
+    "poster": "https://image.tmdb.org/t/p/w780/1oSc9094tHH7JDpAWBgijKA6H4G.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt5457312/",
+    "updated_at": "2026-08-12T17:45:21Z"
+  },
+  {
+    "id": "kdrama-86623",
+    "tmdb_id": 86623,
+    "imdb_id": "tt32063049",
+    "title": "Where Is My Home",
+    "overview": "Celebrities are here to find your home sweet home! The show features two teams of celebs competing to help their clients find the new houses for them. As \"real estate coordinators,\" celebs visit realtors and discover houses that fit the needs of the clients. They aren't afraid of cold weather, continuous allies to go through, nor stiff steps to climb. In the end, clients grades how much they are happy with celebs' proposals. Which team will get the clients pleased?",
+    "poster": "https://image.tmdb.org/t/p/w780/eAk01dqFDBCb5WITUwj7TQRzqci.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt32063049/",
+    "updated_at": "2026-08-12T17:45:21Z"
+  },
+  {
+    "id": "kdrama-93007",
+    "tmdb_id": 93007,
+    "imdb_id": null,
+    "title": "궁금한 이야기 Y",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/t1TRoojs0qa4VO6Ta73Hro7QCuW.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-08-12T17:45:21Z"
+  },
+  {
     "id": "kdrama-80281",
     "tmdb_id": 80281,
     "imdb_id": "tt6966158",
