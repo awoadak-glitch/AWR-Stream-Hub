@@ -1,5 +1,27 @@
 [
   {
+    "id": "movie-1307118",
+    "tmdb_id": 1307118,
+    "imdb_id": "tt32654916",
+    "title": "Soulm8te",
+    "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+    "poster": "https://image.tmdb.org/t/p/w780/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt32654916/",
+    "updated_at": "2026-08-15T14:36:22Z"
+  },
+  {
+    "id": "movie-1101383",
+    "tmdb_id": 1101383,
+    "imdb_id": "tt27165187",
+    "title": "The End of Oak Street",
+    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "poster": "https://image.tmdb.org/t/p/w780/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt27165187/",
+    "updated_at": "2026-08-15T14:36:22Z"
+  },
+  {
     "id": "movie-1612018",
     "tmdb_id": 1612018,
     "imdb_id": "tt39316472",
