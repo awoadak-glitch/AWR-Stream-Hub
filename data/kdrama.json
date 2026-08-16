@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-271309",
+    "tmdb_id": 271309,
+    "imdb_id": "tt33398245",
+    "title": "Buried Hearts",
+    "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
+    "poster": "https://image.tmdb.org/t/p/w780/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt33398245/",
+    "updated_at": "2026-08-16T19:46:14Z"
+  },
+  {
     "id": "kdrama-273307",
     "tmdb_id": 273307,
     "imdb_id": "tt33143834",
