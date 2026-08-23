@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-42509",
+    "tmdb_id": 42509,
+    "imdb_id": "tt1910272",
+    "title": "Steins;Gate",
+    "overview": "A group of friends have customized their microwave so that it can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.",
+    "poster": "https://image.tmdb.org/t/p/w780/96R4bV7dB8ramaWceNKsxvJgCUd.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1910272/",
+    "updated_at": "2026-08-23T12:49:10Z"
+  },
+  {
+    "id": "anime-5660",
+    "tmdb_id": 5660,
+    "imdb_id": "tt0159184",
+    "title": "Mobile Suit Gundam ZZ",
+    "overview": "The year is Universal Century 0088. Directly after the end of the  Gryps War, Haman Karn and her army of Zeon remnants on the asteroid Axis  begin their quest of reviving the lost empire of the Zabi's, and  proclaim themselves as the Neo-Zeon. With the Earth Federation as  hapless as ever, only the Anti-Earth Union Group (AEUG) is able oppose  the plans of Neo-Zeon. In need of all the help it can get after being  decimated in the previous war and losing many of its key members, the  AEUG ship Argama enlists the aid of a young junk collector from the Side  1 colony of Shangri-La named Judau Ashta to pilot its newest mobile  suit, the ZZ Gundam.",
+    "poster": "https://image.tmdb.org/t/p/w780/u7GMUFdfljplCbySERldRUReP6P.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0159184/",
+    "updated_at": "2026-08-23T12:49:10Z"
+  },
+  {
+    "id": "anime-250008",
+    "tmdb_id": 250008,
+    "imdb_id": "tt41278615",
+    "title": "Oh Boy, Was I Wrong About Her",
+    "overview": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.",
+    "poster": "https://image.tmdb.org/t/p/w780/sNXreyb3JTb9EQfj7eaby8PaQ9L.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt41278615/",
+    "updated_at": "2026-08-23T12:49:10Z"
+  },
+  {
     "id": "anime-131660",
     "tmdb_id": 131660,
     "imdb_id": "tt22046348",
