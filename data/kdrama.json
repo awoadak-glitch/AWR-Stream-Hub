@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-55015",
+    "tmdb_id": 55015,
+    "imdb_id": null,
+    "title": "General Hospital 2",
+    "overview": "Jung Ha Yoon is a graduate student who successfully passed the bar exam. However, she is not finished as she wants to be a medical malpractice litigation specialist. She works at a hospital to look to gain experience and there she meets other doctors who work there.",
+    "poster": "https://image.tmdb.org/t/p/w780/kzUHYE5tshup6Z2rGIED7pdqWSi.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-08-24T19:43:15Z"
+  },
+  {
+    "id": "kdrama-310033",
+    "tmdb_id": 310033,
+    "imdb_id": "tt40295083",
+    "title": "Pearl in Red",
+    "overview": "A woman wrongfully believed to be dead returns with her child, while another woman assumes her twin sister’s identity to seek revenge. Years later, a woman who looks identical to a murdered daughter appears and abandons her own identity to avenge her father. As both women sacrifice their identities for revenge, what fate awaits them?",
+    "poster": "https://image.tmdb.org/t/p/w780/oX8k9Pzl8HSnoKuiwPawPIoNfyE.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt40295083/",
+    "updated_at": "2026-08-24T19:43:14Z"
+  },
+  {
     "id": "kdrama-65269",
     "tmdb_id": 65269,
     "imdb_id": null,
