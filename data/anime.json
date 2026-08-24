@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-284432",
+    "tmdb_id": 284432,
+    "imdb_id": "tt36290183",
+    "title": "Scum of the Brave",
+    "overview": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another. The supernatural story of a scumbag master and his self-proclaimed apprentice begins!",
+    "poster": "https://image.tmdb.org/t/p/w780/kSJv65fW98dUqRD5f0ahLLYoZQN.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt36290183/",
+    "updated_at": "2026-08-24T16:20:42Z"
+  },
+  {
+    "id": "anime-5857",
+    "tmdb_id": 5857,
+    "imdb_id": "tt1216150",
+    "title": "Macross Frontier",
+    "overview": "A human space colony fleet is trying to find a habitable planet near the center of the Milky Way Galaxy. The story focuses on three young adults and the events that occur around them as the fleet faces a crisis of alien origin.",
+    "poster": "https://image.tmdb.org/t/p/w780/tV4FhGyWbkGQO0zV8arsrgnYXyT.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1216150/",
+    "updated_at": "2026-08-24T16:20:42Z"
+  },
+  {
     "id": "anime-317885",
     "tmdb_id": 317885,
     "imdb_id": "tt0203082",
