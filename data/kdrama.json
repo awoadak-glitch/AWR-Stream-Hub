@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-197133",
+    "tmdb_id": 197133,
+    "imdb_id": null,
+    "title": "School",
+    "overview": "School is a drama series that deals with realistic issues South Korean teenagers faced in high school in the late 1990's.",
+    "poster": "https://image.tmdb.org/t/p/w780/uvR8UwDbw38qsIORmO9kSKWfezn.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-08-25T13:09:01Z"
+  },
+  {
+    "id": "kdrama-282810",
+    "tmdb_id": 282810,
+    "imdb_id": "tt38973594",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
+    "poster": "https://image.tmdb.org/t/p/w780/xWYVlBIWrpdiGnSRfLgZIxf2V11.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt38973594/",
+    "updated_at": "2026-08-25T13:09:00Z"
+  },
+  {
     "id": "kdrama-55015",
     "tmdb_id": 55015,
     "imdb_id": null,
