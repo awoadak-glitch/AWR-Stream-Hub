@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-117465",
+    "tmdb_id": 117465,
+    "imdb_id": "tt13911284",
+    "title": "Hell's Paradise",
+    "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+    "poster": "https://image.tmdb.org/t/p/w780/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13911284/",
+    "updated_at": "2026-08-26T18:22:21Z"
+  },
+  {
+    "id": "anime-254174",
+    "tmdb_id": 254174,
+    "imdb_id": "tt36270030",
+    "title": "Kakushite! Makina-san!!",
+    "overview": "Eita, a mechanical otaku, discovers that Makina, the school idol he's secretly liked, is actually a robot built for sexual purposes. Now, he must navigate her bold advances while helping her keep her identity hidden in this chaotic romantic comedy.",
+    "poster": "https://image.tmdb.org/t/p/w780/viiiAmBVRtTYdOtP4nXlQ3b0xPf.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt36270030/",
+    "updated_at": "2026-08-26T18:22:20Z"
+  },
+  {
+    "id": "anime-226688",
+    "tmdb_id": 226688,
+    "imdb_id": "tt27865962",
+    "title": "Beyblade X",
+    "overview": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
+    "poster": "https://image.tmdb.org/t/p/w780/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt27865962/",
+    "updated_at": "2026-08-26T18:22:19Z"
+  },
+  {
     "id": "anime-280049",
     "tmdb_id": 280049,
     "imdb_id": "tt38646634",
