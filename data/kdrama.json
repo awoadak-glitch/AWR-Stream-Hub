@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-275102",
+    "tmdb_id": 275102,
+    "imdb_id": "tt36347588",
+    "title": "The Scandal",
+    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+    "poster": "https://image.tmdb.org/t/p/w780/2nUmhcZoKnQME053ZKtZVxa8hx4.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt36347588/",
+    "updated_at": "2026-08-28T16:51:47Z"
+  },
+  {
     "id": "kdrama-62091",
     "tmdb_id": 62091,
     "imdb_id": null,
