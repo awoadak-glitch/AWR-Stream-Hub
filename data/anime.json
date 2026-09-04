@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-30991",
+    "tmdb_id": 30991,
+    "imdb_id": "tt0213338",
+    "title": "Cowboy Bebop",
+    "overview": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
+    "poster": "https://image.tmdb.org/t/p/w780/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0213338/",
+    "updated_at": "2026-09-04T04:58:26Z"
+  },
+  {
     "id": "anime-53787",
     "tmdb_id": 53787,
     "imdb_id": "tt0977907",
