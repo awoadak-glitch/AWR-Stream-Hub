@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-890",
+    "tmdb_id": 890,
+    "imdb_id": "tt0112159",
+    "title": "Neon Genesis Evangelion",
+    "overview": "At the turn of the century, the Angels returned to Earth, seeking to wipe out humanity in an apocalyptic fury. Devastated, mankind's last remnants moved underground to wait for the day when the Angels would come back to finish the job. Fifteen years later, that day has come... but this time, humanity is ready to fight back with terrifying bio-mechanical weapons known as the Evangelions. Watch as Shinji, Rei, Asuka and the rest of the mysterious shadow agency Nerv battle to save earth from total annihilation.",
+    "poster": "https://image.tmdb.org/t/p/w780/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0112159/",
+    "updated_at": "2026-09-04T13:46:35Z"
+  },
+  {
+    "id": "anime-197368",
+    "tmdb_id": 197368,
+    "imdb_id": "tt26450255",
+    "title": "Blue Orchestra",
+    "overview": "In the fall of his third and final year of middle school, Hajime Aono, a violin prodigy, stopped playing violin for his own personal reasons. But it was also that year when he got to know a girl who told him about a high school with a prestigious school orchestra. Suddenly, the gears in the clock of Aono's life began to turn again. This is the story of a youth drama that brings forth the harmony between music and the heart!",
+    "poster": "https://image.tmdb.org/t/p/w780/dN0yhGAMVdS7lIEk52gom9XO268.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt26450255/",
+    "updated_at": "2026-09-04T13:46:35Z"
+  },
+  {
     "id": "anime-30991",
     "tmdb_id": 30991,
     "imdb_id": "tt0213338",
