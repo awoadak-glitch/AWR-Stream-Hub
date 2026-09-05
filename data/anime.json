@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-300126",
+    "tmdb_id": 300126,
+    "imdb_id": "tt39229633",
+    "title": "LIAR GAME",
+    "overview": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?",
+    "poster": "https://image.tmdb.org/t/p/w780/w8yyntTxZlDlZ2TR8kb4C92pmcO.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt39229633/",
+    "updated_at": "2026-09-05T18:36:38Z"
+  },
+  {
+    "id": "anime-61445",
+    "tmdb_id": 61445,
+    "imdb_id": "tt3981938",
+    "title": "Rage of Bahamut",
+    "overview": "Two thousand years ago, the black-and-silver-winged dragon, Bahamut, terrorized the magical land of Mistarcia. The humans, god, and demons that inhabited the land united forces against the fiend and sealed its power into a key which was split in two, one half protected by gods and the other protected by demons. Now, Mistarcia is a peaceful realm – until a human woman steals the god’s half of the key. Based on the immensely popular digital card game, Rage of Bahamut: Genesis is an exciting blend of action and fantasy.",
+    "poster": "https://image.tmdb.org/t/p/w780/osUNCb2v2kIlyLg9DgM5zBlnyRB.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt3981938/",
+    "updated_at": "2026-09-05T18:36:36Z"
+  },
+  {
     "id": "anime-890",
     "tmdb_id": 890,
     "imdb_id": "tt0112159",
