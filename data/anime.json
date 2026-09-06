@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-56568",
+    "tmdb_id": 56568,
+    "imdb_id": "tt0810705",
+    "title": "NANA",
+    "overview": "Nana Osaki and Nana Komatsu meet while traveling to Tokyo in pursuit of their respective dreams, and decide to be roommates. Although drastically different people, the two become very close and together they find out if their biggest dreams have room for their best friend.",
+    "poster": "https://image.tmdb.org/t/p/w780/egEROVWFVUupRhK03Bj5IVGAEGu.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0810705/",
+    "updated_at": "2026-09-06T18:08:54Z"
+  },
+  {
     "id": "anime-78464",
     "tmdb_id": 78464,
     "imdb_id": "tt8273192",
