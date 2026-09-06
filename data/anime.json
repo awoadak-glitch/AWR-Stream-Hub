@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-78464",
+    "tmdb_id": 78464,
+    "imdb_id": "tt8273192",
+    "title": "DOREIKU The Animation",
+    "overview": "24 people enter a survival game. Each has a device called an SCM (slave control method), which can make their opponent into their slave. Each person has their own reason for participating in the game.",
+    "poster": "https://image.tmdb.org/t/p/w780/q4J6PuFOEqUvPsvvCYrW3KkDWiF.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt8273192/",
+    "updated_at": "2026-09-06T15:53:18Z"
+  },
+  {
+    "id": "anime-74092",
+    "tmdb_id": 74092,
+    "imdb_id": "tt9731082",
+    "title": "A Sister's All You Need",
+    "overview": "Itsuki Hashima is a light novelist obsessed with little sisters, strictly focusing on them when he writes his stories.  Despite his personality, he's surrounded by a tight circle of friends,  including a beautiful genius writer who loves him, a big-sisterly college classmate, a fellow male writer, a sadistic tax accountant, his editor, and Chihiro, his perfect younger step-brother who takes care of the housework and cooking.  As the story progresses, the underlying conflicts of dreams and goals surface, as each character attempts to achieve their dreams, in their own way.",
+    "poster": "https://image.tmdb.org/t/p/w780/hxRDq6TlaZSO1qZbtYI3N3karrm.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt9731082/",
+    "updated_at": "2026-09-06T15:53:18Z"
+  },
+  {
+    "id": "anime-271607",
+    "tmdb_id": 271607,
+    "imdb_id": "tt36592690",
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "overview": "When the intimidating Rintaro meets the open-minded Kaoruko, the unlikely duo grows closer. The issue? Their neighboring high schools hate each other.",
+    "poster": "https://image.tmdb.org/t/p/w780/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt36592690/",
+    "updated_at": "2026-09-06T15:53:17Z"
+  },
+  {
     "id": "anime-300126",
     "tmdb_id": 300126,
     "imdb_id": "tt39229633",
