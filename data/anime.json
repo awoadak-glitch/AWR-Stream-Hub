@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-217390",
+    "tmdb_id": 217390,
+    "imdb_id": "tt27571597",
+    "title": "My Tiny Senpai",
+    "overview": "When Shinozaki started his new job, he didn’t expect his superior to be so…cute!? He struggled to learn the ropes until Katase, his tiny and kind senpai, took him under her wing. But as they grow closer, he hopes her attention might mean something more.",
+    "poster": "https://image.tmdb.org/t/p/w780/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt27571597/",
+    "updated_at": "2026-09-07T15:19:39Z"
+  },
+  {
+    "id": "anime-45213",
+    "tmdb_id": 45213,
+    "imdb_id": "tt2061551",
+    "title": "Usagi Drop",
+    "overview": "By force of circumstances, a 30-year-old single man with a full-time job suddenly starts raising a 6-year-old girl. While running each other ragged, the two of them gradually grow into a \"family\".",
+    "poster": "https://image.tmdb.org/t/p/w780/nMeOuxeY1Djly3xIFoam2H5tU0Q.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2061551/",
+    "updated_at": "2026-09-07T15:19:39Z"
+  },
+  {
+    "id": "anime-106782",
+    "tmdb_id": 106782,
+    "imdb_id": "tt12814598",
+    "title": "Those Snow White Notes",
+    "overview": "Matsugorou Sawamura is a shamisen player of legendary talent. Upon his death, his grandson, Setsu Sawamura, lost his ability to play. Having lost his beloved sound, Setsu finds himself in Tokyo in search of a new sound to love. Tachiki Yuna, who works at a club, hooks him up with a gig to play there as a warm up act. Setsu imbues the sound of his shamisen with his many thoughts and feelings he has of others, still searching for his own sound and his own feelings.",
+    "poster": "https://image.tmdb.org/t/p/w780/hqN4xbhGa3HmwpcSxP9XYdIvN8O.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt12814598/",
+    "updated_at": "2026-09-07T15:19:32Z"
+  },
+  {
     "id": "anime-56568",
     "tmdb_id": 56568,
     "imdb_id": "tt0810705",
