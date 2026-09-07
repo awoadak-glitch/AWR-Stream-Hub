@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-111998",
+    "tmdb_id": 111998,
+    "imdb_id": null,
+    "title": "The story of the day when the tail was bitten",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-09-07T19:17:26Z"
+  },
+  {
+    "id": "kdrama-215720",
+    "tmdb_id": 215720,
+    "imdb_id": "tt27668559",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "poster": "https://image.tmdb.org/t/p/w780/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt27668559/",
+    "updated_at": "2026-09-07T19:17:25Z"
+  },
+  {
     "id": "kdrama-324546",
     "tmdb_id": 324546,
     "imdb_id": null,
