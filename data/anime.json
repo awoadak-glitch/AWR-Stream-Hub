@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-69453",
+    "tmdb_id": 69453,
+    "imdb_id": "tt6050174",
+    "title": "Koro Sensei Quest!",
+    "overview": "A spin-off from Assassination Classroom and continuation of the anime film short. In this world, Koro-sensei is the Demon King while the students of class 3-E are cast as heroes who must defeat him. The students learn swordsmanship and sorcery at Kunugigaoka Magic School. Their strange adventure begins!",
+    "poster": "https://image.tmdb.org/t/p/w780/dZlQUneXi0x5Fu8FvAVS1wi6sJ4.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt6050174/",
+    "updated_at": "2026-09-08T20:57:02Z"
+  },
+  {
+    "id": "anime-331981",
+    "tmdb_id": 331981,
+    "imdb_id": null,
+    "title": "名探偵コナン",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/lMzP3lMa0GymjPIyj3kGpTKy582.jpg",
+    "kind": "anime",
+    "watch_url": "",
+    "updated_at": "2026-09-08T20:57:02Z"
+  },
+  {
     "id": "anime-217390",
     "tmdb_id": 217390,
     "imdb_id": "tt27571597",
