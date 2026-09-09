@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-133849",
+    "tmdb_id": 133849,
+    "imdb_id": null,
+    "title": "SKZ-TALKER",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/4Iq5UvsZ0UMFIgB7dNyXeKJjYrA.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-09-09T15:12:11Z"
+  },
+  {
+    "id": "kdrama-218539",
+    "tmdb_id": 218539,
+    "imdb_id": "tt29569035",
+    "title": "My Demon",
+    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+    "poster": "https://image.tmdb.org/t/p/w780/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt29569035/",
+    "updated_at": "2026-09-09T15:12:11Z"
+  },
+  {
     "id": "kdrama-78376",
     "tmdb_id": 78376,
     "imdb_id": null,

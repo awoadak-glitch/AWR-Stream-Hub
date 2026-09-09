@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-27845",
+    "tmdb_id": 27845,
+    "imdb_id": "tt0466352",
+    "title": "The Prince of Tennis",
+    "overview": "Tennis prodigiy Ryoma Echizen enters the tennis powerhouse Seishun Academy. Once he fights his way onto the team, the game will never be the same.",
+    "poster": "https://image.tmdb.org/t/p/w780/atwLUO5yHwMteP9TcW1LQSbWyqA.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0466352/",
+    "updated_at": "2026-09-09T15:12:13Z"
+  },
+  {
     "id": "anime-69453",
     "tmdb_id": 69453,
     "imdb_id": "tt6050174",
