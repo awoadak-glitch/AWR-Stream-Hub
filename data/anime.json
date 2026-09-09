@@ -1,5 +1,49 @@
 [
   {
+    "id": "anime-95697",
+    "tmdb_id": 95697,
+    "imdb_id": "tt11754514",
+    "title": "Arte",
+    "overview": "Born into an aristocratic family in Florence, Italy, during the 16th century Renaissance era, Arte has dreams of becoming an artist. In an age of social classes, Arte is willing to cast aside her aristocratic lifestyle and stops at nothing to achieve her dreams. She finds apprenticeship in a painting studio owned by Leo, an artist who is strict but prioritizes ability over gender.",
+    "poster": "https://image.tmdb.org/t/p/w780/vtlujR0LEjyBTT5s0CEtYdqeCaw.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt11754514/",
+    "updated_at": "2026-09-09T21:16:12Z"
+  },
+  {
+    "id": "anime-230288",
+    "tmdb_id": 230288,
+    "imdb_id": "tt28772401",
+    "title": "Protocol: Rain",
+    "overview": "Shun Tokinoya is a high school sophomore who works at the FOX ONE e-sports cafe. He gives up his passion for gaming after losing his father in an accident. Upon hearing the cafe is in debt, Shun puts his guilt aside and assembles a team to compete in the Xaxxerion Championship. Together they face stiff competition to win the prize money. Watch Shun and his friends band together in epic battles!",
+    "poster": "https://image.tmdb.org/t/p/w780/owYdO4nDxx1Uwo5O8QQGy08zstl.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt28772401/",
+    "updated_at": "2026-09-09T21:16:12Z"
+  },
+  {
+    "id": "anime-207468",
+    "tmdb_id": 207468,
+    "imdb_id": "tt21975436",
+    "title": "Kaiju No. 8",
+    "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
+    "poster": "https://image.tmdb.org/t/p/w780/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt21975436/",
+    "updated_at": "2026-09-09T21:16:12Z"
+  },
+  {
+    "id": "anime-215401",
+    "tmdb_id": 215401,
+    "imdb_id": "tt34710683",
+    "title": "Bullet Bullet",
+    "overview": "In the near future, civilization has collapsed. Gear works in a junk shop, retrieving stolen goods alongside Qu-0213 and White Bear. After accepting a mysterious request to steal an important item, they soon find themselves hunted by deadly assassins.",
+    "poster": "https://image.tmdb.org/t/p/w780/pCeMlilk1GKcbX8BWvCbRF0vd1U.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt34710683/",
+    "updated_at": "2026-09-09T21:16:12Z"
+  },
+  {
     "id": "anime-27845",
     "tmdb_id": 27845,
     "imdb_id": "tt0466352",
