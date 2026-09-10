@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-246473",
+    "tmdb_id": 246473,
+    "imdb_id": "tt33298903",
+    "title": "Made in Korea",
+    "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+    "poster": "https://image.tmdb.org/t/p/w780/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt33298903/",
+    "updated_at": "2026-09-10T15:13:48Z"
+  },
+  {
     "id": "kdrama-133849",
     "tmdb_id": 133849,
     "imdb_id": null,
