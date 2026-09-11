@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-42589",
+    "tmdb_id": 42589,
+    "imdb_id": "tt2176165",
+    "title": "Another",
+    "overview": "When Kouichi arrives at his new school, he immediately senses something frightening in the atmosphere of his new class, something that no student wants to talk about and that seems to be related to a mysterious and silent girl.",
+    "poster": "https://image.tmdb.org/t/p/w780/h3YyESKtOy7Rrv7zymyF9kfpz7T.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2176165/",
+    "updated_at": "2026-09-11T15:05:57Z"
+  },
+  {
+    "id": "anime-82766",
+    "tmdb_id": 82766,
+    "imdb_id": "tt9402026",
+    "title": "Run with the Wind",
+    "overview": "Kakeru, a former elite runner at high school, is chased for stealing food. He is saved by Kansei University student Haiji, who is also a runner. Haiji persuades Kakeru to live in the old apartment \"Chikuseisou\" where he plans to team up with fellow residents to enter Hakone Ekiden Marathon, one of the most prominent university races in Japan. Kakeru soon finds out that all of the residents except for Haiji and himself are complete novices.",
+    "poster": "https://image.tmdb.org/t/p/w780/roo8RgxJaXCeqI4GbcmT852xRnL.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt9402026/",
+    "updated_at": "2026-09-11T15:05:56Z"
+  },
+  {
+    "id": "anime-19239",
+    "tmdb_id": 19239,
+    "imdb_id": "tt0077013",
+    "title": "Future Boy Conan",
+    "overview": "After the great disaster of 2008, a war that destroyed the planet, the world is now largely ocean with the continents having sunk. Conan lives on a remote island with his grandpa and nature, never having seen another human being. But one day a mysterious girl, Lana, washes up on his beach. The two become quick friends, but she’s soon kidnapped and taken to Industria, a technological remainder from the world before. Conan leaves his island in pursuit, braving new lands and many hardships with new friends and enemies just beyond the horizon.",
+    "poster": "https://image.tmdb.org/t/p/w780/tmlhwdTBA264iQF2Us5vWdKz1fE.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0077013/",
+    "updated_at": "2026-09-11T15:05:56Z"
+  },
+  {
     "id": "anime-45277",
     "tmdb_id": 45277,
     "imdb_id": "tt2293988",
