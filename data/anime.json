@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-65945",
+    "tmdb_id": 65945,
+    "imdb_id": "tt5556656",
+    "title": "Kabaneri of the Iron Fortress",
+    "overview": "In the midst of an industrial revolution, the people of Hinomoto fight hordes of undead creatures, known as Kabane, using powerful armored trains.",
+    "poster": "https://image.tmdb.org/t/p/w780/a9lY3DCLU3DWvUshho6hAX2hKKh.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt5556656/",
+    "updated_at": "2026-09-12T17:06:27Z"
+  },
+  {
+    "id": "anime-255064",
+    "tmdb_id": 255064,
+    "imdb_id": "tt38980285",
+    "title": "The Darwin Incident",
+    "overview": "Charlie is one of a kind. As a half-human, half-chimpanzee Humanzee, his intellect and physical prowess is off the charts. Which is why The Animal Liberation Alliance, a terrorist group, wants him. And they will take extreme measures to get him. However, Charlie is determined to fight back for the sake of his loved ones.",
+    "poster": "https://image.tmdb.org/t/p/w780/9hLo3uSeGx6vDtnOPQcq7sVBzsL.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt38980285/",
+    "updated_at": "2026-09-12T17:06:26Z"
+  },
+  {
     "id": "anime-26867",
     "tmdb_id": 26867,
     "imdb_id": "tt0807832",
