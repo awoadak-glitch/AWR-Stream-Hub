@@ -1,5 +1,38 @@
 [
   {
+    "id": "movie-49494",
+    "tmdb_id": 49494,
+    "imdb_id": "tt1034389",
+    "title": "The Eagle",
+    "overview": "In 140 AD, twenty years after the unexplained disappearance of the entire Ninth Legion in the mountains of Scotland, young centurion Marcus Aquila arrives from Rome to solve the mystery and restore the reputation of his father, the commander of the Ninth. Accompanied only by his British slave Esca, Marcus sets out across Hadrian's Wall into the uncharted highlands of Caledonia - to confront its savage tribes, make peace with his father's memory, and retrieve the lost legion's golden emblem, the Eagle of the Ninth.",
+    "poster": "https://image.tmdb.org/t/p/w780/mbsdwO4lfIARqt35VVTM0UlYkhZ.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt1034389/",
+    "updated_at": "2026-09-12T19:19:00Z"
+  },
+  {
+    "id": "movie-218",
+    "tmdb_id": 218,
+    "imdb_id": "tt0088247",
+    "title": "The Terminator",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "poster": "https://image.tmdb.org/t/p/w780/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt0088247/",
+    "updated_at": "2026-09-12T19:18:59Z"
+  },
+  {
+    "id": "movie-1433367",
+    "tmdb_id": 1433367,
+    "imdb_id": "tt37853455",
+    "title": "One Night Only",
+    "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "poster": "https://image.tmdb.org/t/p/w780/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt37853455/",
+    "updated_at": "2026-09-12T19:18:59Z"
+  },
+  {
     "id": "movie-53653",
     "tmdb_id": 53653,
     "imdb_id": "tt0093304",
