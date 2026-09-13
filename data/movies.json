@@ -1,5 +1,27 @@
 [
   {
+    "id": "movie-6435",
+    "tmdb_id": 6435,
+    "imdb_id": "tt0120791",
+    "title": "Practical Magic",
+    "overview": "Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give themselves a crash course in hard magic. With policeman Gary Hallet growing suspicious, the girls struggle to resurrect Angelov -- and unwittingly inject his corpse with an evil spirit that threatens to end their family line.",
+    "poster": "https://image.tmdb.org/t/p/w780/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt0120791/",
+    "updated_at": "2026-09-13T16:13:17Z"
+  },
+  {
+    "id": "movie-1323244",
+    "tmdb_id": 1323244,
+    "imdb_id": "tt29512655",
+    "title": "Rage of Stars",
+    "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+    "poster": "https://image.tmdb.org/t/p/w780/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt29512655/",
+    "updated_at": "2026-09-13T16:13:13Z"
+  },
+  {
     "id": "movie-49494",
     "tmdb_id": 49494,
     "imdb_id": "tt1034389",
