@@ -1,5 +1,49 @@
 [
   {
+    "id": "anime-80559",
+    "tmdb_id": 80559,
+    "imdb_id": null,
+    "title": "Puzzle & Dragons",
+    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+    "poster": "https://image.tmdb.org/t/p/w780/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+    "kind": "anime",
+    "watch_url": "",
+    "updated_at": "2026-09-14T18:42:38Z"
+  },
+  {
+    "id": "anime-294867",
+    "tmdb_id": 294867,
+    "imdb_id": "tt37532634",
+    "title": "Dusk Beyond the End of the World",
+    "overview": "When tensions around AI spark civil unrest, Akira is caught in the crossfire when he protects his girlfriend from an assassin. Hundreds of years later, he awakens from cryogenic sleep to an unfamiliar world and bonds with the android Yuugure.",
+    "poster": "https://image.tmdb.org/t/p/w780/xfCA7LKaIE6JbswEVUITSrl6FiH.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt37532634/",
+    "updated_at": "2026-09-14T18:42:37Z"
+  },
+  {
+    "id": "anime-123876",
+    "tmdb_id": 123876,
+    "imdb_id": "tt14626352",
+    "title": "Komi Can't Communicate",
+    "overview": "At a high school full of unique characters, Tadano helps his shy and unsociable classmate Komi reach her goal of making friends with 100 people.",
+    "poster": "https://image.tmdb.org/t/p/w780/rOEaKS6jdZacivHnM56NQ4yhccW.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt14626352/",
+    "updated_at": "2026-09-14T18:42:37Z"
+  },
+  {
+    "id": "anime-37858",
+    "tmdb_id": 37858,
+    "imdb_id": "tt0774809",
+    "title": "Fate/stay night",
+    "overview": "Shirou Emiya lost his parents in a fire when he was young and was later adopted by the sorcerer Kiritsugu Emiya. Shirou is drawn into the Holy Grail War summons a female \"Servant\" known as Saber to protect him and obtain the Holy Grail.",
+    "poster": "https://image.tmdb.org/t/p/w780/x7nYPOveHhINREhTtwBHot9ersB.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0774809/",
+    "updated_at": "2026-09-14T18:42:34Z"
+  },
+  {
     "id": "anime-285818",
     "tmdb_id": 285818,
     "imdb_id": "tt37729351",
