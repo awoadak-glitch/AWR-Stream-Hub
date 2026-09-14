@@ -1,5 +1,38 @@
 [
   {
+    "id": "movie-324857",
+    "tmdb_id": 324857,
+    "imdb_id": "tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "poster": "https://image.tmdb.org/t/p/w780/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt4633694/",
+    "updated_at": "2026-09-14T22:07:49Z"
+  },
+  {
+    "id": "movie-49026",
+    "tmdb_id": 49026,
+    "imdb_id": "tt1345836",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "poster": "https://image.tmdb.org/t/p/w780/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt1345836/",
+    "updated_at": "2026-09-14T22:07:49Z"
+  },
+  {
+    "id": "movie-76341",
+    "tmdb_id": 76341,
+    "imdb_id": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "poster": "https://image.tmdb.org/t/p/w780/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt1392190/",
+    "updated_at": "2026-09-14T22:07:48Z"
+  },
+  {
     "id": "movie-6435",
     "tmdb_id": 6435,
     "imdb_id": "tt0120791",
