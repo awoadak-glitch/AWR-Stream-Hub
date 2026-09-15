@@ -1,5 +1,38 @@
 [
   {
+    "id": "movie-447273",
+    "tmdb_id": 447273,
+    "imdb_id": "tt6208148",
+    "title": "Snow White",
+    "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+    "poster": "https://image.tmdb.org/t/p/w780/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt6208148/",
+    "updated_at": "2026-09-15T18:59:51Z"
+  },
+  {
+    "id": "movie-1185806",
+    "tmdb_id": 1185806,
+    "imdb_id": "tt29356163",
+    "title": "PAW Patrol: The Dino Movie",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "poster": "https://image.tmdb.org/t/p/w780/frAFeNZWw1Jb3ZSoFsOT4J0qqxB.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt29356163/",
+    "updated_at": "2026-09-15T18:59:51Z"
+  },
+  {
+    "id": "movie-1232569",
+    "tmdb_id": 1232569,
+    "imdb_id": "tt30887701",
+    "title": "Pinocchio: Unstrung",
+    "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "poster": "https://image.tmdb.org/t/p/w780/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt30887701/",
+    "updated_at": "2026-09-15T18:59:45Z"
+  },
+  {
     "id": "movie-324857",
     "tmdb_id": 324857,
     "imdb_id": "tt4633694",
