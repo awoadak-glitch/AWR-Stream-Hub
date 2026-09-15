@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-158198",
+    "tmdb_id": 158198,
+    "imdb_id": "tt2827710",
+    "title": "Ninja Hattori-Kun Returns",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/gt0jlGyGW11Q1HQ7AtFAvioKOV9.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2827710/",
+    "updated_at": "2026-09-15T15:07:40Z"
+  },
+  {
+    "id": "anime-278059",
+    "tmdb_id": 278059,
+    "imdb_id": "tt37431548",
+    "title": "Shabake",
+    "overview": "Ichitaro, the frail yet sharp-minded master of Nagasakiya, rarely leaves his estate—but he’s far from alone. Gifted with the ability to see spirits, he’s protected by ghostly companions like Hakutaku and Inugami. One night, he slips out and witnesses a brutal murder. Soon after, Edo is plagued by a series of eerie murders. As fear grips the city, Ichitaro and his spirits must uncover the culprit.",
+    "poster": "https://image.tmdb.org/t/p/w780/gO3AZANXhcSlU2DjCwzyuSbqs9R.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt37431548/",
+    "updated_at": "2026-09-15T15:07:40Z"
+  },
+  {
+    "id": "anime-105721",
+    "tmdb_id": 105721,
+    "imdb_id": "tt13221420",
+    "title": "Burning Kabaddi",
+    "overview": "Yoigoshi Tatsuya was a star soccer player known as \"Yoigoshi the Unstoppable,\" but when he entered high school, he severed all involvement with sports. Now, he has been invited to a certain sports team. In these matches, victory is achieved through teammates working together to catch and defeat the opponents invading their territory... You could call it a sort of running combat sport. And the name of this game is... Kabaddi.",
+    "poster": "https://image.tmdb.org/t/p/w780/I1WPv4syO2X8lyOhH29oVH1zrI.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13221420/",
+    "updated_at": "2026-09-15T15:07:39Z"
+  },
+  {
     "id": "anime-80559",
     "tmdb_id": 80559,
     "imdb_id": null,
