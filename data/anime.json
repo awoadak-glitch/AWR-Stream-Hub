@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-30669",
+    "tmdb_id": 30669,
+    "imdb_id": "tt0185133",
+    "title": "Yu Yu Hakusho",
+    "overview": "After dying to save a boy, delinquent tough guy Yusuke Urameshi is granted another chance at life by redeeming himself as a \"Spirit Detective.\"",
+    "poster": "https://image.tmdb.org/t/p/w780/5OnjguJwkujo3R23w95EEX8eAEN.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0185133/",
+    "updated_at": "2026-09-19T17:29:34Z"
+  },
+  {
     "id": "anime-131041",
     "tmdb_id": 131041,
     "imdb_id": "tt15222080",
