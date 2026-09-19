@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-131041",
+    "tmdb_id": 131041,
+    "imdb_id": "tt15222080",
+    "title": "BLUE LOCK",
+    "overview": "High school soccer players from across Japan gather for a controversial project designed to create the best — and most egoistic — striker in the world.",
+    "poster": "https://image.tmdb.org/t/p/w780/fcKH1NQzoTXiYO1OrhaFFwTKhBp.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt15222080/",
+    "updated_at": "2026-09-19T14:47:06Z"
+  },
+  {
+    "id": "anime-196944",
+    "tmdb_id": 196944,
+    "imdb_id": "tt19869172",
+    "title": "My Happy Marriage",
+    "overview": "Miyo's abusive family deems her worthless – but together with her powerful husband-to-be, her true self and hidden powers slowly begin to shine.",
+    "poster": "https://image.tmdb.org/t/p/w780/5RZIBqSYHhpQF6s8Dgw2aXlA4ZS.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt19869172/",
+    "updated_at": "2026-09-19T14:47:06Z"
+  },
+  {
     "id": "anime-270603",
     "tmdb_id": 270603,
     "imdb_id": "tt33334216",
