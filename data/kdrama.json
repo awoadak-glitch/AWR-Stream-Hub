@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-71963",
+    "tmdb_id": 71963,
+    "imdb_id": "tt7996906",
+    "title": "Let's Eat Dinner Together",
+    "overview": "As more and more people are getting used to eating dinner alone, Kang Ho-dong and Lee Kyung-kyu visit ordinary Korean families at dinner time and share their lives as they eat dinner together.",
+    "poster": "https://image.tmdb.org/t/p/w780/ssSlNCa17L8ZD7KvGICE3bXURql.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt7996906/",
+    "updated_at": "2026-09-20T18:55:10Z"
+  },
+  {
     "id": "kdrama-215199",
     "tmdb_id": 215199,
     "imdb_id": null,
