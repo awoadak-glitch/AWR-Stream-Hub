@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-1429",
+    "tmdb_id": 1429,
+    "imdb_id": "tt2560140",
+    "title": "Attack on Titan",
+    "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+    "poster": "https://image.tmdb.org/t/p/w780/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2560140/",
+    "updated_at": "2026-09-24T15:29:36Z"
+  },
+  {
     "id": "anime-80671",
     "tmdb_id": 80671,
     "imdb_id": "tt8673610",
