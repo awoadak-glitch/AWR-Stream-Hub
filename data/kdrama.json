@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-138787",
+    "tmdb_id": 138787,
+    "imdb_id": null,
+    "title": "Running Man",
+    "overview": "Wanting to bring home the ultimate prize, a group of competitors gather for a championship — and discover both friends and enemies as they play!",
+    "poster": "https://image.tmdb.org/t/p/w780/8QsgksnhhEis3IqRBmQlIx9Maao.jpg",
+    "kind": "kdrama",
+    "watch_url": "",
+    "updated_at": "2026-09-25T19:58:13Z"
+  },
+  {
     "id": "kdrama-71963",
     "tmdb_id": 71963,
     "imdb_id": "tt7996906",
