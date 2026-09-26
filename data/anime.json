@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-31572",
+    "tmdb_id": 31572,
+    "imdb_id": "tt0159175",
+    "title": "Lupin the 3rd",
+    "overview": "Follow the exciting adventures of Arsene Lupin III, the grandson of the world's greatest thief, Arsene Lupin. Together with Daisuke Jigen, Goemon Ishikawa and his love interest Fujiko Mine, he carries out the greatest robberies of all time, all the while evading the control of Inspector Koichi Zenigata.",
+    "poster": "https://image.tmdb.org/t/p/w780/khfsxY7EyQsdEHzlnkn42CIjZI.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0159175/",
+    "updated_at": "2026-09-26T19:12:51Z"
+  },
+  {
     "id": "anime-1429",
     "tmdb_id": 1429,
     "imdb_id": "tt2560140",
