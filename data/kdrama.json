@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-108284",
+    "tmdb_id": 108284,
+    "imdb_id": "tt12879418",
+    "title": "Tale of the Nine Tailed",
+    "overview": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
+    "poster": "https://image.tmdb.org/t/p/w780/v7VEIX1yOcFWY17eUprNhAS9xEp.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt12879418/",
+    "updated_at": "2026-09-27T15:22:48Z"
+  },
+  {
     "id": "kdrama-138787",
     "tmdb_id": 138787,
     "imdb_id": null,
