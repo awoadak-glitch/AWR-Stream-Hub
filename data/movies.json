@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1263337",
+    "tmdb_id": 1263337,
+    "imdb_id": "tt7526136",
+    "title": "Heart of the Beast",
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "poster": "https://image.tmdb.org/t/p/w780/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt7526136/",
+    "updated_at": "2026-09-28T14:37:49Z"
+  },
+  {
     "id": "movie-276488",
     "tmdb_id": 276488,
     "imdb_id": "tt3148348",
