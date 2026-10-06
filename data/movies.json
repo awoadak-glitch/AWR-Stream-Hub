@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-671",
+    "tmdb_id": 671,
+    "imdb_id": "tt0241527",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "poster": "https://image.tmdb.org/t/p/w780/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt0241527/",
+    "updated_at": "2026-10-06T20:20:43Z"
+  },
+  {
     "id": "movie-1291595",
     "tmdb_id": 1291595,
     "imdb_id": "tt32393988",
