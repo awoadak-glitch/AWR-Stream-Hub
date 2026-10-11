@@ -1,5 +1,27 @@
 [
   {
+    "id": "movie-14836",
+    "tmdb_id": 14836,
+    "imdb_id": "tt0327597",
+    "title": "Coraline",
+    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "poster": "https://image.tmdb.org/t/p/w780/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt0327597/",
+    "updated_at": "2026-10-11T13:10:14Z"
+  },
+  {
+    "id": "movie-1236045",
+    "tmdb_id": 1236045,
+    "imdb_id": "tt31049299",
+    "title": "Animals",
+    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+    "poster": "https://image.tmdb.org/t/p/w780/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt31049299/",
+    "updated_at": "2026-10-11T13:10:08Z"
+  },
+  {
     "id": "movie-1148365",
     "tmdb_id": 1148365,
     "imdb_id": "tt28498219",
