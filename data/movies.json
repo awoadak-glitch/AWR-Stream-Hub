@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1302904",
+    "tmdb_id": 1302904,
+    "imdb_id": "tt32588798",
+    "title": "Practical Magic 2",
+    "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "poster": "https://image.tmdb.org/t/p/w780/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt32588798/",
+    "updated_at": "2026-10-13T11:34:18Z"
+  },
+  {
     "id": "movie-1284046",
     "tmdb_id": 1284046,
     "imdb_id": "tt32268691",
