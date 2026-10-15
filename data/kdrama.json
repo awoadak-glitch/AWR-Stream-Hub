@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-285838",
+    "tmdb_id": 285838,
+    "imdb_id": "tt36104233",
+    "title": "If Wishes Could Kill",
+    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+    "poster": "https://image.tmdb.org/t/p/w780/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt36104233/",
+    "updated_at": "2026-10-15T18:25:48Z"
+  },
+  {
+    "id": "kdrama-126485",
+    "tmdb_id": 126485,
+    "imdb_id": "tt24640580",
+    "title": "Moving",
+    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+    "poster": "https://image.tmdb.org/t/p/w780/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt24640580/",
+    "updated_at": "2026-10-15T18:25:47Z"
+  },
+  {
     "id": "kdrama-233090",
     "tmdb_id": 233090,
     "imdb_id": "tt29855759",

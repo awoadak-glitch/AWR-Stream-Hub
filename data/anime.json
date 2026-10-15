@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-114478",
+    "tmdb_id": 114478,
+    "imdb_id": "tt13622982",
+    "title": "Star Wars: Visions",
+    "overview": "This anthology of animated shorts from around the world celebrates the mythos of Star Wars through unique cultural lenses.",
+    "poster": "https://image.tmdb.org/t/p/w780/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13622982/",
+    "updated_at": "2026-10-15T18:25:49Z"
+  },
+  {
+    "id": "anime-78467",
+    "tmdb_id": 78467,
+    "imdb_id": "tt8278692",
+    "title": "Crossing Time",
+    "overview": "“Clank, clank, clank, clank...”\n\nToday, the railroad crossing bar goes down again, stopping someone on their way somewhere. The various stories of youth, eros, art, first love, etc that occur during the time spent waiting at a railroad crossing... All railroad crossings, all the time. Bringing you a variety of short stories about railroad crossings!",
+    "poster": "https://image.tmdb.org/t/p/w780/8F8Y6Usd5DSGTCdgEogFOMNf5wU.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt8278692/",
+    "updated_at": "2026-10-15T18:25:49Z"
+  },
+  {
     "id": "anime-31724",
     "tmdb_id": 31724,
     "imdb_id": "tt0994314",
