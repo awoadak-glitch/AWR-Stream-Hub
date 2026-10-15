@@ -1,5 +1,27 @@
 [
   {
+    "id": "movie-1514026",
+    "tmdb_id": 1514026,
+    "imdb_id": "tt37281055",
+    "title": "Buddy",
+    "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+    "poster": "https://image.tmdb.org/t/p/w780/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt37281055/",
+    "updated_at": "2026-10-15T04:31:35Z"
+  },
+  {
+    "id": "movie-1400837",
+    "tmdb_id": 1400837,
+    "imdb_id": "tt36586020",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "poster": "https://image.tmdb.org/t/p/w780/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt36586020/",
+    "updated_at": "2026-10-15T04:31:32Z"
+  },
+  {
     "id": "movie-1010581",
     "tmdb_id": 1010581,
     "imdb_id": "tt21909764",
