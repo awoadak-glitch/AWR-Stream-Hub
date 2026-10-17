@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-43865",
+    "tmdb_id": 43865,
+    "imdb_id": "tt2379308",
+    "title": "Psycho-Pass",
+    "overview": "In the year 2113, people are given brain scans to determine how likely they are to commit a crime. Those who fail are apprehended, or even killed.",
+    "poster": "https://image.tmdb.org/t/p/w780/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt2379308/",
+    "updated_at": "2026-10-17T18:49:13Z"
+  },
+  {
     "id": "anime-114478",
     "tmdb_id": 114478,
     "imdb_id": "tt13622982",
