@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1153576",
+    "tmdb_id": 1153576,
+    "imdb_id": "tt27419420",
+    "title": "Street Fighter",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "poster": "https://image.tmdb.org/t/p/w780/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt27419420/",
+    "updated_at": "2026-10-20T05:19:57Z"
+  },
+  {
     "id": "movie-354912",
     "tmdb_id": 354912,
     "imdb_id": "tt2380307",
