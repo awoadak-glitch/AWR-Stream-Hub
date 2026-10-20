@@ -1,5 +1,38 @@
 [
   {
+    "id": "movie-1381078",
+    "tmdb_id": 1381078,
+    "imdb_id": "tt34384900",
+    "title": "Love of Your Life",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "poster": "https://image.tmdb.org/t/p/w780/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt34384900/",
+    "updated_at": "2026-10-20T10:13:55Z"
+  },
+  {
+    "id": "movie-1281331",
+    "tmdb_id": 1281331,
+    "imdb_id": "tt37510326",
+    "title": "The Social Reckoning",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "poster": "https://image.tmdb.org/t/p/w780/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt37510326/",
+    "updated_at": "2026-10-20T10:13:52Z"
+  },
+  {
+    "id": "movie-1561726",
+    "tmdb_id": 1561726,
+    "imdb_id": "tt38672588",
+    "title": "Masterplan",
+    "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+    "poster": "https://image.tmdb.org/t/p/w780/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt38672588/",
+    "updated_at": "2026-10-20T10:13:52Z"
+  },
+  {
     "id": "movie-1153576",
     "tmdb_id": 1153576,
     "imdb_id": "tt27419420",
