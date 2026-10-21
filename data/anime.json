@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-105248",
+    "tmdb_id": 105248,
+    "imdb_id": "tt12590266",
+    "title": "Cyberpunk: Edgerunners",
+    "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+    "poster": "https://image.tmdb.org/t/p/w780/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt12590266/",
+    "updated_at": "2026-10-21T11:28:45Z"
+  },
+  {
     "id": "anime-282946",
     "tmdb_id": 282946,
     "imdb_id": "tt38646949",
