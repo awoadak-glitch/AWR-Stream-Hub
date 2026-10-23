@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-62933",
+    "tmdb_id": 62933,
+    "imdb_id": "tt4803738",
+    "title": "Hello Monster",
+    "overview": "A top detective is reunited with a childhood friend who has since become a leading criminal profiler. Can they join forces to stop a serial killer?",
+    "poster": "https://image.tmdb.org/t/p/w780/t1f0EKjQGCd5ip8TLJzDFOEDDdK.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt4803738/",
+    "updated_at": "2026-10-23T17:30:41Z"
+  },
+  {
+    "id": "kdrama-70528",
+    "tmdb_id": 70528,
+    "imdb_id": "tt6516076",
+    "title": "Chicago Typewriter",
+    "overview": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.",
+    "poster": "https://image.tmdb.org/t/p/w780/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt6516076/",
+    "updated_at": "2026-10-23T17:30:41Z"
+  },
+  {
     "id": "kdrama-303745",
     "tmdb_id": 303745,
     "imdb_id": "tt45246384",
