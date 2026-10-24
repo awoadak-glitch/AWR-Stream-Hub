@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1400940",
+    "tmdb_id": 1400940,
+    "imdb_id": "tt34890576",
+    "title": "Clayface",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+    "poster": "https://image.tmdb.org/t/p/w780/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt34890576/",
+    "updated_at": "2026-10-24T07:09:32Z"
+  },
+  {
     "id": "movie-446893",
     "tmdb_id": 446893,
     "imdb_id": "tt6587640",
