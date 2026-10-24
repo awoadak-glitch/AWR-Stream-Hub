@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-61374",
+    "tmdb_id": 61374,
+    "imdb_id": "tt3741634",
+    "title": "Tokyo Ghoul",
+    "overview": "Ken Kaneki, a bookworm college student, meets Rize, a girl his own age with whom he shares many interests.",
+    "poster": "https://image.tmdb.org/t/p/w780/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt3741634/",
+    "updated_at": "2026-10-24T15:52:37Z"
+  },
+  {
     "id": "anime-286291",
     "tmdb_id": 286291,
     "imdb_id": "tt37533007",
