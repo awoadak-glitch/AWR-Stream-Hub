@@ -1,5 +1,27 @@
 [
   {
+    "id": "kdrama-81332",
+    "tmdb_id": 81332,
+    "imdb_id": "tt8628658",
+    "title": "Lovely Horribly",
+    "overview": "An actor and a screenwriter find their lives entwined by more than just work as the drama they're writing starts to play out in their real lives.",
+    "poster": "https://image.tmdb.org/t/p/w780/z4H7HDScnXW270yFqjk7aGquNml.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt8628658/",
+    "updated_at": "2026-10-27T19:41:06Z"
+  },
+  {
+    "id": "kdrama-68814",
+    "tmdb_id": 68814,
+    "imdb_id": "tt6263222",
+    "title": "Strong Girl Bong-soon",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "poster": "https://image.tmdb.org/t/p/w780/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt6263222/",
+    "updated_at": "2026-10-27T19:41:06Z"
+  },
+  {
     "id": "kdrama-62933",
     "tmdb_id": 62933,
     "imdb_id": "tt4803738",
