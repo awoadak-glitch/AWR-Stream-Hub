@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-324301",
+    "tmdb_id": 324301,
+    "imdb_id": null,
+    "title": "クレヨンしんちゃん",
+    "overview": "",
+    "poster": "https://image.tmdb.org/t/p/w780/qTW3lU85NG83hXWtAdC3qwOgeDO.jpg",
+    "kind": "anime",
+    "watch_url": "",
+    "updated_at": "2026-10-29T13:32:51Z"
+  },
+  {
     "id": "anime-134667",
     "tmdb_id": 134667,
     "imdb_id": "tt15483602",
