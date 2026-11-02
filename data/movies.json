@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1290418",
+    "tmdb_id": 1290418,
+    "imdb_id": "tt32358390",
+    "title": "The Cycle",
+    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+    "poster": "https://image.tmdb.org/t/p/w780/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt32358390/",
+    "updated_at": "2026-11-02T22:39:21Z"
+  },
+  {
     "id": "movie-1727734",
     "tmdb_id": 1727734,
     "imdb_id": "tt43655467",

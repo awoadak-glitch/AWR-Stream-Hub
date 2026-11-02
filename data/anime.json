@@ -1,5 +1,38 @@
 [
   {
+    "id": "anime-257603",
+    "tmdb_id": 257603,
+    "imdb_id": "tt32832434",
+    "title": "TsumaSho",
+    "overview": "Keisuke Niijima has lived in grief since his wife, Takae, passed away 10 years ago. But when a young girl visits, claiming to be Takae reincarnated, Keisuke and his daughter, Mai, are drawn into a miraculous reunion. As the girl reveals intimate details only they could know, the Niijima family slowly begins to heal, rediscovering love and warmth in the most unexpected way.",
+    "poster": "https://image.tmdb.org/t/p/w780/aWXFAo8ua0T5fSVQNNU31g7cx2c.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt32832434/",
+    "updated_at": "2026-11-02T22:39:24Z"
+  },
+  {
+    "id": "anime-123818",
+    "tmdb_id": 123818,
+    "imdb_id": "tt14489130",
+    "title": "Deaimon: Recipe for Happiness",
+    "overview": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked to be a father figure to Itsuka Yukihira, the girl everyone calls the successor.",
+    "poster": "https://image.tmdb.org/t/p/w780/zXMoC8VKGGyhEtOomOndH2tmife.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt14489130/",
+    "updated_at": "2026-11-02T22:39:20Z"
+  },
+  {
+    "id": "anime-208445",
+    "tmdb_id": 208445,
+    "imdb_id": "tt30089363",
+    "title": "The Witch and the Beast",
+    "overview": "Guideau is a young woman who was cursed by a witch, forced to carry a dark secret. Ashaf is a tall, soft-spoken man with a coffin strapped to his back and secrets yet untold. Together they venture across the land on their quest for vengeance. Appearances can be deceiving, and each step could be their last. In a dark fantasy filled with adventure, will unlikely heroes find the vengeance they seek?",
+    "poster": "https://image.tmdb.org/t/p/w780/ooSzpaJkU8MnfuLKn0IThcACv57.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt30089363/",
+    "updated_at": "2026-11-02T22:39:20Z"
+  },
+  {
     "id": "anime-110309",
     "tmdb_id": 110309,
     "imdb_id": "tt13129190",
