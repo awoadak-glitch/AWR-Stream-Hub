@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-112613",
+    "tmdb_id": 112613,
+    "imdb_id": "tt13409432",
+    "title": "Ranking of Kings",
+    "overview": "In a world where kings are ranked, a kindly little hearing-impaired prince sets off on a journey to become a powerful king, despite all odds.",
+    "poster": "https://image.tmdb.org/t/p/w780/ujMjMUi6z02uOfQEerEDC4rH6aG.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt13409432/",
+    "updated_at": "2026-11-03T18:36:47Z"
+  },
+  {
     "id": "anime-257603",
     "tmdb_id": 257603,
     "imdb_id": "tt32832434",
