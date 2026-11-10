@@ -1,5 +1,27 @@
 [
   {
+    "id": "anime-204412",
+    "tmdb_id": 204412,
+    "imdb_id": "tt22410622",
+    "title": "My Home Hero",
+    "overview": "An unassuming father becomes a target when he kills his daughter's abusive boyfriend — who happens to be the son of a cold-blooded crime boss.",
+    "poster": "https://image.tmdb.org/t/p/w780/1up064CIofoNlFsn9ve8CD9mntL.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt22410622/",
+    "updated_at": "2026-11-10T18:50:17Z"
+  },
+  {
+    "id": "anime-277881",
+    "tmdb_id": 277881,
+    "imdb_id": "tt35014218",
+    "title": "The Unaware Atelier Meister",
+    "overview": "Kurt Rockhans is a kind-hearted errand boy for a hero’s party, the Flaming Dragon Fang. One day, he's banished from the party and finds out he has the lowest rank in combat. In order to make a living, Kurt picks up various jobs and discovers he has astonishing abilities. Though he doesn't realize it yet, Kurt has SSS-rank skills in anything other than fighting, as he sets off on a new journey.",
+    "poster": "https://image.tmdb.org/t/p/w780/OPJ7k6DMm1o3A0kIXysgrqVT5w.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt35014218/",
+    "updated_at": "2026-11-10T18:50:16Z"
+  },
+  {
     "id": "anime-77729",
     "tmdb_id": 77729,
     "imdb_id": "tt7826102",
