@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-35610",
+    "tmdb_id": 35610,
+    "imdb_id": "tt0290223",
+    "title": "InuYasha",
+    "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+    "poster": "https://image.tmdb.org/t/p/w780/rQHTNaynedeKurm0sNOsbAZg2oe.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0290223/",
+    "updated_at": "2026-11-11T21:09:39Z"
+  },
+  {
     "id": "anime-204412",
     "tmdb_id": 204412,
     "imdb_id": "tt22410622",
