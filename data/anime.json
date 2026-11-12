@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-90937",
+    "tmdb_id": 90937,
+    "imdb_id": "tt11043632",
+    "title": "BEASTARS",
+    "overview": "In a world where beasts of all kinds coexist, a gentle wolf awakens to his own predatory urges as his school deals with a murder within its midst.",
+    "poster": "https://image.tmdb.org/t/p/w780/Ac60Pi9UsVirPE8vt2lrVckR2tr.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt11043632/",
+    "updated_at": "2026-11-12T18:07:29Z"
+  },
+  {
     "id": "anime-35610",
     "tmdb_id": 35610,
     "imdb_id": "tt0290223",
