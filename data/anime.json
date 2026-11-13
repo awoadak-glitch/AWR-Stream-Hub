@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-34109",
+    "tmdb_id": 34109,
+    "imdb_id": "tt1114855",
+    "title": "Bakugan Battle Brawlers",
+    "overview": "Centers on the lives of creatures called Bakugan and the battle brawlers who possess them.",
+    "poster": "https://image.tmdb.org/t/p/w780/tYSZCSW6wbHoS9aEijTv4xHgGbZ.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt1114855/",
+    "updated_at": "2026-11-13T18:44:53Z"
+  },
+  {
     "id": "anime-90937",
     "tmdb_id": 90937,
     "imdb_id": "tt11043632",
