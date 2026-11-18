@@ -1,5 +1,16 @@
 [
   {
+    "id": "movie-1567605",
+    "tmdb_id": 1567605,
+    "imdb_id": "tt38773219",
+    "title": "Ebenezer",
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "poster": "https://image.tmdb.org/t/p/w780/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "kind": "movie",
+    "watch_url": "https://www.playimdb.com/title/tt38773219/",
+    "updated_at": "2026-11-18T18:12:04Z"
+  },
+  {
     "id": "movie-9963",
     "tmdb_id": 9963,
     "imdb_id": "tt0477071",
