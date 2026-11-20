@@ -1,5 +1,16 @@
 [
   {
+    "id": "anime-21729",
+    "tmdb_id": 21729,
+    "imdb_id": "tt0948103",
+    "title": "Gurren Lagann",
+    "overview": "When a young laborer escapes to the world aboveground, he discovers a violent land in which humans battle robots controlled by a power-hungry noble.",
+    "poster": "https://image.tmdb.org/t/p/w780/sG0Z0yWJmzr7UW6183cmz5DAjqm.jpg",
+    "kind": "anime",
+    "watch_url": "https://www.playimdb.com/title/tt0948103/",
+    "updated_at": "2026-11-20T13:17:30Z"
+  },
+  {
     "id": "anime-278378",
     "tmdb_id": 278378,
     "imdb_id": "tt34852961",
