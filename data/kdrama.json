@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-136283",
+    "tmdb_id": 136283,
+    "imdb_id": "tt21344706",
+    "title": "The Glory",
+    "overview": "Years after surviving horrific abuse in high school, a woman puts an elaborate revenge scheme in motion to make the perpetrators pay for their crimes.",
+    "poster": "https://image.tmdb.org/t/p/w780/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt21344706/",
+    "updated_at": "2026-11-20T21:19:14Z"
+  },
+  {
     "id": "kdrama-214582",
     "tmdb_id": 214582,
     "imdb_id": "tt27995115",
