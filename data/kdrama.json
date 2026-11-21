@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-300523",
+    "tmdb_id": 300523,
+    "imdb_id": "tt38336631",
+    "title": "The Blue Road",
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "poster": "https://image.tmdb.org/t/p/w780/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt38336631/",
+    "updated_at": "2026-11-21T10:12:25Z"
+  },
+  {
     "id": "kdrama-136283",
     "tmdb_id": 136283,
     "imdb_id": "tt21344706",
