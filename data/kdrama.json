@@ -1,5 +1,16 @@
 [
   {
+    "id": "kdrama-127231",
+    "tmdb_id": 127231,
+    "imdb_id": "tt33044879",
+    "title": "Shooting Stars",
+    "overview": "Female soccer teams comprised of celebrities and non celebrities, working together to battle it out on the soccer field. Most have little soccer experience, but with the coaching from various Korean soccer legends, the team members grow with a fierce passion that leads to inspiring victories and regretful losses. Each team is grouped by certain types i.e. comedians, models, foreigners, actresses, etc. Unpredictable and exciting, the games are filled with fun intensity and emotions on high.",
+    "poster": "https://image.tmdb.org/t/p/w780/qJsELNZ2fJcI3tPuzM3wTZLjsWh.jpg",
+    "kind": "kdrama",
+    "watch_url": "https://www.playimdb.com/title/tt33044879/",
+    "updated_at": "2026-11-24T21:31:37Z"
+  },
+  {
     "id": "kdrama-300523",
     "tmdb_id": 300523,
     "imdb_id": "tt38336631",
